@@ -1,24 +1,34 @@
 import xml.etree.ElementTree as ET
 import requests
 
+#Define base URL
+global baseURL
+baseURL = "https://sru.gbv.de/opac-de-1?version=1.1&operation=searchRetrieve&maximumRecords=100&recordSchema=picaxml&query=pica.xppn%3D"
 
-#Build URL
-baseURL = 'https://sru.gbv.de/opac-de-1?version=1.1&operation=searchRetrieve&maximumRecords=100&recordSchema=picaxml&query=pica.xppn%3D'
-ppn = "623903229"
-url = baseURL + ppn
+#Open file containing PPNs and create PPN list
+path = input('Enter path or filename: ')
+f = open(path)
+lines = f.readlines()
+global ppnList 
+ppnList = []
+for line in lines:
+    ppnList.append(line.split('\n')[0])
+print(ppnList)
 global data
 
 #API fetch
-def getData(url):
-    response = requests.get(url)
-    data = response.content
-    print(f"status: {response}")
-    print(f"PPN: {ppn}")
-    parseXML(data)
+def getData(baseURL, ppnList):
+    for ppn in ppnList:
+        url = f"{baseURL}{ppn}"
+        print(url)
+        response = requests.get(url)
+        data = response.content
+        print(f"status: {response}")
+        parseXML(data)
     
 #Parse XML
 def parseXML(data):
-    root = ET.fromstring(data)
+    root = ET.fromstring(data)ko
 
     for child in root[2][0][2][0]:
         if child.attrib['tag'] == "021A":
@@ -33,4 +43,4 @@ def parseXML(data):
             for e in child:
                 print(e.tag)
            
-getData(url)
+getData(baseURL, ppnList)

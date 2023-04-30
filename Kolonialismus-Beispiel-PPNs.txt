@@ -1,0 +1,50 @@
+Beispiele aus den digitalisierten Sammlungen, allesamt mit Volltext
+digitale PPN	physische PPN	Anmerkungen
+PPN618443452	PPN251654052	("Deutschland in China")     
+PPN633196762	PPN437689026	(Tropenkoller)              
+PPN63354499X	PPN443546509	(Peters, Weitherzige Kolonialpolitik)            
+PPN63362635X	PPN341633984	(Die gelbe Gefahr als Moralproblem)          
+PPN636876446	PPN146377443	(Die Neger-Seele und die Deutschen in Afrika)        
+PPN636879666	PPN075576031	(Lehrbuch der Handelsgeschichte)            
+PPN641477597	PPN436786850	(Reiterbriefe aus Südwest 1904-1906)           
+PPN660927721	PPN449580326	(Mit der Schutztruppe durch Deutsch-Afrika)          
+PPN662037154	PPN022313214	(Wilhelm Liebknecht 1878)            
+PPN662666305	PPN073861057	(Rußland und Japan im Kampf um die Macht in Ostasien ;)    
+PPN669981923	PPN623903229	 Klar zum Gefecht! : Unsere blauen Jungen im Weltkriege 1914/17              
+PPN671536419	PPN138449678	 12 Kriegs-Aufsätze            
+PPN672453428	PPN448089890	(Max Scheler, Der Genius des Krieges und der Deutsche Krieg, 1915!)            
+PPN672617846	PPN141154128	 Während des Krieges in Deutsch-Ostafrika und Südafrika       
+PPN68251909X	PPN373445733	(Die Herero-Mission)             
+PPN684121549	PPN278746659	(Daniel und Melanie oder Die bösen Negerlein und andere lustige Geschichten)    
+PPN684670836	PPN41900999X	(Der Arbeiter und die deutschen Kolonien)         
+PPN684987767	PPN404022944	Deutsches Schwert auf schwarzer Erd' : 1914/1916              
+PPN688526853	PPN138694893	Kolonialpolitik : mein politisches Vermächtnis            
+PPN71609617X	PPN266914896	(Der Kampf um unsere Kolonien)          
+PPN718083520	PPN410260274	(Moloch England!! : was Deutschland im Fall eines englischen Sieges zu erwarten hätte) Cluster 5
+PPN718511034	PPN404081223	Farbige Hilfsvölker : die militärische Bedeutung von Kolonien für unsere nationale Zukunft             
+PPN719874491	PPN449579697	Kolonialpolitik und Kriegsziele             
+PPN720127882	PPN44945715X	(Englands Blutschuld gegen die weiße Rasse)         
+PPN720753643	PPN408388625	Der Handel der deutschen Kolonien             
+PPN721889913	PPN436950359	(Die deutsche Dampfer-Expedition zum Nyassa-See) 
+PPN725380349	PPN445149035	Geschichte des Weltkrieges 1914-1916 nebst Länderkunde der daran beteiligten Staaten            
+PPN727649620	PPN13897098X	Deutschland am Scheideweg : Grundzüge der Politik          
+PPN730325849	PPN411589903	(Ackermann: Kriegsziele)             
+PPN730517365	PPN141154284	 Unter Kriegswettern in Ostafrika             
+PPN73074566X	PPN141154225	(Die Kolonialdeutschen aus Deutsch-Ostafrika in belgischer Gefangenschaft)        
+PPN731846052	PPN430826095	(Der Krieg der Geister : eine Auslese deutscher und ausländischer Stimmen zum Weltkriege 1914) 
+PPN745461697	PPN409445673	(Warum Italien mit uns gehen muss? : Kolonie Sahara und anderes:)    
+PPN747119600	PPN492273383	 Deutschland in der Notwehr gegen Überfall, Barbarei und Heuchelei : Betrachtungen der "Bremer Nachrichten" über den Völkerkrieg 1914/15             
+PPN749365250	PPN245721746	 Nachrichtenblatt der Ausschüsse für Kriegsaufklärung im Bereiche des II. Armeekorps             
+PPN749375361	PPN624304329	(Marsch! Marsch Hurra! : Die Erlebnisse zweier Kriegsfreiwilliger) Cluster 5 (!)    
+PPN770575986	PPN335474802	(Wie erzieht man am besten den Neger zur Plantagen-Arbeit?)      
+PPN796940487	PPN270681477	(Treue Herero im Innern Afrikas)          
+PPN797023216	PPN407787224	(Auf den Missionsfeldern)            
+PPN798833505	PPN437692264	(Sansibar und das deutsche Ost-Afrika)     
+PPN756021545	PPN14101041X	Afrikanische Kriegsziele
+PPN732404215	PPN446732982	Zwei Jahre kriegsgefangen in West- und Nord-Afrika : Erlebnisse einer deutschen Frau
+PPN731869966	PPN26937759X	Gefangen! : aus den Erlebnissen des Verfassers in zweijähriger französischer Kriegsgefangenschaft ; Reise-Erlebnisse in Afrika und Flucht aus der Gefangenschaft
+PPN719811317	PPN138222797	Meine Erlebnisse als Kommandant des ersten Blockadebrechers. "Durch!" : mit Kriegsmaterial zu Lettow-Vorbeck
+PPN68028866X	PPN434396893	Die Deutsche Kolonie Deutsch-Ostafrika : eine Lehrprobe. Welche Bedeutung hat das Schulunterhaltungsgesetz für den Lehrer?
+PPN66999734X	PPN404891616	Schwert und Myrte : Kriegsroman
+
+
