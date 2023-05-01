@@ -10,8 +10,8 @@ print("""
       Schlagwort und verwandte Begriffe Retrieval
       - - - - - - - - - - - - - - - - - - - - - -
       """)
-path = input('Pfad oder Dateiname eingeben: ')
-f = open(path)
+#path = input('Pfad oder Dateiname eingeben: ')
+f = open('kolonialismus-ppn-testing.txt')
 lines = f.readlines()
 global ppnList 
 ppnList = []
@@ -34,8 +34,8 @@ def getData(baseURL, ppnList):
       """)
         print(url)
         response = requests.get(url)
+        print(f"Status: {response}")
         data = response.content
-        print(f"status: {response}")
         parseXML(data)
     
 #Parse XML
