@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 import requests
 
+
 #Define base URL
 global baseURL
 baseURL = "https://sru.gbv.de/opac-de-1?version=1.1&operation=searchRetrieve&maximumRecords=100&recordSchema=picaxml&query=pica.xppn%3D"

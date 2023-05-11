@@ -1,2 +1,3 @@
-﻿"PPN"	"EPN"	"Titel"	"Verfasser"	"Jahr"	"Schlagwort"
-"219502412"	"1454175036"	"Einführung in die Abteilung Indonesien"	"Hambruch, Paul *1882-1933* ; ID: gnd/139873929"	"1931"	"Museum für Völkerkunde Hamburg ; ID: gnd/6078405-2; Indonesien ; ID: gnd/4026761-1"
+﻿"PPN"	"EPN"	"Titel"	"Verfasser"	"Jahr"	"Schlagwort"	
+"138694893"	"438983009"	"Kolonialpolitik"	"Solf, Wilhelm Heinrich *1862-1936* ; ID: gnd/118748777"	"1919"	"Deutschland ; ID: gnd/4011882-4; Kolonialismus ; ID: gnd/4073624-6; Kolonie ; ID: gnd/4031790-0; Politik ; ID: gnd/4046514-7; Erster Weltkrieg ; ID: gnd/4079163-4"	
+"138694893"	"425496317"	"Kolonialpolitik"	"Solf, Wilhelm Heinrich *1862-1936* ; ID: gnd/118748777"	"1919"	"Deutschland ; ID: gnd/4011882-4; Kolonialismus ; ID: gnd/4073624-6; Kolonie ; ID: gnd/4031790-0; Politik ; ID: gnd/4046514-7; Erster Weltkrieg ; ID: gnd/4079163-4"	

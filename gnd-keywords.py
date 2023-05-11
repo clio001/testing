@@ -1,18 +1,36 @@
 import requests
 import json
 import csv
+import pandas as pd
+import math
 
-global List_GND_IDs, termsList, baseURL
+global List_cbs_SW, List_GND_IDs, termsList, baseURL
+List_cbs_SW = []
 List_GND_IDs = []
 termsList = []
 baseURL = "https://lobid.org/gnd/"
 
+#Import CBS Metadata
+def getCBSData():
+    cbsData_df = pd.read_csv('example.txt', sep='\t')
+    length = len(cbsData_df)
+    
+    i = 0
+    while i < length:
+        List_cbs_SW.append(cbsData_df.loc[i, 'Schlagwort'])
+        i = i + 1
+    getIDsFromExport(List_cbs_SW)    
+
 #Extract GND IDs from CBS export
-def getIDsFromExport():
-    string = "Birma ; ID: gnd/4069500-1; Assam ; ID: gnd/4003249-8; Staatliches Museum für Völkerkunde München ; ID: gnd/2022507-6; Musikinstrument ; ID: gnd/4040851-6; Sammlung ; ID: gnd/4128844-0"	
-
-    listID = string.rsplit(";")
-
+def getIDsFromExport(List_cbs_SW):
+    listID = []
+    
+    for SW in List_cbs_SW:
+        splitElement = SW.rsplit(";")
+        print(splitElement)
+        for element in splitElement:
+            listID.append(element)
+        
     for element in listID:
         x = element.find("/")
         if x > -1:
@@ -37,11 +55,11 @@ Query #{i}: {url}""")
         data = json.loads(response.content)
         printRelatedTerms(data)
 
+#Print related data
 def printRelatedTerms(data):
-    termsList = data["preferredName"]
+    termsList = data["variantName"]
 
-    for term in termsList:
-        print(term)
-
-getIDsFromExport()
+    print(termsList)
+        
+getCBSData()
 
