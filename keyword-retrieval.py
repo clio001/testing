@@ -30,13 +30,13 @@ def getData(baseURL, ppnList):
     for ppn in ppnList:
         url = f"{baseURL}{ppn}"
         print("""
-      URL:
+      Record:
       """)
-        print(url)
         response = requests.get(url)
         print(f"Status: {response}")
         data = response.content
         parseXML(data)
+        print(url)
     
 #Parse XML
 def parseXML(data):
@@ -51,7 +51,7 @@ def parseXML(data):
                 if e.attrib['code'] == "A":
                     print(f"Autor*in: {e.text}")
                         
-        if child.attrib['tag'] == "044A":
+        if child.attrib['tag'] == "044K":
             for e in child:
                 print(e.tag)
            
