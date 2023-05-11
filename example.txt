@@ -1,0 +1,2 @@
+﻿"PPN"	"EPN"	"Titel"	"Verfasser"	"Jahr"	"Schlagwort"
+"219502412"	"1454175036"	"Einführung in die Abteilung Indonesien"	"Hambruch, Paul *1882-1933* ; ID: gnd/139873929"	"1931"	"Museum für Völkerkunde Hamburg ; ID: gnd/6078405-2; Indonesien ; ID: gnd/4026761-1"
