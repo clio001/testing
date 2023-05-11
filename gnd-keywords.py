@@ -1,8 +1,4 @@
-import requests
-import json
-import csv
-import pandas as pd
-import math
+import requests, json, csv, pandas as pd
 
 global List_cbs_SW, List_GND_IDs, termsList, baseURL
 List_cbs_SW = []
@@ -27,7 +23,6 @@ def getIDsFromExport(List_cbs_SW):
     
     for SW in List_cbs_SW:
         splitElement = SW.rsplit(";")
-        print(splitElement)
         for element in splitElement:
             listID.append(element)
         
@@ -40,7 +35,7 @@ def getIDsFromExport(List_cbs_SW):
     if List_GND_IDs == []:
         print("Kein Schlagwort gefunden")
     else:        
-        print(f"Liste der Schlagwort GND IDs: {List_GND_IDs}")
+        #print(f"Liste der Schlagwort GND IDs: {List_GND_IDs}")
         getRelatedTerms(baseURL, List_GND_IDs)
 
 #Query GND for related terms with IDs from CBS exort
