@@ -15,6 +15,8 @@ def getData(ppn):
 def parseData(data):
     root = ET.fromstring(data)
     record = root[2][0][2][0]
+    
+    swName = ""
         
     for datafield in record:
         if datafield.attrib['tag'] == "021A":
@@ -33,11 +35,21 @@ def parseData(data):
         if datafield.attrib['tag'] == "044K":
             for subfield in datafield:
                 if subfield.attrib['code'] == "a":
-                    print(f"044K: {subfield.text}")
-
+                    swName = subfield.text
+                if subfield.attrib['code'] == "7":
+                    gnd = subfield.text
+            print(f"044K: {swName} {gnd}")
+            
         if datafield.attrib['tag'] == "045Q":
             for subfield in datafield:
                 if subfield.attrib['code'] == "j":
                     print(f"045Q: {subfield.text}")
+        
+        if datafield.attrib['tag'] == "244Z":
+            for subfield in datafield:
+                if subfield.attrib['code'] == "a":
+                    if subfield.text == "Digitale Sammlung Deutscher Kolonialismus":
+                        print("Match")
+
 
 getData(ppn)
