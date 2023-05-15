@@ -8,12 +8,12 @@ trefferList = []
 
 def createFiles():
     file = open('trefferliste.txt', 'a')
-    file.write(f"""TREFFERLISTE
-Stand: {datetime.datetime.now()}\n\n""")
+    file.write(f"""Treffer: Digitale Sammlung Deutscher Kolonialismus
+Suche am: {datetime.datetime.now()}\n\n""")
     
     noRecordFile = open('no-records.txt', 'a')
     noRecordFile.write(f"""KEINE ERGEBNISSE IN SRU-ABFRAGE
-Stand: {datetime.datetime.now()}\n\n""")
+Suche am: {datetime.datetime.now()}\n\n""")
 
 def importData():
     f = open('test-ppns.txt')
@@ -34,6 +34,7 @@ def getData(ppnList):
 def parseData(data,ppn):
     root = ET.fromstring(data)
     if root[1].text == "0":
+        print(f"Kein K10plus-Eintrag: PPN{ppn}")
         noRecordFile = open('no-records.txt', 'a')
         noRecordFile.write(ppn + '\n')
         noRecordFile.close()
@@ -46,7 +47,7 @@ def parseData(data,ppn):
                 for subfield in datafield:
                     if subfield.attrib['code'] == "a":
                         if subfield.text == "Digitale Sammlung Deutscher Kolonialismus":
-                            print(f"Treffer: PPN{ppn} in DSDK (244Z) gefunden")
+                            print(f"Treffer: PPN{ppn} in Digitale Sammlung Deutscher Kolonialismus gefunden")
                             file = open('trefferliste.txt', 'a')
                             file.write(ppn + '\n')
                             file.close()
