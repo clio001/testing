@@ -10,7 +10,7 @@ def importData():
     lines = f.readlines()
     for line in lines:
         ppnList.append(line.split('\n')[0])
-    print(ppnList)
+        
     getData(ppnList)
 
 def getData(ppnList):
@@ -30,7 +30,7 @@ def parseData(data,ppn):
             for subfield in datafield:
                 if subfield.attrib['code'] == "a":
                     if subfield.text == "Digitale Sammlung Deutscher Kolonialismus":
-                        print(f"Match: PPN{ppn} in DSDK (244Z) gefunden")
+                        print(f"Treffer: PPN{ppn} in DSDK (244Z) gefunden")
 
 
 importData()
