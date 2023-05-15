@@ -2,8 +2,9 @@
 
 import requests, csv, xml.etree.ElementTree as ET
 
-global ppnList
+global ppnList, trefferList
 ppnList = []
+trefferList = []
 
 def importData():
     f = open('test-ppns.txt')
@@ -31,6 +32,8 @@ def parseData(data,ppn):
                 if subfield.attrib['code'] == "a":
                     if subfield.text == "Digitale Sammlung Deutscher Kolonialismus":
                         print(f"Treffer: PPN{ppn} in DSDK (244Z) gefunden")
-
+                        file = open('trefferliste.txt', 'a')
+                        file.write(ppn + '\n')
+                        file.close()
 
 importData()
