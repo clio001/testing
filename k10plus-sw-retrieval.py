@@ -10,22 +10,7 @@ def createOutputFile():
     f = open('sw-physischePPNs-117467.csv', 'a')
     f.write("DigitalePPN, PhysischePPN, ddc5010, lcc5030, rvk5090, bk5301, loc5500, sw5550, gab5570" + '\n')
 
-def importPPNs():
-    ppn_df = pd.read_csv('117467physischeUnddigitalePPNs.csv')
 
-    i = 0
-    while i < len(ppn_df):
-        ppnList.append(ppn_df.loc[i, 'physischePPN'])
-        i = i + 1
-    
-    for element in ppnList:
-        cleanElement = element.replace("PPN", "")
-        cleanList.append(cleanElement)
-    
-    print("Clean list created.")
-    
-        
-    
 def getData():
     ppn_df = pd.read_csv('117467physischeUnddigitalePPNs.csv')
     digiPPN = ""
