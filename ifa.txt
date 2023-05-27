@@ -1,0 +1,2283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='./oai2.xsl'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2023-05-27T10:41:56Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="kolonialismus">https://www.digishelf.de/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>1337816892</identifier>
+        <datestamp>2020-12-11T12:09:48Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die Farm im Steppenlande</dc:title>
+          <dc:creator>Aschenborn, Hans Anton</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Neumann</dc:publisher>
+          <dc:date>1925</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1337816892</dc:identifier>
+          <dc:source>Aschenborn, Hans Anton: Die Farm im Steppenlande, Neudamm: Neumann 1925.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1168073766</identifier>
+        <datestamp>2021-08-16T09:20:05Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Kolonieen als Bedürfnis unserer nationalen Entwickelung</dc:title>
+          <dc:creator>Fabri, Timotheus</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Winter</dc:publisher>
+          <dc:date>1884</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1168073766</dc:identifier>
+          <dc:source>Fabri, Timotheus: Kolonieen als Bedürfnis unserer nationalen Entwickelung, Heidelberg: Winter 1884.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1157178456</identifier>
+        <datestamp>2023-02-13T07:50:14Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Dr. [Doktor] Ludwig Krapf, weil. Missionar in Ostafrika</dc:title>
+          <dc:creator>Claus, Wilhelm</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Spittler</dc:publisher>
+          <dc:date>1882</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1157178456</dc:identifier>
+          <dc:source>Claus, Wilhelm: Dr. [Doktor] Ludwig Krapf, weil. Missionar in Ostafrika, Basel: Spittler 1882.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1123799253</identifier>
+        <datestamp>2021-12-03T11:45:09Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutschlands koloniale Politik</dc:title>
+          <dc:creator>Stegemann, Richard</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Puttkammer &amp; Mühlbrecht</dc:publisher>
+          <dc:date>1884</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1123799253</dc:identifier>
+          <dc:source>Stegemann, Richard: Deutschlands koloniale Politik, Berlin: Puttkammer &amp; Mühlbrecht 1884.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358180091</identifier>
+        <datestamp>2021-12-06T12:50:48Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Koloniale und politische Aufsätze und Reden</dc:title>
+          <dc:creator>Scharlach, ...</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Mittler</dc:publisher>
+          <dc:date>1903</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358180091</dc:identifier>
+          <dc:source>Scharlach, ...: Koloniale und politische Aufsätze und Reden, Berlin: Mittler 1903.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>115739891X</identifier>
+        <datestamp>2021-12-06T14:07:58Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Wie Deutschland seine Kolonien bekam!</dc:title>
+          <dc:creator>Burger, Alexander</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Bonz</dc:publisher>
+          <dc:date>1913</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=115739891X</dc:identifier>
+          <dc:source>Burger, Alexander: Wie Deutschland seine Kolonien bekam!, Stuttgart: Bonz 1913.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358069875</identifier>
+        <datestamp>2021-12-06T14:16:57Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Pegasus im Wüstenland</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Selbstverlag</dc:publisher>
+          <dc:date>1919</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358069875</dc:identifier>
+          <dc:source>-: Pegasus im Wüstenland, Lüderitzbucht: Selbstverlag 1919.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358030138</identifier>
+        <datestamp>2021-12-06T14:18:29Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Entwurf eines Planes zur Gründung von Colonien für Deutschland</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Decker</dc:publisher>
+          <dc:date>1872</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358030138</dc:identifier>
+          <dc:source>-: Entwurf eines Planes zur Gründung von Colonien für Deutschland, Berlin: Decker 1872.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1135172870</identifier>
+        <datestamp>2021-12-06T14:19:40Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Das deutsche Kolonialreich und die Mission</dc:title>
+          <dc:creator>Richter, Julius</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verl. d. Basler Missionsbuchhandlung</dc:publisher>
+          <dc:date>1914</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1135172870</dc:identifier>
+          <dc:source>Richter, Julius: Das deutsche Kolonialreich und die Mission, Basel: Verl. d. Basler Missionsbuchhandlung 1914.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358392390</identifier>
+        <datestamp>2021-12-06T14:23:03Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Wir Schutztruppler</dc:title>
+          <dc:creator>Wagner, Rudolf</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verl. Anst. Buntdruck</dc:publisher>
+          <dc:date>1913</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358392390</dc:identifier>
+          <dc:source>Wagner, Rudolf: Wir Schutztruppler, Berlin: Verl. Anst. Buntdruck 1913.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1334675953</identifier>
+        <datestamp>2021-12-06T14:34:02Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutsch-national</dc:title>
+          <dc:creator>Peters, Carl</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Walther &amp; Apolant</dc:publisher>
+          <dc:date>1887</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1334675953</dc:identifier>
+          <dc:source>Peters, Carl: Deutsch-national, Berlin: Walther &amp; Apolant 1887.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358266573</identifier>
+        <datestamp>2021-12-06T14:34:38Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die deutschen Schutzgebiete in ihrer wirtschaftlichen Entwicklung bis zum Jahr 1893</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Uhl</dc:publisher>
+          <dc:date>1894</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358266573</dc:identifier>
+          <dc:source>-: Die deutschen Schutzgebiete in ihrer wirtschaftlichen Entwicklung bis zum Jahr 1893, Leipzig: Uhl 1894.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358027633</identifier>
+        <datestamp>2021-12-06T14:35:13Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutschlands Kolonien</dc:title>
+          <dc:creator>Frenzel, Karl</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Meyer</dc:publisher>
+          <dc:date>1889</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358027633</dc:identifier>
+          <dc:source>Frenzel, Karl: Deutschlands Kolonien, Hannover: Meyer 1889.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>165637949X</identifier>
+        <datestamp>2023-02-13T07:50:24Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die staatsrechtliche Stellung der deutschen Schutzgebiete</dc:title>
+          <dc:creator>Meyer, Georg</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Duncker &amp; Humblot</dc:publisher>
+          <dc:date>1888</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=165637949X</dc:identifier>
+          <dc:source>Meyer, Georg: Die staatsrechtliche Stellung der deutschen Schutzgebiete, Leipzig: Duncker &amp; Humblot 1888.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1347082212</identifier>
+        <datestamp>2023-02-13T07:51:23Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutsche Kolonialreform</dc:title>
+          <dc:creator>Walz-Eidenbenz, Fritz</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Zürcher &amp; Furrer</dc:publisher>
+          <dc:date>1905</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1347082212</dc:identifier>
+          <dc:source>Walz-Eidenbenz, Fritz: Deutsche Kolonialreform; Staatsstreich oder Reformen!, Zürich: Zürcher &amp; Furrer 1905.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1090326602</identifier>
+        <datestamp>2023-05-12T12:01:19Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Staatsstreich oder Reformen!</dc:title>
+          <dc:creator>Walz-Eidenbenz, Fritz</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Zürcher &amp; Furrer</dc:publisher>
+          <dc:date>19XX</dc:date>
+          <dc:type>Multivolume work</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1090326602</dc:identifier>
+          <dc:source>Walz-Eidenbenz, Fritz: Staatsstreich oder Reformen!, Zürich: Zürcher &amp; Furrer 19XX.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1114649678</identifier>
+        <datestamp>2021-12-07T09:46:03Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Unsere Kolonialwirtschaft in ihrer Bedeutung für Industrie, Handel und Landwirtschaft</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Kolonial-Wirtschaftliches Komitee</dc:publisher>
+          <dc:date>1910</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1114649678</dc:identifier>
+          <dc:source>-: Unsere Kolonialwirtschaft in ihrer Bedeutung für Industrie, Handel und Landwirtschaft, Berlin: Kolonial-Wirtschaftliches Komitee 1910.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1105769089</identifier>
+        <datestamp>2021-12-07T09:46:34Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die Rechtsverhältnisse der Kolonialbeamten</dc:title>
+          <dc:creator>Salge, Ernst</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Universität Münster</dc:publisher>
+          <dc:date>1910</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1105769089</dc:identifier>
+          <dc:source>Salge, Ernst: Die Rechtsverhältnisse der Kolonialbeamten, Borna: Universität Münster 1910.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1174545445</identifier>
+        <datestamp>2021-12-07T09:48:19Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die wirtschaftliche Bedeutung unserer Kolonien</dc:title>
+          <dc:creator>Jöhlinger, Otto</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Reimer</dc:publisher>
+          <dc:date>1910</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1174545445</dc:identifier>
+          <dc:source>Jöhlinger, Otto: Die wirtschaftliche Bedeutung unserer Kolonien, Berlin: Reimer 1910.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358018774</identifier>
+        <datestamp>2021-12-07T09:48:46Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Wozu hat Deutschland eigentlich Kolonien?</dc:title>
+          <dc:creator>Michaelis, Carl Eduard</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Meinecke</dc:publisher>
+          <dc:date>1911</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358018774</dc:identifier>
+          <dc:source>Michaelis, Carl Eduard: Wozu hat Deutschland eigentlich Kolonien?, Berlin: Meinecke 1911.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358067147</identifier>
+        <datestamp>2021-12-07T09:50:24Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Im überseeischen Deutschland</dc:title>
+          <dc:creator>Barth, Christian Gottlob</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Geibel</dc:publisher>
+          <dc:date>1910</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358067147</dc:identifier>
+          <dc:source>Barth, Christian Gottlob: Im überseeischen Deutschland, Altenburg, S.-A.: Geibel 1910.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1073761711</identifier>
+        <datestamp>2021-12-07T09:51:29Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Das deutsche Kolonialwesen</dc:title>
+          <dc:creator>Rohrbach, Paul</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Gloeckner</dc:publisher>
+          <dc:date>1911</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1073761711</dc:identifier>
+          <dc:source>Rohrbach, Paul: Das deutsche Kolonialwesen, Leipzig: Gloeckner 1911.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1343859107</identifier>
+        <datestamp>2021-12-07T09:51:55Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Das Privatrecht der Farbigen in den deutschen Schutzgebieten</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Westfälische Vereinsdruckerei</dc:publisher>
+          <dc:date>1913</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1343859107</dc:identifier>
+          <dc:source>-: Das Privatrecht der Farbigen in den deutschen Schutzgebieten, Münster: Westfälische Vereinsdruckerei 1913.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358048584</identifier>
+        <datestamp>2023-02-13T07:51:24Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die Erwerber der deutschen Kolonien</dc:title>
+          <dc:creator>Opitz, Walter</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Brandstetter</dc:publisher>
+          <dc:date>1909</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358048584</dc:identifier>
+          <dc:source>Opitz, Walter: Die Erwerber der deutschen Kolonien; Die Helden des Deutschtums, Leipzig: Brandstetter 1909.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358048517</identifier>
+        <datestamp>2023-05-12T11:47:51Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die Helden des Deutschtums</dc:title>
+          <dc:creator>Opitz, Walter</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Brandstetter</dc:publisher>
+          <dc:date>19XX</dc:date>
+          <dc:type>Multivolume work</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358048517</dc:identifier>
+          <dc:source>Opitz, Walter: Die Helden des Deutschtums, Leipzig: Brandstetter 19XX.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358368287</identifier>
+        <datestamp>2021-12-07T09:57:20Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Unsere Kolonialwirtschaft in ihrer Bedeutung für Industrie, Handel und Landwirtschaft</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Kolonialwirtschaftl. Kommittee</dc:publisher>
+          <dc:date>1914</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358368287</dc:identifier>
+          <dc:source>-: Unsere Kolonialwirtschaft in ihrer Bedeutung für Industrie, Handel und Landwirtschaft, Berlin: Kolonialwirtschaftl. Kommittee 1914.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1173754474</identifier>
+        <datestamp>2021-12-07T10:00:13Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die deutschen Kolonien</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Kösel</dc:publisher>
+          <dc:date>1912</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1173754474</dc:identifier>
+          <dc:source>-: Die deutschen Kolonien, Kempten [u.a.]: Kösel 1912.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1173756191</identifier>
+        <datestamp>2021-12-07T10:03:27Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Rechte und Pflichten in den deutschen Schutzgebieten</dc:title>
+          <dc:creator>Mallmann, Rudolf</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Curtius</dc:publisher>
+          <dc:date>1913</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1173756191</dc:identifier>
+          <dc:source>Mallmann, Rudolf: Rechte und Pflichten in den deutschen Schutzgebieten, Berlin: Curtius 1913.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1140807587</identifier>
+        <datestamp>2021-12-07T10:09:22Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutsche Kolonisatoren in Afrika</dc:title>
+          <dc:creator>Lewin, Percy E.</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Orell Füßli</dc:publisher>
+          <dc:date>1918</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1140807587</dc:identifier>
+          <dc:source>Lewin, Percy E.: Deutsche Kolonisatoren in Afrika, Zürich: Orell Füßli 1918.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358061858</identifier>
+        <datestamp>2021-12-07T10:10:19Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Afrika für Europa</dc:title>
+          <dc:creator>Schnee, Heinrich</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Sachers &amp; Kuschel</dc:publisher>
+          <dc:date>1924</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358061858</dc:identifier>
+          <dc:source>Schnee, Heinrich: Afrika für Europa, Berlin: Sachers &amp; Kuschel 1924.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1191325040</identifier>
+        <datestamp>2021-12-07T10:13:07Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die deutschen Kolonien unter fremder Mandatherrschaft</dc:title>
+          <dc:creator>Schnee, Heinrich</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Quelle &amp; Meyer</dc:publisher>
+          <dc:date>1922</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1191325040</dc:identifier>
+          <dc:source>Schnee, Heinrich: Die deutschen Kolonien unter fremder Mandatherrschaft, Leipzig: Quelle &amp; Meyer 1922.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1182577237</identifier>
+        <datestamp>2021-12-07T10:15:08Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Aussichten für den Bergbau in den deutschen Kolonien</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verl. d. Kolonial-Wirtschaftlichen Komitees</dc:publisher>
+          <dc:date>1909</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1182577237</dc:identifier>
+          <dc:source>-: Aussichten für den Bergbau in den deutschen Kolonien, Berlin: Verl. d. Kolonial-Wirtschaftlichen Komitees 1909.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358069212</identifier>
+        <datestamp>2021-12-07T10:19:10Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Habari</dc:title>
+          <dc:creator>Rothhaupt, Wilhelm</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Strecker &amp; Schröder</dc:publisher>
+          <dc:date>1925</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358069212</dc:identifier>
+          <dc:source>Rothhaupt, Wilhelm: Habari, Stuttgart: Strecker &amp; Schröder 1925.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1343281032</identifier>
+        <datestamp>2021-12-07T10:24:15Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Meine Erlebnisse während des Feldzuges gegen die Hereros und Witbois nach meinem Tagebuch</dc:title>
+          <dc:creator>Auer von Herrenkirchen, Helmuth</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Eisenschmidt</dc:publisher>
+          <dc:date>1912</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1343281032</dc:identifier>
+          <dc:source>Auer von Herrenkirchen, Helmuth: Meine Erlebnisse während des Feldzuges gegen die Hereros und Witbois nach meinem Tagebuch, Berlin: Eisenschmidt 1912.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1135231257</identifier>
+        <datestamp>2021-12-07T10:25:12Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Erinnerungen aus meinen Pflanzerjahren in Deutsch-Ostafrika</dc:title>
+          <dc:creator>Kaundinya, R.</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Haberland</dc:publisher>
+          <dc:date>1918</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1135231257</dc:identifier>
+          <dc:source>Kaundinya, R.: Erinnerungen aus meinen Pflanzerjahren in Deutsch-Ostafrika, Leipzig: Haberland 1918.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1173085718</identifier>
+        <datestamp>2023-02-13T07:51:26Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Dritter Band</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Gressner &amp; Schramm</dc:publisher>
+          <dc:date>1885</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1173085718</dc:identifier>
+          <dc:source>-: Dritter Band; Afrika Hand-Lexikon, Leipzig: Gressner &amp; Schramm 1885.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1173085467</identifier>
+        <datestamp>2023-05-12T09:20:21Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Afrika Hand-Lexikon</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Gressner &amp; Schramm</dc:publisher>
+          <dc:date>19XX</dc:date>
+          <dc:type>Multivolume work</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1173085467</dc:identifier>
+          <dc:source>-: Afrika Hand-Lexikon, Leipzig: Gressner &amp; Schramm 19XX.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1173085610</identifier>
+        <datestamp>2023-02-13T07:51:25Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>1885</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Gressner &amp; Schramm</dc:publisher>
+          <dc:date>1885</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1173085610</dc:identifier>
+          <dc:source>-: 1885; Afrika Hand-Lexikon, Leipzig: Gressner &amp; Schramm 1885.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>443843163</identifier>
+        <datestamp>2023-02-13T07:51:27Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Kritische Rundschau über ältere deutsche Ansiedlungen in den Tropen zur Feststellung der Bedeutung von Togo, Kamerun und Deutsch-Ostafrika für die deutsche Auswanderung</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>J. W. Heeg</dc:publisher>
+          <dc:date>1905</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=443843163</dc:identifier>
+          <dc:source>-: Kritische Rundschau über ältere deutsche Ansiedlungen in den Tropen zur Feststellung der Bedeutung von Togo, Kamerun und Deutsch-Ostafrika für die deutsche Auswanderung, Bonn: J. W. Heeg 1905.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1178610888</identifier>
+        <datestamp>2023-02-13T07:51:28Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutsche Männer in Afrika</dc:title>
+          <dc:creator>Weidmann, Conrad</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Nöhring</dc:publisher>
+          <dc:date>1894</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1178610888</dc:identifier>
+          <dc:source>Weidmann, Conrad: Deutsche Männer in Afrika, Lübeck: Nöhring 1894.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1158439911</identifier>
+        <datestamp>2023-02-13T07:51:29Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Abriß der Geschichte Afrikas</dc:title>
+          <dc:creator>Wirth, Albrecht</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Georgi</dc:publisher>
+          <dc:date>1900</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1158439911</dc:identifier>
+          <dc:source>Wirth, Albrecht: Abriß der Geschichte Afrikas, Bonn: Georgi 1900.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1126984264</identifier>
+        <datestamp>2023-02-13T07:51:31Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Im Reiche des Meergottes</dc:title>
+          <dc:creator>Ziegfeld, Arnold Hillen</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Union Dt. Verl.-Anst.</dc:publisher>
+          <dc:date>1923</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1126984264</dc:identifier>
+          <dc:source>Ziegfeld, Arnold Hillen: Im Reiche des Meergottes, Leipzig [u.a.]: Union Dt. Verl.-Anst. 1923.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1408192055</identifier>
+        <datestamp>2023-05-12T09:46:32Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Geschichte der Aufteilung und Kolonisation Afrikas seit dem Zeitalter der Entdeckungen</dc:title>
+          <dc:creator>Darmstaedter, Paul</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Vereinigung Wiss. Verl.</dc:publisher>
+          <dc:date>19XX</dc:date>
+          <dc:type>Multivolume work</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1408192055</dc:identifier>
+          <dc:source>Darmstaedter, Paul: Geschichte der Aufteilung und Kolonisation Afrikas seit dem Zeitalter der Entdeckungen, Berlin: Vereinigung Wiss. Verl. 19XX.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1072603608</identifier>
+        <datestamp>2023-02-13T07:51:30Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>1415 - 1870</dc:title>
+          <dc:creator>Darmstaedter, Paul</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Göschen</dc:publisher>
+          <dc:date>1913</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1072603608</dc:identifier>
+          <dc:source>Darmstaedter, Paul: 1415 - 1870; Geschichte der Aufteilung und Kolonisation Afrikas seit dem Zeitalter der Entdeckungen, Berlin: Göschen 1913.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1341558010</identifier>
+        <datestamp>2023-02-13T07:51:32Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Von Tripolis nach Alexandrien : Beschreibung der im Auftrage Sr. Majestät des Königs von Preussen in den Jahren 1868 und 1869 ausgeführten Reise</dc:title>
+          <dc:creator>Rohlfs, Gerhard</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Fischer</dc:publisher>
+          <dc:date>1885</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1341558010</dc:identifier>
+          <dc:source>Rohlfs, Gerhard: Von Tripolis nach Alexandrien : Beschreibung der im Auftrage Sr. Majestät des Königs von Preussen in den Jahren 1868 und 1869 ausgeführten Reise; Von Tripolis nach Alexandrien, Norden: Fischer 1885.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>117713974X</identifier>
+        <datestamp>2023-05-12T09:53:58Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Von Tripolis nach Alexandrien</dc:title>
+          <dc:creator>Rohlfs, Gerhard</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Kühtmann</dc:publisher>
+          <dc:date>18XX</dc:date>
+          <dc:type>Multivolume work</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=117713974X</dc:identifier>
+          <dc:source>Rohlfs, Gerhard: Von Tripolis nach Alexandrien, Bremen: Kühtmann 18XX.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1128617838</identifier>
+        <datestamp>2023-02-13T07:51:33Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die Atlasländer</dc:title>
+          <dc:creator>Banse, Ewald</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Teubner</dc:publisher>
+          <dc:date>1910</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1128617838</dc:identifier>
+          <dc:source>Banse, Ewald: Die Atlasländer; Orient, Leipzig: Teubner 1910.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1114333816</identifier>
+        <datestamp>2023-05-12T09:54:47Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Orient</dc:title>
+          <dc:creator>Banse, Ewald</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Teubner</dc:publisher>
+          <dc:date>19XX</dc:date>
+          <dc:type>Multivolume work</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1114333816</dc:identifier>
+          <dc:source>Banse, Ewald: Orient, Leipzig: Teubner 19XX.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1337880493</identifier>
+        <datestamp>2023-02-13T07:51:33Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Entdeckungen in dem nördlichen und dem mittleren Africa</dc:title>
+          <dc:creator>Denham, Dixon</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Bran</dc:publisher>
+          <dc:date>1826</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1337880493</dc:identifier>
+          <dc:source>Denham, Dixon: Entdeckungen in dem nördlichen und dem mittleren Africa, Jena: Bran 1826.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>133771707X</identifier>
+        <datestamp>2023-02-13T07:51:34Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Afrikanisches Liederbuch</dc:title>
+          <dc:creator>Engel, Ernst</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Clauss</dc:publisher>
+          <dc:date>1919</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=133771707X</dc:identifier>
+          <dc:source>Engel, Ernst: Afrikanisches Liederbuch, Saarbrücken: Clauss 1919.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>133771755X</identifier>
+        <datestamp>2023-02-13T07:51:35Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die Geheimnisse der Namib</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Safari-Verlag</dc:publisher>
+          <dc:date>1921</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=133771755X</dc:identifier>
+          <dc:source>-: Die Geheimnisse der Namib, Berlin: Safari-Verlag 1921.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1337718556</identifier>
+        <datestamp>2023-02-13T07:51:35Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Im Lande der Leoparden</dc:title>
+          <dc:creator>Heimanns, Heinrich</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Xaverius Verlagsbuchhandlg</dc:publisher>
+          <dc:date>1925</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1337718556</dc:identifier>
+          <dc:source>Heimanns, Heinrich: Im Lande der Leoparden, Aachen: Xaverius Verlagsbuchhandlg 1925.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1159956960</identifier>
+        <datestamp>2023-02-13T07:51:36Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Schreckenstage in Kumase</dc:title>
+          <dc:creator>Steiner, Paul</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verl. d. Missionsbuchh.</dc:publisher>
+          <dc:date>1901</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1159956960</dc:identifier>
+          <dc:source>Steiner, Paul: Schreckenstage in Kumase, Basel: Verl. d. Missionsbuchh. 1901.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1169617565</identifier>
+        <datestamp>2023-02-13T07:51:36Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Mein erster Weg zum Kongo</dc:title>
+          <dc:creator>Stanley, Henry Morton</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Brockhaus</dc:publisher>
+          <dc:date>1922</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1169617565</dc:identifier>
+          <dc:source>Stanley, Henry Morton: Mein erster Weg zum Kongo, Leipzig: Brockhaus 1922.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1338691414</identifier>
+        <datestamp>2023-02-13T07:51:37Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Unter Zwergen und Gorillas</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Brockhaus</dc:publisher>
+          <dc:date>1925</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1338691414</dc:identifier>
+          <dc:source>-: Unter Zwergen und Gorillas, Leipzig: Brockhaus 1925.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1129692930</identifier>
+        <datestamp>2023-02-13T07:51:38Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Afrika</dc:title>
+          <dc:creator>Jaeger, Fritz</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>de Gruyter</dc:publisher>
+          <dc:date>19XX</dc:date>
+          <dc:type>Multivolume work</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1129692930</dc:identifier>
+          <dc:source>Jaeger, Fritz: Afrika, Berlin: de Gruyter 19XX.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1173088075</identifier>
+        <datestamp>2023-02-13T07:51:39Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Physische Erdkunde</dc:title>
+          <dc:creator>Jaeger, Fritz</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>de Gruyter</dc:publisher>
+          <dc:date>1925</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1173088075</dc:identifier>
+          <dc:source>Jaeger, Fritz: Physische Erdkunde; Afrika, Berlin: de Gruyter 1925.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1173457488</identifier>
+        <datestamp>2023-02-13T07:51:39Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>The vegetation and soils of Africa</dc:title>
+          <dc:creator>Marbut, Curtis Fletcher</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>American Geographical Society</dc:publisher>
+          <dc:date>1923</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1173457488</dc:identifier>
+          <dc:source>Marbut, Curtis Fletcher: The vegetation and soils of Africa, New York: American Geographical Society 1923.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1094810827</identifier>
+        <datestamp>2023-02-13T07:51:42Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Gustav Nachtigal</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Schall</dc:publisher>
+          <dc:date>1914</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1094810827</dc:identifier>
+          <dc:source>-: Gustav Nachtigal, Berlin: Schall 1914.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1659206529</identifier>
+        <datestamp>2023-02-13T07:51:43Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Emin Pascha</dc:title>
+          <dc:creator>Schweitzer, Georg</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Walther</dc:publisher>
+          <dc:date>1898</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1659206529</dc:identifier>
+          <dc:source>Schweitzer, Georg: Emin Pascha, Berlin: Walther 1898.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1136542418</identifier>
+        <datestamp>2023-02-13T07:51:44Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die Dichtung der Afrikaner</dc:title>
+          <dc:creator>Meinhof, Carl</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Berliner Evang. Missionsges.</dc:publisher>
+          <dc:date>1911</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1136542418</dc:identifier>
+          <dc:source>Meinhof, Carl: Die Dichtung der Afrikaner, Berlin: Berliner Evang. Missionsges. 1911.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1340585871</identifier>
+        <datestamp>2023-02-13T07:51:44Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Der Kagera-Nil</dc:title>
+          <dc:creator>Fitzner, Rudolf</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Schall</dc:publisher>
+          <dc:date>1899</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1340585871</dc:identifier>
+          <dc:source>Fitzner, Rudolf: Der Kagera-Nil, Berlin: Schall 1899.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1117283798</identifier>
+        <datestamp>2023-02-13T07:51:45Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Ruanda</dc:title>
+          <dc:creator>Johanssen, Ernst</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verlagshandl. der Anstalt Bethel</dc:publisher>
+          <dc:date>1912</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1117283798</dc:identifier>
+          <dc:source>Johanssen, Ernst: Ruanda, Bethel bei Bielefeld: Verlagshandl. der Anstalt Bethel 1912.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1111546967</identifier>
+        <datestamp>2023-02-13T07:51:47Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bevölkerung und Aufenthaltsrecht in den deutschen Schutzgebieten Afrikas</dc:title>
+          <dc:creator>Lücke, Joachim Heinrich</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Friederichsen</dc:publisher>
+          <dc:date>1913</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1111546967</dc:identifier>
+          <dc:source>Lücke, Joachim Heinrich: Bevölkerung und Aufenthaltsrecht in den deutschen Schutzgebieten Afrikas, Hamburg: Friederichsen 1913.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1336558709</identifier>
+        <datestamp>2023-02-13T07:51:49Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Schilderungen der Suaheli von Expeditionen v. Wissmanns, Dr. Bumillers, Graf v. Götzens, und anderer</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Vandenhoeck &amp; Ruprecht</dc:publisher>
+          <dc:date>1901</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1336558709</dc:identifier>
+          <dc:source>-: Schilderungen der Suaheli von Expeditionen v. Wissmanns, Dr. Bumillers, Graf v. Götzens, und anderer, Göttingen: Vandenhoeck &amp; Ruprecht 1901.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1337842192</identifier>
+        <datestamp>2023-02-13T07:51:51Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Erlebnisse und Abenteuer eines Deutschen bei der französischen Fremdenlegion in Afrika &lt;1856 bis 1958&gt;</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Kollmann</dc:publisher>
+          <dc:date>1859</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1337842192</dc:identifier>
+          <dc:source>-: Erlebnisse und Abenteuer eines Deutschen bei der französischen Fremdenlegion in Afrika &lt;1856 bis 1958&gt;, Leipzig: Kollmann 1859.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1079840737</identifier>
+        <datestamp>2023-02-13T07:51:52Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Achtzehn Jahre Farmer in Afrika</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>List</dc:publisher>
+          <dc:date>1925</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1079840737</dc:identifier>
+          <dc:source>-: Achtzehn Jahre Farmer in Afrika, Leipzig: List 1925.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1153147017</identifier>
+        <datestamp>2023-02-13T07:51:55Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Um Afrika</dc:title>
+          <dc:creator>Joest, Wilhelm</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Dumont-Schauberg</dc:publisher>
+          <dc:date>1885</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1153147017</dc:identifier>
+          <dc:source>Joest, Wilhelm: Um Afrika, Köln: Dumont-Schauberg 1885.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1070313203</identifier>
+        <datestamp>2023-02-13T07:50:22Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bismarcks Kolonialpolitik</dc:title>
+          <dc:creator>Hagen, Maximilian</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Perthes</dc:publisher>
+          <dc:date>1923</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1070313203</dc:identifier>
+          <dc:source>Hagen, Maximilian: Bismarcks Kolonialpolitik, Stuttgart: Perthes 1923.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1138356077</identifier>
+        <datestamp>2023-02-13T07:50:26Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Wie erschliessen wir unsere Kolonien?</dc:title>
+          <dc:creator>Blum, Otto</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Reimer</dc:publisher>
+          <dc:date>1907</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1138356077</dc:identifier>
+          <dc:source>Blum, Otto: Wie erschliessen wir unsere Kolonien?, Berlin: Reimer 1907.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1325768804</identifier>
+        <datestamp>2021-12-09T22:17:52Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Flotte und Kolonie im Spiegel deutscher Dichtung</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Heckner</dc:publisher>
+          <dc:date>1911</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1325768804</dc:identifier>
+          <dc:source>-: Flotte und Kolonie im Spiegel deutscher Dichtung, Wolfenbüttel: Heckner 1911.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358012717</identifier>
+        <datestamp>2021-12-17T10:49:29Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Das deutsche Vaterland, seine Kolonien und Auswanderungsgebiete</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Bonz</dc:publisher>
+          <dc:date>1896</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358012717</dc:identifier>
+          <dc:source>-: Das deutsche Vaterland, seine Kolonien und Auswanderungsgebiete, Stuttgart: Bonz 1896.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1337812323</identifier>
+        <datestamp>2023-02-13T07:51:56Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Vom Kap zum Nil</dc:title>
+          <dc:creator>Dove, Karl</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Allg. Verein für Dt. Literatur</dc:publisher>
+          <dc:date>1898</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1337812323</dc:identifier>
+          <dc:source>Dove, Karl: Vom Kap zum Nil, Berlin: Allg. Verein für Dt. Literatur 1898.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1678136077</identifier>
+        <datestamp>2022-06-30T09:21:07Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Ein Freund Afrikas</dc:title>
+          <dc:creator>Steiner, Paul</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Basler Missionsbuchh.</dc:publisher>
+          <dc:date>1917</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1678136077</dc:identifier>
+          <dc:source>Steiner, Paul: Ein Freund Afrikas, Basel: Basler Missionsbuchh. 1917.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1659196779</identifier>
+        <datestamp>2022-07-07T06:33:41Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Forschungen und Erlebnisse im "dunkelsten Afrika"</dc:title>
+          <dc:creator>Jameson, James Sligo</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verl.-Anst. und Dr.-AG</dc:publisher>
+          <dc:date>1891</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1659196779</dc:identifier>
+          <dc:source>Jameson, James Sligo: Forschungen und Erlebnisse im "dunkelsten Afrika", Hamburg: Verl.-Anst. und Dr.-AG 1891.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1337461504</identifier>
+        <datestamp>2023-02-13T07:51:47Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Forschungen und Erlebnisse im "dunkelsten Afrika"</dc:title>
+          <dc:creator>Jameson, James Sligo</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verl.-Anst. und Dr.-AG</dc:publisher>
+          <dc:date>1891</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1337461504</dc:identifier>
+          <dc:source>Jameson, James Sligo: Forschungen und Erlebnisse im "dunkelsten Afrika", Hamburg: Verl.-Anst. und Dr.-AG 1891.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>115736764X</identifier>
+        <datestamp>2023-02-13T07:51:28Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Ein Freund Afrikas</dc:title>
+          <dc:creator>Steiner, Paul</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Basler Missionsbuchh.</dc:publisher>
+          <dc:date>1917</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=115736764X</dc:identifier>
+          <dc:source>Steiner, Paul: Ein Freund Afrikas, Basel: Basler Missionsbuchh. 1917.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782700013</identifier>
+        <datestamp>2023-02-13T07:50:38Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Aussichten für den Bergbau in den deutschen Kolonien</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verl. d. Kolonial-Wirtschaftlichen Komitees</dc:publisher>
+          <dc:date>1909</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782700013</dc:identifier>
+          <dc:source>-: Aussichten für den Bergbau in den deutschen Kolonien, Berlin: Verl. d. Kolonial-Wirtschaftlichen Komitees 1909.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1780953615</identifier>
+        <datestamp>2023-02-13T07:50:33Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die deutschen Kolonien</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Kösel</dc:publisher>
+          <dc:date>1912</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1780953615</dc:identifier>
+          <dc:source>-: Die deutschen Kolonien, Kempten [u.a.]: Kösel 1912.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562745</identifier>
+        <datestamp>2023-02-13T07:50:32Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Wozu hat Deutschland eigentlich Kolonien?</dc:title>
+          <dc:creator>Michaelis, Carl Eduard</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Meinecke</dc:publisher>
+          <dc:date>1911</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562745</dc:identifier>
+          <dc:source>Michaelis, Carl Eduard: Wozu hat Deutschland eigentlich Kolonien?, Berlin: Meinecke 1911.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1780948670</identifier>
+        <datestamp>2023-02-13T07:50:16Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Kolonieen als Bedürfnis unserer nationalen Entwickelung</dc:title>
+          <dc:creator>Fabri, Timotheus</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Winter</dc:publisher>
+          <dc:date>1884</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1780948670</dc:identifier>
+          <dc:source>Fabri, Timotheus: Kolonieen als Bedürfnis unserer nationalen Entwickelung, Heidelberg: Winter 1884.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562672</identifier>
+        <datestamp>2023-02-13T07:50:25Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutschlands Kolonien</dc:title>
+          <dc:creator>Frenzel, Karl</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Meyer</dc:publisher>
+          <dc:date>1889</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562672</dc:identifier>
+          <dc:source>Frenzel, Karl: Deutschlands Kolonien, Hannover: Meyer 1889.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562648</identifier>
+        <datestamp>2023-02-13T07:50:22Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Entwurf eines Planes zur Gründung von Colonien für Deutschland</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Decker</dc:publisher>
+          <dc:date>1872</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562648</dc:identifier>
+          <dc:source>-: Entwurf eines Planes zur Gründung von Colonien für Deutschland, Berlin: Decker 1872.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562737</identifier>
+        <datestamp>2023-02-13T07:50:32Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Das deutsche Kolonialwesen</dc:title>
+          <dc:creator>Rohrbach, Paul</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Gloeckner</dc:publisher>
+          <dc:date>1911</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562737</dc:identifier>
+          <dc:source>Rohrbach, Paul: Das deutsche Kolonialwesen, Leipzig: Gloeckner 1911.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562621</identifier>
+        <datestamp>2023-02-13T07:50:16Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Das deutsche Vaterland, seine Kolonien und Auswanderungsgebiete</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Bonz</dc:publisher>
+          <dc:date>1896</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562621</dc:identifier>
+          <dc:source>-: Das deutsche Vaterland, seine Kolonien und Auswanderungsgebiete, Stuttgart: Bonz 1896.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562664</identifier>
+        <datestamp>2023-03-24T12:08:16Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Kurze Darstellung der neueren deutschen Kolonial-Geschichte</dc:title>
+          <dc:creator>Breitenbach, Wilhelm</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verlagsanst. A.-G.</dc:publisher>
+          <dc:date>1888</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562664</dc:identifier>
+          <dc:source>Breitenbach, Wilhelm: Kurze Darstellung der neueren deutschen Kolonial-Geschichte, Hamburg: Verlagsanst. A.-G. 1888.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358502455</identifier>
+        <datestamp>2023-02-13T07:51:21Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutsche Colonialgeschichte</dc:title>
+          <dc:creator>Koschitzky, Max</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Baldamus</dc:publisher>
+          <dc:date>1888</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358502455</dc:identifier>
+          <dc:source>Koschitzky, Max: Deutsche Colonialgeschichte; Deutsche Colonialgeschichte, Leipzig: Baldamus 1888.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358502323</identifier>
+        <datestamp>2023-02-13T07:51:21Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutsche Colonialgeschichte</dc:title>
+          <dc:creator>Koschitzky, Max</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Baldamus</dc:publisher>
+          <dc:date>1888</dc:date>
+          <dc:type>Volume</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358502323</dc:identifier>
+          <dc:source>Koschitzky, Max: Deutsche Colonialgeschichte; Deutsche Colonialgeschichte, Leipzig: Baldamus 1888.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1358502285</identifier>
+        <datestamp>2023-05-12T13:26:30Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutsche Colonialgeschichte</dc:title>
+          <dc:creator>Koschitzky, Max</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Baldamus</dc:publisher>
+          <dc:date>18XX</dc:date>
+          <dc:type>Multivolume work</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1358502285</dc:identifier>
+          <dc:source>Koschitzky, Max: Deutsche Colonialgeschichte, Leipzig: Baldamus 18XX.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>133642219X</identifier>
+        <datestamp>2022-09-22T12:30:09Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Vom Kap nach Kairo</dc:title>
+          <dc:creator>Rosen, Eric</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Strecker &amp; Schröder</dc:publisher>
+          <dc:date>1924</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=133642219X</dc:identifier>
+          <dc:source>Rosen, Eric: Vom Kap nach Kairo, Stuttgart: Strecker &amp; Schröder 1924.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1816744646</identifier>
+        <datestamp>2023-02-13T07:51:48Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Vom Kap nach Kairo</dc:title>
+          <dc:creator>Rosen, Eric</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Strecker &amp; Schröder</dc:publisher>
+          <dc:date>1924</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1816744646</dc:identifier>
+          <dc:source>Rosen, Eric: Vom Kap nach Kairo, Stuttgart: Strecker &amp; Schröder 1924.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562567</identifier>
+        <datestamp>2023-02-13T07:50:19Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Wie Deutschland seine Kolonien bekam!</dc:title>
+          <dc:creator>Burger, Alexander</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Bonz</dc:publisher>
+          <dc:date>1913</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562567</dc:identifier>
+          <dc:source>Burger, Alexander: Wie Deutschland seine Kolonien bekam!, Stuttgart: Bonz 1913.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782696806</identifier>
+        <datestamp>2023-02-13T07:50:36Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deutsche Kolonisatoren in Afrika</dc:title>
+          <dc:creator>Lewin, Percy E.</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Orell Füßli</dc:publisher>
+          <dc:date>1918</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782696806</dc:identifier>
+          <dc:source>Lewin, Percy E.: Deutsche Kolonisatoren in Afrika, Zürich: Orell Füßli 1918.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782699643</identifier>
+        <datestamp>2023-02-13T07:50:37Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Afrika für Europa</dc:title>
+          <dc:creator>Schnee, Heinrich</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Sachers &amp; Kuschel</dc:publisher>
+          <dc:date>1924</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782699643</dc:identifier>
+          <dc:source>Schnee, Heinrich: Afrika für Europa, Berlin: Sachers &amp; Kuschel 1924.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562540</identifier>
+        <datestamp>2023-02-13T07:50:20Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Das deutsche Kolonialreich und die Mission</dc:title>
+          <dc:creator>Richter, Julius</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Verl. d. Basler Missionsbuchhandlung</dc:publisher>
+          <dc:date>1914</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562540</dc:identifier>
+          <dc:source>Richter, Julius: Das deutsche Kolonialreich und die Mission, Basel: Verl. d. Basler Missionsbuchhandlung 1914.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782699821</identifier>
+        <datestamp>2023-02-13T07:50:38Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Habari</dc:title>
+          <dc:creator>Rothhaupt, Wilhelm</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Strecker &amp; Schröder</dc:publisher>
+          <dc:date>1925</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782699821</dc:identifier>
+          <dc:source>Rothhaupt, Wilhelm: Habari, Stuttgart: Strecker &amp; Schröder 1925.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562575</identifier>
+        <datestamp>2023-02-13T07:50:18Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Flotte und Kolonie im Spiegel deutscher Dichtung</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Heckner</dc:publisher>
+          <dc:date>1911</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562575</dc:identifier>
+          <dc:source>-: Flotte und Kolonie im Spiegel deutscher Dichtung, Wolfenbüttel: Heckner 1911.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>178256263X</identifier>
+        <datestamp>2023-02-13T07:50:21Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Pegasus im Wüstenland</dc:title>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Selbstverlag</dc:publisher>
+          <dc:date>1919</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=178256263X</dc:identifier>
+          <dc:source>-: Pegasus im Wüstenland, Lüderitzbucht: Selbstverlag 1919.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782562699</identifier>
+        <datestamp>2023-02-13T07:50:28Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Im überseeischen Deutschland</dc:title>
+          <dc:creator>Barth, Christian Gottlob</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Geibel</dc:publisher>
+          <dc:date>1910</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782562699</dc:identifier>
+          <dc:source>Barth, Christian Gottlob: Im überseeischen Deutschland, Altenburg, S.-A.: Geibel 1910.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>1782696970</identifier>
+        <datestamp>2023-02-13T07:50:36Z</datestamp>
+        <setSpec>kolonialismus</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Die deutschen Kolonien unter fremder Mandatherrschaft</dc:title>
+          <dc:creator>Schnee, Heinrich</dc:creator>
+          <dc:subject>Kolonialismus</dc:subject>
+          <dc:publisher>Quelle &amp; Meyer</dc:publisher>
+          <dc:date>1922</dc:date>
+          <dc:type>Monograph</dc:type>
+          <dc:type>text</dc:type>
+          <dc:format>image/jpeg</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.digishelf.de/piresolver?id=1782696970</dc:identifier>
+          <dc:source>Schnee, Heinrich: Die deutschen Kolonien unter fremder Mandatherrschaft, Leipzig: Quelle &amp; Meyer 1922.</dc:source>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2023-05-30T08:41:57.343Z" completeListSize="201" cursor="100">oai_1685176917343</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
