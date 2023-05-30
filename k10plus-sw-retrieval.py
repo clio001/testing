@@ -12,11 +12,12 @@ def createOutputFile():
 
 
 def getData():
+    print('\n' + "Keyword retrieval started ..." + '\n')
     ppn_df = pd.read_csv('117467physischeUnddigitalePPNs.csv')
     digiPPN = ""
     
-    i = 0
-    while i < len(ppn_df):
+    i = 117461
+    while i < 117463:
         ppn = ppn_df.loc[i, 'physischePPN'].replace("PPN", "")
         digiPPN = ppn_df.loc[i, 'PPN']
         
@@ -28,9 +29,7 @@ def getData():
         
         i = i + 1
 
-    print("""
-
-Keyword retrieval complete!""")
+    print("Keyword retrieval complete!" + '\n')
 
 
 def parseData(data, ppn, digiPPN):
@@ -94,5 +93,5 @@ def parseData(data, ppn, digiPPN):
         f.write(row + '\n')
 
 
-createOutputFile()
+#createOutputFile()
 getData()
