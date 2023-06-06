@@ -7,7 +7,7 @@ ppnList = []
 cleanList = []
 
 def createOutputFile():
-    f = open('sw-physischePPNs-117467.csv', 'a')
+    f = open('umlaut-test.csv', 'a')
     f.write("DigitalePPN, PhysischePPN, ddc5010, lcc5030, rvk5090, bk5301, loc5500, sw5550, gab5570" + '\n')
 
 
@@ -16,14 +16,14 @@ def getData():
     ppn_df = pd.read_csv('117467physischeUnddigitalePPNs.csv')
     digiPPN = ""
     
-    i = 117461
-    while i < 117463:
+    i = 1197
+    while i < 1198:
         ppn = ppn_df.loc[i, 'physischePPN'].replace("PPN", "")
         digiPPN = ppn_df.loc[i, 'PPN']
         
         url = f"http://sru.k10plus.de/gvk7?version=1.1&operation=searchRetrieve&query=pica.ppn={ppn}&maximumRecords=300&recordSchema=picaxml"
         response = requests.get(url)
-        data = response.content.decode('utf-8')
+        data = response.content
         
         parseData(data, ppn, digiPPN)
         
@@ -43,7 +43,7 @@ def parseData(data, ppn, digiPPN):
 
     root = ET.fromstring(data)
     
-    f = open('sw-physischePPNs-117467.csv', 'a')
+    f = open('umlaut-test.csv', 'a')
     
     if root[1].text == "0":
         row = f"{digiPPN}, PPN{ppn}, , , , , , , "
@@ -82,7 +82,7 @@ def parseData(data, ppn, digiPPN):
                 for subfield in datafield:
                     if subfield.attrib['code'] == "a":
                         sw5550 = subfield.text
-
+                       
             if datafield.attrib['tag'] == "044S":
                 for subfield in datafield:
                     if subfield.attrib['code'] == "a":
