@@ -1,0 +1,1413 @@
+PPN; Jahr; Titel; Coverage; Publisher
+PPN1011257750; 1906; Plan der Stadt Delitzsch; Leipzig; Kunst-Anstalt von Otto Dibbern & Sperling
+PPN1011269171; 1925; Plan der Stadt Delitzsch; Leipzig; Carl Starke, Kartografische Anstalt
+PPN1011380021; 1850; Situations Plan von Dirschau; mit der projectirten Weichselbrücke in der Berlin-Königsberger Eisenbahnlinie; [Erscheinungsort nicht ermittelbar]; [Verlag nicht ermittelbar]
+PPN1011385414; 1877; Plan von Dortmund; und nächster Umgebung : zu Anfang des Jahres 1877; Dortmund; Verlag der Köppenschen Buchhandlung (Otto Uhlig)
+PPN1011445395; 1810; Torgau; none; none
+PPN1011561549; 1800; Plan der Stadt Torgau; nebst umliegender Gegend im Jahr 1800; none; none
+PPN101157084X; 1835; Plan der Stadt Tilse; aufgenommen 1835 von C. F. Steinberg : Königl. Preuss. Regier. Conducteur; Königsberg; Heinrich Post, Buchdrucker
+PPN1011578212; 1917; Plan der Stadt Tilsit mit den Vororten; Berlin; Gisevius
+PPN1011582554; 1800; Plan von der Stadt Templin; none; none
+PPN1011586614; 1928; Bebauungsplan der Kleinsiedlung Tannenwalde, Kreis Fischhausen; Tannenwalde; [Verlag nicht ermittelbar]
+PPN1011795698; 1933; Übersichtskarte der Siedlungssache Symbow; Gemarkung Symbow ; Kreis Schlawe; Stettin; Müller
+PPN1011800217; 1923; Pharus-Plan Swinemünde; Berlin; Pharus-Verl.
+PPN1011812533; 1927; Le Port de Strasbourg et ses usagers; Strasbourg; Soc. de Docum. Industrielle
+PPN1012655164; 1897; Kiessling's Großer Verkehrs-Plan von Berlin mit Vororten und vollständiger Stadt- u. Ringbahn; Berlin; Kiessling
+PPN1012660281; 1899; Straube's Neuer Radfahrer-Plan von Berlin; Graphische Darstellung der Pflasterungsarten unter Mitwirkung des Schutzverbandes Berliner Radfahrer; Berlin; Straube
+PPN101266290X; 1902; Pharus-Plan Berlin; Berlin; Pharus-Verlag
+PPN101266693X; 1902; Monumental-Plan von Berlin; Leipzig; Renger
+PPN1012671062; 1825; Grundriss der Stadt Dorpat; none; none
+PPN1012673839; 1890; [Julius Straube's Illustrierter Plan von] Berlin; Berlin; Straube
+PPN1012678792; 1924; Plan der Stadt Belgard; Berlin; Gisevius
+PPN1012783839; 1911; Farusʺ-Planʺ Jurʹev; Berlin; Farus
+PPN1013252241; 1896; Grosser Verkehrs-Plan von Berlin mit seinen Vororten; Pferdebahn-, elektrische Bahn, Dampfstrassenbahn-, Eisenbahn- und Dampfschiff-Linien einzeln in verschieden farbigen Zeichen dargestellt; Berlin; Liebel
+PPN101325242X; 1896; Maraun's Grosser Verkehrs-Plan von Berlin mit seinen Vororten; Pferdebahn-, Dampfstrassenbahn-, Eisenbahn- und Dampfschiff-Linien einzeln in verschieden farbigen Zeichen dargestellt; Berlin; Liebel
+PPN1013705157; 1929; Sketch map of Bombay; S.l.; none
+PPN1013861035; 1920; Map of Bombay; London; Stanford's Geogl. Estabt.
+PPN1013868072; 1855; Map of the fort of Bombay; completed to 1855; London; Vacher & Sons
+PPN1013869869; 1855; Map of the native town of Bombay; completed to 1855; London; Vacher & Sons
+PPN1013876946; 1928; Beyrouth; [Beyrouth]; Service Géographique de l'Armée
+PPN1014403766; 1878; Cairo; Paris; none
+PPN1014405041; 1872; Le Caire en 1872; pour servir d'annexe au guide annuaire d'égypte; Paris; none
+PPN1015236448; 1920; General map of Cairo; [Kairo]; Survey of Egypt
+PPN1015238521; 1881; Cairo 1881; [Erscheinungsort nicht ermittelbar]; [Verlag nicht ermittelbar]
+PPN101524114X; 1893; Tunis 1893; S.l.; none
+PPN1015243266; 1926; Carte du groupe d'Angkor; [Hanoi]; Service Géographique de l'Indochine
+PPN1018169202; 1930; Plan des Stadtbezirks Beeskow; [Erscheinungsort nicht ermittelbar]; [Verlag nicht ermittelbar]
+PPN1018170545; 1889; Plan des Rohrpost-Netzes von Berlin; Berlin; Geogr. Inst. u. Landkarten Verlag Jul. Straube
+PPN1018175512; 1910; Hausvoigtei-Platz; [Berlin]; [Erscheinungsort nicht ermittelbar]; [Verlag nicht ermittelbar]
+PPN1018175768; 1878; Süd-Canal bei Berlin; Übersichts-Plan; Berlin; Lith. Inst. v. Bogdan Gisevius
+PPN1018176012; 1911; Stadt Bernau i/M.; Berlin; Gisevius
+PPN1018176357; 1912; Plan von Dresden; Berlin; Verlag v. Albert Goldschmidt
+PPN1018176748; 1852; Grundriss von Neustadt Dresden mit Antonstadt und den Scheunen-Höfen; [Erscheinungsort nicht ermittelbar]; [Verlag nicht ermittelbar]
+PPN1018176918; 1895; Wirthschafts-Karte von dem Forste der Stadt Hagenow; vermessen in Grundlage der Susemiehl'schen Karte de 1843 im Jahre 1895; Schwerin i. M.; A. Drescher
+PPN1018177523; 1927; Lageplan der Stadt Schwäbisch Hall; im Maßstab 1:6000; [Schwäbisch Hall]; [Stadtbauamt Hall]
+PPN1018177698; 1877; Plan der Stadt Magdeburg; mit dem Strassenplan des Stadterweiterungs-Terrains nebst Werder u. Friedrichstadt; Magdeburg; Creutz
+PPN1018177841; 1910; Uebersichts-Plan zum Bebauungsplan über einen Teil des Gutsbezirks Neu-Langerwisch im Kreise Zauch-Belzig; Berlin; "Straubedruck"
+PPN1018177957; 1920; Übersichts-Plan der Stadt Quedlinburg; Quedlinburg; Kommissionsverlag von H. C. Huch
+PPN1018178252; 1930; Plan der Stadt Querfurt; Querfurt; W. Schneider
+PPN1018178392; 1927; Stadtplan von Radeberg; Radeberg; Radeberger Zeitung u. Tageblatt
+PPN1018178643; 1901; Plan von Tharandt; Dresden; C. C. Meinhold & Söhne
+PPN1018179178; 1889; Neuester Plan von Wittenberg und Umgebung; Wittenberg; P. Wunschmann
+PPN1018179399; 1878; Situations-Plan von Zeitz und nächster Umgebung; Zeitz; Eugen Strien
+PPN1018179739; 1899; Ostseebad Zingst; Barth; Anthony's Erben
+PPN1018179968; 1896; Strassen-Plan von Zwickau; Zwickau; Ernst Bär
+PPN1018667679; 1869; Neuester Plan von Berlin und Charlottenburg; nebst Angabe des Bebauungs Planes des jetzigen Weichbildes; Berlin; Verlag v. Theodor Thiele
+PPN1018685197; 1868; Berlin; [1868]; Berlin; R. Geissler's Kunstanstalt
+PPN1018845003; 1867; Plan von Berlin im Jahre 1867; mit Verzeichnung der sämmtlichen königlichen, städtischen und öffentlichen Gebäude nebst Plan von Berlin vor 200 Jahren : mit alphabetischem Nachweis der königlichen und städtichen Gebäude, Wohlthätigkeits-Anstalten, Schulen, Straßen, Plätze, Brücken; Berlin; Verlag von Theodor Thiele
+PPN1022181734; 1905; Situations-Plan von Berlin mit dem Weichbilde und Charlottenburg; Berlin; Reimer
+PPN1022276662; 1867; Situations-Plan von der Haupt- und Residenz-Stadt Berlin und Umgegend; Berlin; Schropp
+PPN1024425932; 1893; Situations-Plan von Berlin mit dem Weichbilde und Charlottenburg; Berlin; Reimer
+PPN1024430480; 1893; Situations-Plan von Berlin mit dem Weichbilde und Charlottenburg; Berlin; Reimer
+PPN1024432610; 1898; Situations-Plan von Berlin mit dem Weichbilde und Charlottenburg; Berlin; Reimer
+PPN1024433455; 1901; Situations-Plan von Berlin mit dem Weichbilde und Charlottenburg; Berlin; Reimer
+PPN1024437663; 1888; Situations-Plan von der Haupt- und Residenz-Stadt Berlin und Umgegend; Berlin; Schropp
+PPN1024688534; 1925; Guide Plan of Cairo; prepared by the Survey of Egypt for the International Geographical Congress ; Plan II; [Kairo?]; [Survey]
+PPN1025509064; 1929; Cairo 1:10,000; [Kairo?]; Survey of Egypt
+PPN1025510488; 1929; 1; [Kairo?]; Survey of Egypt
+PPN1025510968; 1929; 2; [Kairo?]; Survey of Egypt
+PPN1025511190; 1929; 3; [Kairo?]; Survey of Egypt
+PPN1025511794; 1929; 4; [Kairo?]; Survey of Egypt
+PPN1025511905; 1929; 5; [Kairo?]; Survey of Egypt
+PPN1025512154; 1929; 6; [Kairo?]; Survey of Egypt
+PPN1025512456; 1929; 7; [Kairo?]; Survey of Egypt
+PPN102551307X; 1929; 8; [Kairo?]; Survey of Egypt
+PPN1025513428; 1929; 9; [Kairo?]; Survey of Egypt
+PPN1025513649; 1929; 10; [Kairo?]; Survey of Egypt
+PPN1025523733; 1915; Outline map of Cairo; showing house-tax boundary as decreed on 30th March 1915; [Kairo?]; Survey of Egypt
+PPN1025529332; 1800; Carte topographique vue en perspective des plaines d'Heliopolis et de Memphis; (aus I. R. Forsters Nachlaß.); none; none
+PPN1025580141; 1918; Le Kaire; plan particulier de la ville; [Kairo?]; Survey of Egypt
+PPN1025592522; 1916; Cairo; sheet A; [Kairo?]; Survey Dept., Egypt
+PPN1025593723; 1916; Cairo; sheet B; [Kairo?]; Survey Dept., Egypt
+PPN1025615581; 1802; General Karte von den saemmtlichen Königl. Preussischen Staaten, welche zugleich als Postkarte durch die Länder der Preussischen Monarchie und durch ganz Deutschland dient, in XVI Blättern entworfen und jetzt mit den Entschädigungsländern vermehrt; Berlin; Königl. Preuß. Academ. Kunst u. Buchhandlung
+PPN1026619750; 1912; Lageplan über die Entwicklung der Stadt Andernach; [Andernach]; Stadtbauamt
+PPN1026624088; 1913; Amtlicher Plan von Altenwerder; Landkreis Hamburg, Regierungsbezirk Lüneburg; Hamburg; J. Köhler
+PPN1026626676; 1903; Plan der Herzogl. Haupt- und Residenzstadt Altenburg; seiner Hoheit dem gnädigst regierenden Herzog Ernst zum 50 jährigen Regierungsjubiläum in tiefster Ehrerbietung gewidmet vom Stadtrat zu Altenburg; Altenburg; Rich. Nestler
+PPN1026674840; 1920; Pharus-Plan Altenburg; Berlin; Pharus-Verlag
+PPN1026677440; 1910; Bad Altheide mit Umgebung; Kötzschenbroda & Dresden; Graph. Kunstanstalt Globus
+PPN1026678846; 1928; Pharus-Plan Altlandsberg; Berlin; Pharus-Verlag
+PPN1026686911; 1906; Stadtplan von Altötting; Altötting; St. Antoniusbuchhandlung
+PPN1026693500; 1929; Amberg; [München]; Bayerisches Landesvermessungsamt
+PPN1026786991; 1800; Plan von der Stadt Angermünde; none; none
+PPN1026787157; 1860; Altona 1860; Altona; Cordts
+PPN102679434X; 1892; Plan der Stadt Altona; Altona (Elbe); Verlag der Schlüterschen Buchhandlung
+PPN1026804620; 1900; Plan von Altona 1900; Hamburg; Strumper & Co.
+PPN1026805643; 1894; Plan von Alzey; mit Einzeichnung der noch in Resten vorhandenen Stadtmauer; Giessen; Emil Roth
+PPN1027496563; 1916; Cairo 1:5,000; [Kairo?]; Survey Dept. Egypt
+PPN1027497918; 1917; Ez. el-aqqâd; sheet IV-VI-4; [Kairo?]; Survey Dept. Egypt
+PPN1027499791; 1917; El-Maṭarîya; sheet IV-VII-3; [Kairo?]; Survey Dept. Egypt
+PPN1027500935; 1917; Kafr El-Gâmûs; sheet IV-VII-4; [Kairo?]; Survey Dept. Egypt
+PPN1027501087; 1916; 'Ez. Garabedian; sheet III-V-2; [Kairo?]; Survey Dept. Egypt
+PPN1027501451; 1916; El-Ismailia Canal; sheet III-VI-1; [Kairo?]; Survey Dept. Egypt
+PPN102750163X; 1916; El-Amîrîya; sheet III-VI-2; [Kairo?]; Survey Dept. Egypt
+PPN1027501842; 1917; Ez-Zeitûn; sheet III-VII-1; [Kairo?]; Survey Dept. Egypt
+PPN1027502059; 1921; Aerodrome; sheet III-VII-2; [Kairo?]; Survey Dept. Egypt
+PPN1027502164; 1921; Sheet III-VIII-1; [Kairo?]; Survey Dept. Egypt
+PPN1027502318; 1927; Rôḍ El Farag; sheet III-V-4 N.E.; [Kairo?]; Survey Dept. Egypt
+PPN1027502466; 1916; Mît Es-Sîrig; sheet III-VI-3; [Kairo?]; Survey Dept. Egypt
+PPN1027502695; 1916; El-Qubba; sheet III-VI-4; [Kairo?]; Survey Dept. Egypt
+PPN1027502806; 1916; Heliopolis West; sheet III-VII-3; [Kairo?]; Survey Dept. Egypt
+PPN1027503322; 1916; Heliopolis East; sheet III-VII-4; [Kairo?]; Survey Dept. Egypt
+PPN1027503446; 1921; Oasis No. 2; sheet III-VIII-3; [Kairo?]; Survey Dept. Egypt
+PPN1027503489; 1919; Mît Uqba North; sheet II-IV-2; [Kairo?]; Survey Dept. Egypt
+PPN1027503918; 1918; Imbâba; sheet II-V-1; [Kairo?]; Survey Dept. Egypt
+PPN102750406X; 1915; Shubra; sheet II-V-2; [Kairo?]; Survey Dept. Egypt
+PPN1027504205; 1916; Eẓ-Ẓâhir; sheet II-VI-1; [Kairo?]; Survey Dept. Egypt
+PPN1027504345; 1915; El-Abbâsîya; sheet II-VI-2; [Kairo?]; Survey Dept. Egypt
+PPN102750440X; 1921; Rifle Ranges; sheet II-VII-1; [Kairo?]; Survey Dept. Egypt
+PPN1027504477; 1921; Sheet II-VII-2; [Kairo?]; Survey Dept. Egypt
+PPN1027504655; 1921; Tower No. 2; sheet II-VIII-1; [Kairo?]; Survey Dept. Egypt
+PPN1027504728; 1919; Mît Uqba South; sheet II-IV-4; [Kairo?]; Survey Dept. Egypt
+PPN1027504809; 1918; El-Gezîra; sheet II-V-3; [Kairo?]; Survey Dept. Egypt
+PPN1027504914; 1927; Qaṣr El Nîl; sheet II-V-4 N.E.; [Kairo?]; Survey Dept. Egypt
+PPN1027505023; 1916; El-Mûski; sheet II-VI-3; [Kairo?]; Survey Dept. Egypt
+PPN1027505058; 1917; Eastern Cemetery; tombs of the khalifs ; sheet II-VI-4; [Kairo?]; Survey Dept. Egypt
+PPN1027505112; 1921; El-Gebel El Aḥmar; sheet II-VII-3; [Kairo?]; Survey Dept. Egypt
+PPN1027505406; 1919; Bûlâq Ed-Dakrûr; sheet I-IV-2; [Kairo?]; Survey Dept. Egypt
+PPN1027505546; 1918; Gîza Mudîrîya; sheet I-V-1; [Kairo?]; Survey Dept. Egypt
+PPN1027505627; 1916; Es-Saiyida Zeinab; sheet I-V-2; [Kairo?]; Survey Dept. Egypt
+PPN1027505759; 1917; Citadel; sheet I-VI-1; [Kairo?]; Survey Dept. Egypt
+PPN102750583X; 1917; Gebel El-Muqaṭṭam; sheet I-VI-2; [Kairo?]; Survey Dept. Egypt
+PPN1027505902; 1918; Giza Town; sheet I-V-3; [Kairo?]; Survey Dept. Egypt
+PPN1027505953; 1917; Old Cairo; sheet I-V-4; [Kairo?]; Survey Dept. Egypt
+PPN1027506216; 1917; El-Imâm Esh-Shâfi; sheet I-VI-3; [Kairo?]; Survey Dept. Egypt
+PPN1027506291; 1917; Sheet I-VI-4; [Kairo?]; Survey Dept. Egypt
+PPN1027506496; 1920; Aṯar En-Nabi; sheet I-V-2 S.E.; [Kairo?]; Survey Dept. Egypt
+PPN1027506577; 1920; El-Basâtiîn; sheet I-VI-1 S.E.; [Kairo?]; Survey Dept. Egypt
+PPN1027506623; 1920; Sheet I-V-4 S.E.; [Kairo?]; Survey Dept. Egypt
+PPN1027506747; 1920; Ma'âdi north; sheet I-VI-3 S.E.; [Kairo?]; Survey Dept. Egypt
+PPN102750678X; 1920; Sheet II-V-2 S.E.; [Kairo?]; Survey Dept. Egypt
+PPN1027506828; 1920; Ma'âdi south; sheet II-VI-1 S.E.; [Kairo?]; Survey Dept. Egypt
+PPN102921316X; 1933; Pharus-Plan Liegnitz; Berlin; Pharus Plan
+PPN1029267812; 1803; Prospect von der Morgen Seite der Stadt Konin; none; none
+PPN102927312X; 1918; Gleich's Plan von Gr. Lichterfelde; Berlin; W. Gleich
+PPN1029276277; 1901; Plan von Gross-Lichterfelde; Beilage zum Adressbuch 1901 für Gross-Lichterfelde, Lankwitz, Teltow mit Seehof; [Berlin-]Gross-Lichterfelde; Unverdorben
+PPN1029277664; 1905; Gross-Lichterfelde; nach den Neumessungsplänen und den Katasterkarten; Berlin; Bogdan Gisevius
+PPN1029338485; 1868; Karte von dem Rittergute Lichterfelde-Giesensdorf; Berlin; August Schäfer
+PPN1029338922; 1872; Uebersichts-Plan der Besitzung des Lichterfelder Bau-Vereins Actien-Gesellschaft; Berlin; H. S. Hermann
+PPN1029364133; 1870; Situations-Plan von Lichterfelde; Berlin; Th. Mettke
+PPN1029366616; 1869; Situations-Plan von den mit den Bauparcellen des Rittergutsbesitzers Carstenn zu Lichterfelde grenzenden Grundstücken des Kaufmann Felix Rosenthal zu Berlin; Berlin; M. Müller
+PPN1029369763; 1895; Situations-Plan der südwestlichen Umgebung von Berlin; mit besonderer Berücksichtigung der in dieser Gegend entstandenen Bau-Terrains unter Benutzung vorhandenen Materials; [Erscheinungsort nicht ermittelbar]; [Verlag nicht ermittelbar]
+PPN102966448X; 1872; Uebersichts-Plan der Besitzung des Lichterfelder Bau-Vereins Actien-Gesellschaft; Berlin; H. S. Hermann
+PPN103049102X; 1860; August Ravensteins General-Plan von Frankfurt am M.; Frankfurt a. M.; Verlag des geographischen Instituts
+PPN1030496684; 1925; Plan Lübeck; [Lübeck]; Max Schmidt-Römhild
+PPN1030499365; 1880; Aleppo (H̱aleb); Leipzig; Wagner & Debes
+PPN1030543917; 1839; Plan de la ville de Hhaleb et de ses Environs; dressé de 1811 à 1818; [Paris]; Bineteau
+PPN1030547742; 1928; Damas; [Beyrouth]; [Service géographique de l'Armée]
+PPN1030662436; 1861; Neuer Plan von Breslau und der nächsten Umgebung; mit Hervorhebung der wichtigsten öffentlichen Gebäude etc.; Breslau; Joh. Urban Kern
+PPN1030878900; 1871; Plan der Stadt Breslau; mit Einschluss der früheren Ortschaften Gabitz, Höfchen, Neudorf, Lehmgruben, Huben, Fischerau, Alt-Scheitning; Breslau; E. Morgenstern
+PPN1031004440; 1860; Plan von Breslau; nach den neuesten Veränderungen : in neuer Bearbeitung; Breslau; Joh. Urban Kern
+PPN1031008616; 1865; Plan von Breslau und den angrenzenden Ortschaften Gabitz, Höfchen, Neudorf, Lehmgruben, Huben, Morgenau, Zedlitz, Scheitnig; [Breslau]; Lithogr. Institut von Heinr. Putz
+PPN1031011684; 1865; Plan von Breslau und den angrenzenden Ortschaften Gabitz, Höfchen, Neudorf, Lehmgruben, Huben, Morgenau, Zedlitz, Scheitnig; [Breslau]; Lithogr. Institut von Heinr. Putz
+PPN1031013474; 1872; Plan von Breslau und den angrenzenden Ortschaften Gabitz, Höfchen, Neudorf, Lehmgruben, Huben, Morgenau, Zedlitz, Scheitnig; [Breslau]; Lithogr. Institut von Heinr. Putz
+PPN1031244123; 1864; Neuester Plan von Breslau; in grösserem Maassstabe; Breslau; Joh. Urban Kern
+PPN1031392823; 1892; Neuer Plan der Stadt Breslau; Breslau; E. Morgenstern
+PPN1031402977; 1912; Plan von Breslau; Breslau; Städtisches Vermessungsamt
+PPN1031404856; 1911; Plan von Breslau; Breslau; [Verlag nicht ermittelbar]
+PPN1031646221; 1920; Plan der Hauptstadt Breslau; in 4 Blättern; Breslau; Städtisches Vermessungs-Amt
+PPN1032370157; 1920; Die bauliche Entwickelung Breslaus von 1811 bis 1912; nur Bauten auf neuer Baustelle; Breslau; F. Pietsch
+PPN1032370858; 1920; Die bauliche Entwickelung Breslau's in den 29 Jahren 1872 bis 1900; Breslau; F. Pietsch
+PPN1032515406; 1800; Plan Von der bei Breslau vor dem Nicolai-Thor liegenden Viehweide; none; none
+PPN103251650X; 1800; Plan Von dem neuen Strauch Wehr an der alten Oder auf Altscheitniger Grunde; none; none
+PPN1032517204; 1800; Vermessungs Plan von der Huttung auf dem Bürgerwerder hinter den Artillerie Casernen; dem Kinder Hospital auf der äussern Nicolai-Gasse gehörig; none; none
+PPN1032519487; 1881; Situations-Plan der Schlesischen Gewerbe- und Industrie-Ausstellung in Breslau im Jahre 1881; [Oder-Vorstadt]; Breslau; S. Schottlaender
+PPN1032615419; 1860; Plan der Stadt Brieg mit ihren Vorstädten; nach geometrischer Aufnahme gezeichnet im Herbst 1860; Breslau; C. Jung
+PPN1032617543; 1918; Pharus Plan Brieg; Brieg; Hugo Süssmann
+PPN1032620226; 1813; Croquis von dem im J[ahre] 1813 angelegten Brückenkopf bey Brieg; none; none
+PPN1032706643; 1897; Uebersichts Plan der Stadt Brieg; auf Grund der Neumessung vom Jahre 1896 vervielfältigt im Jahre 1897; Breslau; Theiner & Meinicke
+PPN1034695568; 1916; Uebersichts-Plan der Kreisstadt Ballenstedt; Ballenstedt; Gustav Menze
+PPN1034700650; 1890; Taschenplan von Berlin; Berlin; Verlag vom Geogr. Inst. u. Landkarten-Verlag Jul. Straube
+PPN1034704222; 1898; Kiesslings grosser Taschenplan von Berlin; das gesamte Weichbild umfassend; Berlin; Kiessling
+PPN1034706756; 1897; Straube's Neuester Plan: Berlin und seine Strassenbahnen nebst seinen Omnibuslinien; Berlin; Verlag vom Geogr. Inst. u. Landkarten-Verlag Jul. Straube
+PPN1035887762; 1919; Karte der Gewerbe u. Industrien in Breslau u. Umgebung; Breslau [u.a.]; [Flemming-Wi]skott AG
+PPN1035893118; 1920; Monumentalplan der Königl. Haupt- und Residenzstadt Breslau; Breslau; Boronow
+PPN1037051696; 1917; Übersichtskarte von Ohlau; Berlin; Bogdan Gisevius
+PPN1037052749; 1890; Krakau; Leipzig; Geogr. Anst. v. Wagner & Debes
+PPN1040076076; 1920; [Stadtkreis Oppeln]; [Oppeln]; [Stadtvermessungsamt]
+PPN1040233201; 1902; Plan Krakowa; Kraków; Tow. miłoṡników historyi i zabytków Krakowa
+PPN1040236316; 1919; Übersichtskarte der Stadt Oppeln; [Oppeln]; [Verlag nicht ermittelbar]
+PPN1040391923; 1894; Plan der Stadt Oppeln; Berlin; Lith. Anst. von Bogdan Gisevius
+PPN1041171404; 1900; Grosser Verkehrsplan von Berlin und seinen Vororten; Strassenbahn-Plan; Berlin; Liebel
+PPN1041288603; 1917; Pharus-Plan Berlin; Berlin; Pharus-Verlag
+PPN104129199X; 1913; Straube's Taschenplan von Berlin; Berlin; Geographisches Institut und Landkarten-Verlag Jul. Straube
+PPN104129462X; 1840; Plan von der bey der Stadt Braunsberg belegenen zum Theil abgebrandten Vorstadt Kiszelyn; nebest den angrenzenden altstaedischen Anger; none; none
+PPN1041406525; 1918; Plan der Stadt Troppau mit Katharein; Wien; Kartogr. Anstalt G. Freytag & Berndt
+PPN1041837321; 1805; Plan von der Stadt Schneidemühl; angefertigt im Monath Januar 1805; none; none
+PPN1043637427; 1910; Plan der Stadt Oppeln; zur Hebung des Fremdenverkehrs; Oppeln; none
+PPN1043642498; 1910; Plan von Marienwerder; Berlin; Wiessner
+PPN1043644121; 1810; Plan vom Brückkenkopf bey Marienwerder nebst seinen Environs; none; none
+PPN1043712631; 1800; Plan von dem Brückkenkopf bey Marienwerder; none; none
+PPN1049225058; 1805; Grundriss der Sechsstadt Zittau in der Ober-Lausitz; [Deutschland?]; none
+PPN1665701366; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 07.03.1885; Berlin; none
+PPN1665701382; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 24.03.1885; Berlin; none
+PPN1665701404; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 18.04.1885; Berlin; none
+PPN1665701412; 1885; Brief an B. Schott's Söhne : 28.04.1885; Berlin; none
+PPN1665701420; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 15.05.1885; Frankfurt am Main; none
+PPN1665701447; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 31.05.1885; Bad Homburg v. d. Höhe; none
+PPN1665701463; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 03.06.1885; Bad Homburg v. d. Höhe; none
+PPN166570148X; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 22.06.1885; Bad Kreuznach; none
+PPN1665701498; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 11.06.1885; Bad Homburg v. d. Höhe; none
+PPN1665701501; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 19.06.1885; Bad Kreuznach; none
+PPN166570151X; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 25.06.1885; Bad Kreuznach; none
+PPN1665701528; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 12.07.1885; Lichtenthal, Baden; none
+PPN1665701536; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 24.07.1885; Lichtenthal, Baden; none
+PPN1665701544; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 29.06.1885; Lichtenthal, Baden; none
+PPN1665701587; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 24.07.1885; Lichtenthal, Baden; none
+PPN1665701617; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 07.08.1885; Lichtenthal, Baden; none
+PPN1665701625; 1885; Brief an B. Schott's Söhne : 19.08.1885; Lichtenthal, Baden; none
+PPN1665701641; 1885; Brief an B. Schott's Söhne : 03.09.1885; Lichtenthal, Baden; none
+PPN1665701668; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 21.09.1885; Lichtenthal, Baden; none
+PPN1665701676; 1885; Brief an B. Schott's Söhne : 04.08.1885; Lichtenthal, Baden; none
+PPN1665701684; 1885; Brief an B. Schott's Söhne : 07.08.1885; Lichtenthal, Baden; none
+PPN1665701692; 1885; Brief an B. Schott's Söhne : 23.08.1885; Lichtenthal, Baden; none
+PPN1665701706; 1885; Brief an B. Schott's Söhne : 11.09.1885; Lichtenthal, Baden; none
+PPN1665701722; 1885; Brief an B. Schott's Söhne : 23.09.1885; Lichtenthal, Baden; none
+PPN1665701749; 1885; Brief an B. Schott's Söhne : 04.10.1885; Berlin; none
+PPN1665701757; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 12.10.1885; Berlin; none
+PPN1665701765; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 07.11.1885; Berlin; none
+PPN1665701773; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 07.10.1885; Berlin; none
+PPN1665701781; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 17.12.1885; Berlin; none
+PPN1665701803; 1885; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 21.11.1885; Berlin; none
+PPN1665701854; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 08.09.1890; Lichtenthal, Baden; none
+PPN1665701862; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 10.09.1890; Lichtenthal, Baden; none
+PPN1665701897; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 11.10.1890; Berlin; none
+PPN1665701900; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 27.10.1890; Berlin; none
+PPN1665701919; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 01.09.1890; Lichtenthal, Baden; none
+PPN1665701943; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 16.09.1890; Lichtenthal, Baden; none
+PPN1665701986; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 08.11.1890; Berlin; none
+PPN1665702001; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 05.12.1890; Berlin; none
+PPN1665702036; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 29.04.1890; Berlin; none
+PPN1665702044; 1890; Brief an B. Schott's Söhne : 06.07.1890; Wiesbaden; none
+PPN1665702087; 1890; Brief an B. Schott's Söhne : 11.07.1890; Bad Kreuznach; none
+PPN1665702117; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 26.11.1890; Berlin; none
+PPN1665702133; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 19.04.1890; Berlin; none
+PPN166570215X; 1890; Brief an ... Bermann und B. Schott's Söhne : 21.07.1890; Lichtenthal, Baden; none
+PPN1665702168; 1890; Brief an ... Bermann und B. Schott's Söhne : 26.07.1890; Speyer; none
+PPN1665702192; 1890; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 07.02.1890; Berlin; none
+PPN1665702214; 1882; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 21.04.1882; Wien; none
+PPN1665702230; 1882; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 29.04.1882; Wien; none
+PPN1665702281; 1882; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 16.05.1882; Wien; none
+PPN166570229X; 1883; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 29.05.1883; Wien; none
+PPN166570232X; 1882; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 06.09.1882; Wien; none
+PPN1665702338; 1876; Brief an B. Schott's Söhne : 24.04.1876; Homberg bei Cassel; none
+PPN1665702346; 1876; Brief an B. Schott's Söhne : 13.05.1876; Homberg bei Cassel; none
+PPN1665702370; 1876; Brief an B. Schott's Söhne : 02.06.1876; Homberg bei Cassel; none
+PPN1665702397; 1876; Brief an B. Schott's Söhne : 03.08.1876; Homberg bei Cassel; none
+PPN1665702400; 1876; Brief an B. Schott's Söhne : 11.10.1876; Homberg bei Cassel; none
+PPN1665702419; 1876; Brief an B. Schott's Söhne : 19.11.1876; Homberg bei Cassel; none
+PPN1665702427; 1876; Brief an B. Schott's Söhne : 09.12.1876; Homberg bei Cassel; none
+PPN1665702443; 1876; Brief an B. Schott's Söhne : 13.12.1876; Homberg bei Cassel; none
+PPN166570246X; 1876; Brief an B. Schott's Söhne : 18.12.1876; Homberg bei Cassel; none
+PPN1665702486; 1886; Brief an B. Schott's Söhne : 24.01.1886; Leipzig; none
+PPN1665702494; 1886; Brief an B. Schott's Söhne : 07.02.1886; Leipzig; none
+PPN1665702516; 1886; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 19.03.1886; Leipzig; none
+PPN1665702524; 1886; Brief an B. Schott's Söhne : 31.08.1886; Leipzig; none
+PPN1665702532; 1886; Brief an B. Schott's Söhne : 08.04.1886; Leipzig; none
+PPN1665702540; 1886; Brief an B. Schott's Söhne : 09.06.1886; Leipzig; none
+PPN1665702559; 1886; Brief an B. Schott's Söhne : 16.09.1886; Mosbach am Rhein; none
+PPN1665702567; 1886; Brief an B. Schott's Söhne : 11.10.1886; Wiesbaden; none
+PPN1665702583; 1886; Brief an B. Schott's Söhne : 08.11.1886; Biebrich; none
+PPN1665702605; 1886; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 28.10.1886; Mosbach [laut Registraturvermerk]; none
+PPN1665702613; 1886; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 29.10.1886; Biebrich; none
+PPN1665702621; 1881; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 18.03.1881; Wien; none
+PPN1665702648; 1884; Brief an B. Schott's Söhne : 02.09.1884; Frankfurt am Main; none
+PPN1665702656; 1884; Brief an B. Schott's Söhne : 25.09.1884; Frankfurt am Main; none
+PPN1665702664; 1884; Brief an B. Schott's Söhne : 29.09.1884; Frankfurt am Main; none
+PPN1665702672; 1884; Brief an B. Schott's Söhne : 04.10.1884; Frankfurt am Main; none
+PPN1665702680; 1876; Brief an B. Schott's Söhne : 23.04.1876; Salzburg; none
+PPN1665702702; 1876; Brief an Adam Ludwig Mazière und B. Schott's Söhne : 04.05.1876; Salzburg; none
+PPN1665702710; 1876; Brief an Adam Ludwig Mazière und B. Schott's Söhne : 16.05.1876; Salzburg; none
+PPN1665702729; 1876; Brief an Adam Ludwig Mazière und B. Schott's Söhne : 21.05.1876; Salzburg; none
+PPN1665702737; 1876; Brief an Adam Ludwig Mazière und B. Schott's Söhne : 24.05.1876; Bad Ischl; none
+PPN166570277X; 1876; Brief an Adam Ludwig Mazière und B. Schott's Söhne : 25.05.1876; Salzburg; none
+PPN1665702796; 1876; Brief an Adam Ludwig Mazière und B. Schott's Söhne : 04.06.1876; Bad Ischl; none
+PPN1665702818; 1880; Brief an B. Schott's Söhne : 24.06.1880; Wiesbaden; none
+PPN1665702826; 1880; Brief an B. Schott's Söhne : 28.07.1880; London; none
+PPN1665702850; 1888; Brief an B. Schott's Söhne : 04.08.1888; London; none
+PPN1665702869; 1880; Brief an B. Schott's Söhne : 15.08.1880; Brüssel; none
+PPN1665702885; 1880; Brief an B. Schott's Söhne : 22.08.1880; Brüssel; none
+PPN1665702893; 1880; Brief an B. Schott's Söhne : 03.09.1880; Brüssel; none
+PPN1665712317; 1880; Brief an B. Schott's Söhne : 10.09.1880; Château Colpack, Luxembourg; none
+PPN1665712341; 1880; Brief an B. Schott's Söhne : 20.09.1880; Château Colpack; none
+PPN1665712368; 1880; Brief an B. Schott's Söhne : 06.10.1880; Château Colpack; none
+PPN1665712384; 1880; Brief an B. Schott's Söhne : 16.10.1880; Paris; none
+PPN1665712392; 1880; Brief an B. Schott's Söhne : 30.10.1880; Paris; none
+PPN1665712406; 1880; Brief an B. Schott's Söhne : 08.11.1880; Paris; none
+PPN1665712449; 1880; Brief an B. Schott's Söhne : 05.12.1880; Paris; none
+PPN1665712457; 1879; Brief an B. Schott's Söhne : 14.12.1879; Paris; none
+PPN1665712465; 1880; Brief an B. Schott's Söhne : 01.07.1880; Paris; none
+PPN1665712481; 1880; Brief an B. Schott's Söhne : 21.07.1880; Paris; none
+PPN166571249X; 1880; Brief an B. Schott's Söhne : 11.08.1880; La Beaupinière; none
+PPN1665712503; 1823; Brief an B. Schott's Söhne : 11.03.1823; Biebrich; none
+PPN1665712511; 1823; Brief an B. Schott's Söhne : 21.07.1823; Biebrich; none
+PPN1665712538; 1823; Brief an B. Schott's Söhne : 15.01.1823; Köln; none
+PPN1665712562; 1823; Brief an B. Schott's Söhne : 14.01.1823; Köln; none
+PPN1665712570; 1823; Brief an B. Schott's Söhne : 20.02.1823; Köln; none
+PPN1665712589; 1823; Brief an B. Schott's Söhne : 21.02.1823; Köln; none
+PPN1665712597; 1823; Brief an B. Schott's Söhne : 26.02.1823; Köln; none
+PPN1665712600; 1823; Brief an B. Schott's Söhne : 05.03.1823; Köln; none
+PPN1665712619; 1823; Brief an B. Schott's Söhne : 25.04.1823; Köln; none
+PPN1665712627; 1823; Brief an B. Schott's Söhne : 15.05.1823; Köln; none
+PPN1665712643; 1823; Brief an B. Schott's Söhne : 21.06.1823; Köln; none
+PPN1665712651; 1823; Brief an B. Schott's Söhne : 23.06.1823; Köln; none
+PPN166571266X; 1823; Brief an B. Schott's Söhne : 16.07.1823; Köln; none
+PPN1665712678; 1823; Brief an B. Schott's Söhne : 05.08.1823; Köln; none
+PPN1665712686; 1823; Brief an B. Schott's Söhne : 27.09.1823; Köln; none
+PPN1665712708; 1823; Brief an B. Schott's Söhne : 31.10.1823; Köln; none
+PPN1665712716; 1823; Brief an B. Schott's Söhne : 04.11.1823; Köln; none
+PPN1665712732; 1823; Brief an B. Schott's Söhne : 28.11.1823; Köln; none
+PPN1665712740; 1878; Brief an B. Schott's Söhne : 21.08.1878; Dresden; none
+PPN1665712759; 1878; Brief an B. Schott's Söhne : 07.09.1878; Dresden; none
+PPN1665712783; 1878; Brief an B. Schott's Söhne : 02.10.1878; Dresden; none
+PPN1665712791; 1878; Brief an B. Schott's Söhne : 06.10.1878; Dresden; none
+PPN1665712813; 1878; Brief an B. Schott's Söhne : 09.06.1878; Frankfurt am Main; none
+PPN1665712848; 1878; Brief an B. Schott's Söhne : 22.06.1878; Frankfurt am Main; none
+PPN1665712856; 1878; Brief an B. Schott's Söhne : 08.02.1878; Frankfurt am Main; none
+PPN1665712864; 1878; Brief an B. Schott's Söhne : 09.03.1878; Frankfurt am Main; none
+PPN1665712880; 1878; Brief an B. Schott's Söhne : 24.04.1878; Frankfurt am Main; none
+PPN1665712899; 1878; Brief an B. Schott's Söhne : 28.04.1878; Frankfurt am Main; none
+PPN1665712910; 1878; Brief an B. Schott's Söhne : 06.05.1878; Frankfurt am Main; none
+PPN1665712929; 1888; Brief an Adam Ludwig Mazière und B. Schott's Söhne : 29.07.1888; Frankfurt am Main; none
+PPN1665712937; 1888; Brief an B. Schott's Söhne : 08.08.1888; Frankfurt am Main; none
+PPN1665712945; 1888; Brief an B. Schott's Söhne : 22.08.1888; Frankfurt am Main; none
+PPN1665712953; 1878; Brief an B. Schott's Söhne : 29.08.1878; Aachen; none
+PPN166571297X; 1878; Brief an B. Schott's Söhne : 13.09.1878; Hamburg; none
+PPN1665712988; 1878; Brief an B. Schott's Söhne : 15.11.1878; Hamburg; none
+PPN1665712996; 1878; Brief an B. Schott's Söhne : 02.12.1878; Hamburg; none
+PPN1665713003; 1872; Brief an B. Schott's Söhne : 20.07.1872; Bonn; none
+PPN1665713011; 1870; Brief an B. Schott's Söhne : 23.10.1870; Bonn; none
+PPN166571302X; 1871; Brief an B. Schott's Söhne : 31.12.1871; Bonn; none
+PPN1665713038; 1879; Brief an B. Schott's Söhne : 09.04.1879; Wien; none
+PPN1665713046; 1879; Brief an B. Schott's Söhne : 19.04.1879; Wien; none
+PPN1665713054; 1879; Brief an B. Schott's Söhne : 13.05.1879; Wien; none
+PPN1665713089; 1879; Brief an B. Schott's Söhne : 13.08.1879; Bad Aussee; none
+PPN1665713100; 1879; Brief an B. Schott's Söhne : 16.11.1879; Dresden; none
+PPN1665713119; 1878; Brief an B. Schott's Söhne : 17.01.1878; Frankfurt am Main; none
+PPN1665713127; 1878; Brief an B. Schott's Söhne : 28.01.1878; Frankfurt am Main; none
+PPN1665713135; 1878; Brief an B. Schott's Söhne : 13.02.1878; Frankfurt am Main; none
+PPN166571316X; 1878; Brief an B. Schott's Söhne : 24.02.1878; Frankfurt am Main; none
+PPN1665713186; 1878; Brief an B. Schott's Söhne : 28.02.1878; Frankfurt am Main; none
+PPN1665713194; 1878; Brief an B. Schott's Söhne : 02.03.1878; Frankfurt am Main; none
+PPN1665713208; 1878; Brief an B. Schott's Söhne : 03.04.1878; Frankfurt am Main; none
+PPN1665713224; 1878; Brief an B. Schott's Söhne : 24.04.1878; Frankfurt am Main; none
+PPN1665713232; 1878; Brief an B. Schott's Söhne : 02.05.1878; Frankfurt am Main; none
+PPN1665713259; 1878; Brief an B. Schott's Söhne : 13.05.1878; Frankfurt am Main; none
+PPN1665713267; 1878; Brief an B. Schott's Söhne : 28.08.1878; Frankfurt am Main; none
+PPN1665713275; 1878; Brief an B. Schott's Söhne : 11.10.1878; Frankfurt am Main; none
+PPN1665713321; 1878; Brief an B. Schott's Söhne : 13.10.1878; Frankfurt am Main; none
+PPN166571333X; 1878; Brief an B. Schott's Söhne : 14.10.1878; Frankfurt am Main; none
+PPN1665713356; 1878; Brief an B. Schott's Söhne : 11.07.1878; Mainz; none
+PPN1679296531; 1912; Das südliche China; (zum dritten Textband gehörig); Berlin; Verlag von Dietrich Reimer (Ernst Vohsen)
+PPN1689793120; 1898; Brief an B. Schott's Söhne : 06.10.1898; Kaiserslautern; none
+PPN1689793139; 1898; Brief an B. Schott's Söhne : 29.10.1898; Kaiserslautern; none
+PPN1689793147; 1898; Brief an B. Schott's Söhne : 11.1898; Kaiserslautern; none
+PPN1689793155; 1898; Brief an B. Schott's Söhne : 04.11.1898; Kaiserslautern; none
+PPN1689793163; 1897; Brief an B. Schott's Söhne : 27.12.1897; Potsdam; none
+PPN168979318X; 1898; Brief an B. Schott's Söhne : 08.05.1898; Potsdam; none
+PPN1689793201; 1898; Brief an B. Schott's Söhne : 24.06.1898; London; none
+PPN168979321X; 1898; Brief an B. Schott's Söhne : 18.08.1898; Potsdam; none
+PPN1689793228; 1898; Brief an B. Schott's Söhne : 24.08.1898; Potsdam; none
+PPN1689793236; 1898; Brief an B. Schott's Söhne : 17.09.1898; Potsdam; none
+PPN1689793279; 1898; Brief an B. Schott's Söhne : 05.10.1898; Potsdam; none
+PPN1689793287; 1898; Brief an B. Schott's Söhne : 17.10.1898; Potsdam; none
+PPN1689793295; 1898; Brief an B. Schott's Söhne : 18.12.1898; Potsdam; none
+PPN1689793309; 1898; Brief an B. Schott's Söhne : 22.12.1898; Potsdam; none
+PPN1689793317; 1898; Brief an B. Schott's Söhne : 01.01.1898; Köln; none
+PPN1689793333; 1898; Brief an B. Schott's Söhne : 14.02.1898; Berlin; none
+PPN1689793341; 1898; Brief an B. Schott's Söhne : 22.02.1898; Berlin; none
+PPN1689793376; 1898; Brief an B. Schott's Söhne : 02.09.1898; Köln; none
+PPN1689793384; 1898; Brief an B. Schott's Söhne : 22.09.1898; Köln; none
+PPN1689793392; 1898; Brief an B. Schott's Söhne : 21.04.1898; Köln; none
+PPN1689793406; 1894; Brief an B. Schott's Söhne : 31.12.1894; Breslau; none
+PPN1689793414; 1895; Brief an B. Schott's Söhne : 08.01.1895; Breslau; none
+PPN1689793422; 1895; Brief an B. Schott's Söhne : 08.03.1895; Breslau; none
+PPN1689793430; 1895; Brief an B. Schott's Söhne : 13.03.1895; Breslau; none
+PPN1689793449; 1895; Brief an B. Schott's Söhne : 19.03.1895; Breslau; none
+PPN1689793457; 1895; Brief an B. Schott's Söhne : 25.03.1895; Breslau; none
+PPN1689793465; 1895; Brief an B. Schott's Söhne : 31.03.1895; Breslau; none
+PPN1689793473; 1895; Brief an B. Schott's Söhne : 08.04.1895; Breslau; none
+PPN168979349X; 1895; Brief an B. Schott's Söhne : 20.04.1895; Breslau; none
+PPN1689793511; 1895; Brief an B. Schott's Söhne : 26.04.1895; Breslau; none
+PPN1689793538; 1895; Brief an B. Schott's Söhne : 06.05.1895; Breslau; none
+PPN1689793554; 1895; Brief an B. Schott's Söhne : 10.06.1895; Breslau; none
+PPN1689793570; 1895; Brief an B. Schott's Söhne : 29.06.1895; Breslau; none
+PPN1689793589; 1895; Brief an B. Schott's Söhne : 08.07.1895; Breslau; none
+PPN1689793600; 1895; Brief an B. Schott's Söhne : 15.07.1895; Breslau; none
+PPN1689793627; 1895; Brief an B. Schott's Söhne : 21.07.1895; Breslau; none
+PPN1689793635; 1895; Brief an B. Schott's Söhne : 15.09.1895; Breslau; none
+PPN1689793643; 1895; Brief an B. Schott's Söhne : 22.09.1895; Świdnica; none
+PPN1689793651; 1895; Brief an B. Schott's Söhne : 05.10.1895; Świdnica; none
+PPN168979366X; 1895; Brief an B. Schott's Söhne : 16.10.1895; Świdnica; none
+PPN1689793686; 1895; Brief an B. Schott's Söhne : 13.10.1895; Świdnica; none
+PPN1689793694; 1895; Brief an B. Schott's Söhne : 31.10.1895; Świdnica; none
+PPN1689793716; 1895; Brief an B. Schott's Söhne : 02.12.1895; Świdnica; none
+PPN1689793724; 1895; Brief an B. Schott's Söhne : 08.12.1895; Świdnica; none
+PPN1689793732; 1894; Brief an B. Schott's Söhne : 15.12.1894; Breslau; none
+PPN1689793740; 1895; Brief an B. Schott's Söhne : 21.12.1895; Świdnica; none
+PPN1689793759; 1895; Brief an B. Schott's Söhne : 23.12.1895; Świdnica; none
+PPN1689793767; 1898; Brief an B. Schott's Söhne : 12.06.1898; Gundelsheim a.N.; none
+PPN1689793775; 1898; Brief an B. Schott's Söhne : 15.06.1898; Gundelsheim a.N.; none
+PPN1689793791; 1898; Brief an B. Schott's Söhne : 20.06.1898; Gundelsheim a.N.; none
+PPN1689793813; 1898; Brief an B. Schott's Söhne : 14.08.1898; Weinheim; none
+PPN1689793821; 1898; Brief an B. Schott's Söhne : 09.09.1898; Blankenburg (Harz); none
+PPN168979383X; 1898; Brief an B. Schott's Söhne : 26.09.1898; Blankenburg (Harz); none
+PPN1689793848; 1898; Brief an B. Schott's Söhne : 16.10.1898; Blankenburg (Harz); none
+PPN1689793856; 1898; Brief an B. Schott's Söhne : 07.12.1898; Blankenburg (Harz); none
+PPN1689793872; 1898; Brief an B. Schott's Söhne : 25.11.1898; Blankenburg (Harz); none
+PPN1689793880; 1898; Brief an B. Schott's Söhne : 21.11.1898; Blankenburg (Harz); none
+PPN1689793899; 1898; Brief an B. Schott's Söhne : 11.12.1898; Blankenburg (Harz); none
+PPN1689793910; 1898; Brief an B. Schott's Söhne : 19.12.1898; Blankenburg (Harz); none
+PPN1689793945; 1897; Brief an B. Schott's Söhne : 07.03.1897; Paris; none
+PPN1689793953; 1897; Brief an B. Schott's Söhne : 13.03.1897; Paris; none
+PPN1689793961; 1897; Brief an B. Schott's Söhne : 14.03.1897; Paris; none
+PPN168979397X; 1897; Brief an B. Schott's Söhne : 29.04.1897; Paris; none
+PPN1689793988; 1897; Brief an B. Schott's Söhne : 03.07.1897; Paris; none
+PPN1689793996; 1897; Brief an B. Schott's Söhne : 07.07.1897; Paris; none
+PPN1689794003; 1897; Brief an B. Schott's Söhne : 22.08.1897; Paris; none
+PPN1689794011; 1897; Brief an B. Schott's Söhne : 08.09.1897; Paris; none
+PPN168979402X; 1897; Brief an B. Schott's Söhne : 08.09.1897; Paris; none
+PPN1689794038; 1897; Brief an B. Schott's Söhne : 09.09.1897; Paris; none
+PPN1689794046; 1897; Brief an B. Schott's Söhne : 13.09.1897; Paris; none
+PPN1689794054; 1897; Brief an B. Schott's Söhne : 16.09.1897; Paris; none
+PPN1689794070; 1897; Brief an B. Schott's Söhne : 18.09.1897; Paris; none
+PPN1689794097; 1897; Brief an B. Schott's Söhne : 26.09.1897; Paris; none
+PPN1689794119; 1897; Brief an B. Schott's Söhne : 02.10.1897; Paris; none
+PPN1689794127; 1897; Brief an B. Schott's Söhne : 14.10.1897; Paris; none
+PPN1689794135; 1898; Brief an B. Schott's Söhne : 16.10.1898; Köln; none
+PPN1689794143; 1906; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 26.06.1906; Paris; none
+PPN1689794151; 1906; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 18.07.1906; Bad Kissingen; none
+PPN168979416X; 1895; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 07.01.1895; Prag; none
+PPN1689794186; 1895; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 28.01.1895; Prag; none
+PPN1689794194; 1895; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 07.04.1895; Weimar; none
+PPN1689794216; 1895; Brief an B. Schott's Söhne : 30.10.1895; München; none
+PPN1689794232; 1895; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 14.04.1895; Karlsruhe; none
+PPN1689794240; 1895; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 25.05.1895; Weimar; none
+PPN1689794267; 1898; Brief an Ludwig Strecker <senior> und B. Schott's Söhne : 31.12.1898; Prag; none
+PPN1689794275; 1895; Verlagsschein "Zwischen E. N. v. R. & der Firma [B. Schott's Söhne]"; o; none
+PPN1689794291; 1895; Brief an B. Schott's Söhne : 29.05.1895; Wien; none
+PPN1689794305; 1895; Brief an B. Schott's Söhne : 16.06.1895; Wien; none
+PPN1689794348; 1895; Brief an B. Schott's Söhne : 26.06.1895; Sankt Gilgen; none
+PPN1689794356; 1895; Brief an B. Schott's Söhne : 18.08.1895; Sankt Gilgen; none
+PPN1689794364; 1895; Brief an B. Schott's Söhne : 02.09.1895; Sankt Gilgen; none
+PPN1689794372; 1895; Brief an B. Schott's Söhne : 15.10.1895; Wien; none
+PPN1689794380; 1895; Brief an B. Schott's Söhne : 18.11.1895; Wien; none
+PPN1689794399; 1895; Brief an B. Schott's Söhne : 29.11.1895; Wien; none
+PPN1689794402; 1897; Brief an B. Schott's Söhne : 30.01.1897; Dresden; none
+PPN1689794410; 1897; Brief an B. Schott's Söhne : 03.02.1897; Dresden; none
+PPN1689794429; 1897; Brief an B. Schott's Söhne : 14.07.1897; Westerland; none
+PPN1689794437; 1897; Brief an B. Schott's Söhne : 10.10.1897; Dresden; none
+PPN1689794453; 1897; Brief an B. Schott's Söhne : 21.10.1897; Dresden; none
+PPN1689794461; 1897; Brief an B. Schott's Söhne : 26.10.1897; Dresden; none
+PPN1689794488; 1897; Brief an B. Schott's Söhne : 21.10.1897; Dresden; none
+PPN1689794496; 1897; Brief an B. Schott's Söhne : 16.10.1897; Dresden; none
+PPN1689794518; 1897; Brief an B. Schott's Söhne : 28.10.1897; Dresden; none
+PPN1689794534; 1898; Brief an B. Schott's Söhne : 15.06.1898; Dresden; none
+PPN1689794542; 1898; Brief an B. Schott's Söhne : 26.06.1898; Dresden; none
+PPN1689794550; 1898; Brief an B. Schott's Söhne : 14.07.1898; Blankenberge; none
+PPN1689794569; 1898; Brief an B. Schott's Söhne : 19.07.1898; Blankenberge; none
+PPN1689794585; 1898; Brief an B. Schott's Söhne : 30.07.1898; Blankenberge; none
+PPN1689794607; 1898; Brief an B. Schott's Söhne : 20.10.1898; Blankenberge; none
+PPN1689794623; 1898; Brief an B. Schott's Söhne : 30.10.1898; Dresden; none
+PPN1689794658; 1898; Brief an B. Schott's Söhne : 03.11.1898; Dresden; none
+PPN1689794666; 1898; Brief an B. Schott's Söhne : 23.12.1898; Dresden; none
+PPN1689794690; 1906; Brief an B. Schott's Söhne : 06.04.1906; Wien; none
+PPN1689794704; 1906; Brief an B. Schott's Söhne : 31.08.1906; Badgastein; none
+PPN1689794712; 1897; Brief an B. Schott's Söhne : 12.01.1897; Frankfurt am Main; none
+PPN1689794720; 1897; Brief an B. Schott's Söhne : 03.06.1897; Berlin; none
+PPN1689794747; 1897; Brief an B. Schott's Söhne : 29.06.1897; Berlin; none
+PPN1689794755; 1897; Brief an B. Schott's Söhne : 17.07.1897; Berlin; none
+PPN1689794763; 1897; Brief an B. Schott's Söhne : 23.07.1897; Berlin; none
+PPN1689794771; 1897; Brief an B. Schott's Söhne : 27.07.1897; Berlin; none
+PPN168979478X; 1897; Brief an B. Schott's Söhne : 29.07.1897; Berlin; none
+PPN1689794798; 1897; Brief an B. Schott's Söhne : 02.08.1897; Berlin; none
+PPN1689794801; 1897; Brief an B. Schott's Söhne : 04.10.1897; Berlin; none
+PPN168979481X; 1897; Brief an B. Schott's Söhne : 13.10.1897; Berlin; none
+PPN1689794836; 1897; Brief an B. Schott's Söhne : 22.10.1897; Berlin; none
+PPN1689794844; 1897; Brief an B. Schott's Söhne : 13.11.1897; Berlin; none
+PPN1689794852; 1906; Brief an B. Schott's Söhne : 01.02.1906; Berlin; none
+PPN1689794879; 1906; Brief an B. Schott's Söhne : 20.05.1906; Rom; none
+PPN1689794887; 1906; Brief an B. Schott's Söhne : 07.06.1906; Rom; none
+PPN1689794895; 1906; Brief an B. Schott's Söhne : 12.06.1906; Rom; none
+PPN1689794909; 1906; Brief an B. Schott's Söhne : 11.07.1906; Rom; none
+PPN1689794917; 1906; Brief an B. Schott's Söhne : 04.07.1906; Rom; none
+PPN1689794925; 1898; Brief an B. Schott's Söhne : 13.10.1898; o; none
+PPN1689794933; 1898; Brief an Ethel Smyth : 21.07.1898; Interlaken; none
+PPN1689794941; 1898; Brief an B. Schott's Söhne : 24.07.1898; Frimley; none
+PPN1689794976; 1898; Brief an B. Schott's Söhne : 24.06.1898; Frimley; none
+PPN1689794984; 1898; Brief an B. Schott's Söhne : 24.07.1898; Frimley; none
+PPN1689794992; 1898; Brief an B. Schott's Söhne : 29.07.1898; Frimley; none
+PPN168979500X; 1898; Brief an B. Schott's Söhne : 04.08.1898; Frimley; none
+PPN1689795018; 1898; Brief an B. Schott's Söhne : 07.08.1898; Frimley; none
+PPN1689795034; 1898; Brief an B. Schott's Söhne : 08.08.1898; Frimley; none
+PPN1689795042; 1898; Brief an B. Schott's Söhne : 12.08.1898; Frimley; none
+PPN1689795050; 1898; Brief an B. Schott's Söhne : 23.08.1898; Frimley; none
+PPN1689795069; 1898; Brief an B. Schott's Söhne : 26.08.1898; Frimley; none
+PPN1689795085; 1898; Brief an B. Schott's Söhne : 26.08.1898; Frimley; none
+PPN1689795107; 1898; Brief an B. Schott's Söhne : 29.08.1898; Frimley; none
+PPN1689795131; 1898; Brief an B. Schott's Söhne : 08.09.1898; Frimley; none
+PPN168979514X; 1898; Brief an B. Schott's Söhne : 12.09.1898; Aviemore; none
+PPN1692414801; 1800; Grundriss von dem alten und dem sogenannten neuen Schloss bey Neydenburg; [Deutschland?]; none
+PPN1696130492; 1800; Plan der Gegend vor der Friedrichsstadt von Magdeburg; [Deutschland?]; none
+PPN1697318347; 1891; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 18.10.1891; Darmstadt; none
+PPN169731838X; 1894; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 09.03.1894; Camberley; none
+PPN169731841X; 1894; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 11.05.1894; Camberley; none
+PPN1697318436; 1894; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 06.1894; München; none
+PPN1697318452; 1890; Brief an B. Schott's Söhne : 13.10.1890; Ballenstedt; none
+PPN1697318517; 1890; Brief an B. Schott's Söhne : 19.11.1890; Ballenstedt; none
+PPN1697318541; 1891; Brief an B. Schott's Söhne : 21.03.1891; Ballenstedt; none
+PPN1697318568; 1891; Brief an B. Schott's Söhne : 07.04.1891; Ballenstedt; none
+PPN1697318584; 1891; Brief an B. Schott's Söhne : 04.05.1891; Ballenstedt; none
+PPN1697318622; 1891; Brief an B. Schott's Söhne : 12.05.1891; Ballenstedt; none
+PPN1697318673; 1891; Brief an B. Schott's Söhne : 18.06.1891; Ballenstedt; none
+PPN1697318703; 1891; Brief an B. Schott's Söhne : 27.06.1891; Ballenstedt; none
+PPN169731872X; 1891; Brief an B. Schott's Söhne : 12.08.1891; Ballenstedt; none
+PPN1697318754; 1891; Brief an B. Schott's Söhne : 12.09.1891; Ballenstedt; none
+PPN1697318789; 1891; Brief an B. Schott's Söhne : 03.10.1891; Ballenstedt; none
+PPN1697318797; 1891; Brief an B. Schott's Söhne : 05.11.1891; Ballenstedt; none
+PPN1697318827; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 18.09.1893; Dresden; none
+PPN169731886X; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 11.11.1893; Arad <Rumänien>; none
+PPN1697318886; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 10.10.1893; Dresden; none
+PPN1697318924; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 17.10.1893; Dresden; none
+PPN1697318940; 1893; Brief an B. Schott's Söhne : 21.08.1893; Berlin; none
+PPN1697318967; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 13.09.1893; Berlin; none
+PPN1697319009; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 01.10.1893; Berlin; none
+PPN169731905X; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 16.01.1893; o.O.; none
+PPN1697319076; 1891; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 29.04.1891; Rom; none
+PPN1697319092; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 14.11.1893; Rom; none
+PPN1697319106; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 21.11.1893; Rom; none
+PPN1697319130; 1891; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 04.04.1891; Rom; none
+PPN1697319181; 1891; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 18.04.1891; Rom; none
+PPN1697319211; 1891; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 28.04.1891; Rom; none
+PPN1697319246; 1891; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 12.12.1891; Rom; none
+PPN1697319262; 1892; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 15.12.1892; Rom; none
+PPN1697319270; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 28.08.1893; Bagni di Lucca; none
+PPN1697319297; 1891; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 02.04.1891; Rom; none
+PPN1697319335; 1891; Brief an B. Schott's Söhne : 01.06.1891; Karlsruhe; none
+PPN1697319351; 1891; Brief an B. Schott's Söhne : 25.07.1891; Karlsruhe; none
+PPN1697319408; 1891; Brief an B. Schott's Söhne : 04.10.1891; Karlsruhe; none
+PPN1697319432; 1891; Brief an B. Schott's Söhne : 11.10.1891; Karlsruhe; none
+PPN1697319467; 1891; Brief an B. Schott's Söhne : 24.11.1891; Karlsruhe; none
+PPN1697319483; 1909; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 17.09.1909; Spandau; none
+PPN1697319513; 1909; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 09.10.1909; Spandau; none
+PPN1697319521; 1909; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 09.12.1909; Spandau; none
+PPN1697319556; 1891; Brief an B. Schott's Söhne : 08.08.1891; Deixlfurt; none
+PPN1697319580; 1891; Brief an B. Schott's Söhne : 09.08.1891; Deixlfurt; none
+PPN1697319599; 1891; Brief an B. Schott's Söhne : 20.02.1891; Dresden; none
+PPN1697319610; 1891; Brief an B. Schott's Söhne : 26.12.1891; Dresden; none
+PPN1697319637; 1891; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 14.10.1891; Karlsruhe; none
+PPN169731967X; 1891; Brief an B. Schott's Söhne : 10.05.1891; Dresden; none
+PPN1697319734; 1891; Brief an B. Schott's Söhne : 22.05.1891; Dresden; none
+PPN1697319793; 1891; Brief an B. Schott's Söhne : 03.09.1891; Dresden; none
+PPN1697319831; 1891; Brief an B. Schott's Söhne : 16.09.1891; Dresden; none
+PPN1697319858; 1891; Brief an B. Schott's Söhne : 22.09.1891; Dresden; none
+PPN1697319890; 1852; Brief an B. Schott's Söhne : 26.05.1852; London; none
+PPN1697319904; 1852; Brief an B. Schott's Söhne : 14.06.1852; London; none
+PPN1697319939; 1852; Brief an B. Schott's Söhne : 24.06.1852; London; none
+PPN1697319955; 1852; Brief an B. Schott's Söhne : 28.06.1852; London; none
+PPN1697319998; 1852; Brief an B. Schott's Söhne : 03.07.1852; London; none
+PPN1697320023; 1852; Brief an B. Schott's Söhne : 14.07.1852; London; none
+PPN1697320066; 1852; Brief an B. Schott's Söhne : 22.07.1852; o.O.; none
+PPN1697320104; 1852; Brief an B. Schott's Söhne : 05.08.1852; o.O.; none
+PPN1697320112; 1852; Brief an B. Schott's Söhne : 06.10.1852; London; none
+PPN1697320120; 1852; Brief an B. Schott's Söhne : 25.08.1852; London; none
+PPN1697320147; 1852; Brief an B. Schott's Söhne : 25.11.1852; London; none
+PPN1697320201; 1852; Brief an B. Schott's Söhne : 22.12.1852; London; none
+PPN169732021X; 1853; Brief an B. Schott's Söhne : 02.02.1853; London; none
+PPN1697320279; 1853; Brief an B. Schott's Söhne : 24.12.1853; London; none
+PPN1697320317; 1853; Brief an B. Schott's Söhne : 10.01.1853; London; none
+PPN1697320333; 1853; Brief an Johann Baptist Wolf an Schott & Co. <London> : 17.10.1853; Mainz; none
+PPN1697320376; 1853; Brief an B. Schott's Söhne : 03.11.1853; London; none
+PPN1697320392; 1852; Brief an B. Schott's Söhne : 05.02.1852; London; none
+PPN1697320414; 1853; Brief an B. Schott's Söhne : 22.02.1853; London; none
+PPN1697320473; 1853; Brief an B. Schott's Söhne : 23.03.1853; London; none
+PPN1697320511; 1853; Brief an B. Schott's Söhne : 16.03.1853; London; none
+PPN1697320546; 1853; Brief an B. Schott's Söhne : 20.04.1853; London; none
+PPN1697320562; 1853; Brief an B. Schott's Söhne : 04.05.1853; o.O.; none
+PPN1697320600; 1853; Brief an B. Schott's Söhne : 21.05.1853; London; none
+PPN1697320635; 1853; Brief an B. Schott's Söhne : 24.06.1853; London; none
+PPN1697320694; 1853; Brief an B. Schott's Söhne : 22.07.1853; London; none
+PPN1697320716; 1853; Brief an B. Schott's Söhne : 10.10.1853; London; none
+PPN1697320732; 1853; Brief an B. Schott's Söhne : 09.08.1853; London; none
+PPN1697320783; 1853; Brief an B. Schott's Söhne : 09.09.1853; London; none
+PPN1697320805; 1853; Brief an B. Schott's Söhne : 09.09.1853; London; none
+PPN1697320821; 1853; Brief an B. Schott's Söhne : 02.09.1853; London; none
+PPN1697320864; 1854; Brief an B. Schott's Söhne : 04.03.1854; London; none
+PPN1697320899; 1854; Brief an B. Schott's Söhne : 30.04.1854; London; none
+PPN1697320945; 1854; Brief an B. Schott's Söhne : 03.07.1854; London; none
+PPN169732097X; 1854; Brief an B. Schott's Söhne : 02.08.1854; London; none
+PPN1697321003; 1854; Brief an B. Schott's Söhne : 09.08.1854; London; none
+PPN1697321038; 1854; Brief an B. Schott's Söhne : 06.09.1854; London; none
+PPN1697321070; 1854; Brief an B. Schott's Söhne : 27.10.1854; London; none
+PPN1697321151; 1854; Brief an Johann Baptist Wolf an Schott & Co. <London> : 17.08.1854; Mainz; none
+PPN1697321178; 1854; Brief an Johann Baptist Wolf an Schott & Co. <London> : 03.11.1854; Mainz; none
+PPN1697321208; 1854; Brief an B. Schott's Söhne : 28.11.1854; London; none
+PPN1697321224; 1855; Brief an Franz Schott an B. Schott's Söhne : 18.02.1855; London; none
+PPN1697321259; 1855; Brief an Franz Schott an B. Schott's Söhne : 09.05.1855; London; none
+PPN1697321305; 1855; Brief an Franz Schott an B. Schott's Söhne : 27.07.1855; London; none
+PPN1697321313; 1855; Brief an Johann Baptist Wolf an Schott & Co. <London> : 08.08.1855; Mainz; none
+PPN1697321380; 1893; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 26.04.1893; Wien; none
+PPN1697321399; 1901; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 25.03.1901; Hamburg; none
+PPN1697321402; 1901; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 13.04.1901; Hamburg; none
+PPN1697321445; 1889; Brief an B. Schott's Söhne : 19.04.1889; Paris; none
+PPN1697321461; 1889; Brief an B. Schott's Söhne : 17.05.1889; Paris; none
+PPN169732150X; 1889; Brief an B. Schott's Söhne : 07.06.1889; Paris; none
+PPN1697321542; 1889; Brief an B. Schott's Söhne : 08.06.1889; Paris; none
+PPN1697321550; 1889; Brief an B. Schott's Söhne : 11.06.1889; Paris; none
+PPN1697321585; 1889; Brief an B. Schott's Söhne : 14.06.1889; Paris; none
+PPN1697321607; 1889; Brief an B. Schott's Söhne : 23.06.1889; Paris; none
+PPN1697321623; 1889; Brief an B. Schott's Söhne : 16.09.1889; Sables-d'Olonne; none
+PPN169732164X; 1888; Brief an B. Schott's Söhne : 16.10.1888; Paris; none
+PPN1697321682; 1888; Brief an B. Schott's Söhne : 25.10.1888; Paris; none
+PPN1697321704; 1889; Brief an B. Schott's Söhne : 08.10.1889; Paris; none
+PPN1697321720; 1890; Brief an B. Schott's Söhne : 23.01.1890; Paris; none
+PPN1697321739; 1890; Brief an B. Schott's Söhne : 30.01.1890; Paris; none
+PPN1697321747; 1890; Brief an B. Schott's Söhne : 02.02.1890; Paris; none
+PPN1697321755; 1890; Brief an B. Schott's Söhne : 08.03.1890; Paris; none
+PPN1697321763; 1890; Brief an B. Schott's Söhne : 19.03.1890; Paris; none
+PPN169732178X; 1890; Brief an B. Schott's Söhne : 22.05.1890; Paris; none
+PPN1697321828; 1890; Brief an B. Schott's Söhne : 31.05.1890; Paris; none
+PPN1697321836; 1890; Brief an B. Schott's Söhne : 24.07.1890; Paris; none
+PPN1697321895; 1890; Brief an B. Schott's Söhne : 06.10.1890; Paris; none
+PPN1697321909; 1889; Brief an B. Schott's Söhne : 08.01.1889; Rotterdam; none
+PPN1697321925; 1898; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 18.01.1898; Linz; none
+PPN169732195X; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 07.01.1899; Linz; none
+PPN1697321976; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 28.01.1899; Linz; none
+PPN1697322018; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 08.01.1899; Linz; none
+PPN1697322042; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 25.02.1899; Linz; none
+PPN1697322085; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 25.03.1899; Linz; none
+PPN1697322115; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 29.03.1899; Linz; none
+PPN169732214X; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 22.05.1899; Linz; none
+PPN1697322174; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 15.06.1899; Linz; none
+PPN1697322204; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 19.06.1899; Linz; none
+PPN1697322220; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 07.07.1899; Linz; none
+PPN1697322255; 1899; Brief an B. Schott's Söhne : 17.07.1899; Berlin; none
+PPN1697322298; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 18.07.1899; Berlin; none
+PPN1697322328; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 25.07.1899; Berlin; none
+PPN1697322360; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 31.07.1899; Berlin; none
+PPN1697322433; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 14.08.1899; Berlin; none
+PPN1697322476; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 19.08.1899; Berlin; none
+PPN1697322484; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 20.09.1899; Linz; none
+PPN1697322522; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 24.10.1899; Linz; none
+PPN1697322565; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 02.11.1899; Linz; none
+PPN1697322573; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 09.12.1899; Linz; none
+PPN169732259X; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 28.03.1899; Linz; none
+PPN1697322603; 1899; Brief an B. Schott's Söhne : 10.03.1899; Linz; none
+PPN1697322638; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 20.12.1899; Linz; none
+PPN1697322654; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 23.12.1899; Linz; none
+PPN1697322697; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 29.12.1899; Linz; none
+PPN1697322735; 1889; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 08.10.1889; Hejasfalva; none
+PPN1697322778; 1899; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 16.10.1899; Hejasfalva; none
+PPN1697322816; 1889; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 01.11.1889; Hejasfalva; none
+PPN1697322824; 1889; Brief an B. Schott's Söhne : 30.06.1889; Bayreuth; none
+PPN1697322832; 1889; Brief an B. Schott's Söhne : 05.10.1889; Koblenz; none
+PPN1697322875; 1889; Brief an B. Schott's Söhne : 12.10.1889; Koblenz; none
+PPN1697322913; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 02.04.1888; Sestri Ponente; none
+PPN169732293X; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 03.05.1888-12.06.1888; Pegli; none
+PPN1697322964; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 12.05.1888; Wien; none
+PPN1697322980; 1889; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 14.05.1889; Graz; none
+PPN1697323006; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 05.09.1888; Offenbach am Main; none
+PPN1697323049; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 31.10.1888; Offenbach am Main; none
+PPN1697323073; 1888; Brief an B. Schott's Söhne : 29.04.1888; Bern; none
+PPN169732309X; 1888; Brief an B. Schott's Söhne : 20.02.1888; London; none
+PPN1697323138; 1888; Brief an B. Schott's Söhne : 04.07.1888; London; none
+PPN1697323162; 1890; Brief an B. Schott's Söhne : 15.03.1890; Bonn; none
+PPN1697323197; 1890; Brief an B. Schott's Söhne : 04.05.1890; Bonn; none
+PPN1697323227; 1890; Brief an B. Schott's Söhne : 23.05.1890; Bonn; none
+PPN169732326X; 1888; Brief an B. Schott's Söhne : 12.06.1888; Neuilly sur Seine; none
+PPN1697323286; 1888; Brief an B. Schott's Söhne : 30.06.1888; Neuilly sur Seine; none
+PPN1697323316; 1888; Brief an B. Schott's Söhne : 05.07.1888; Neuilly sur Seine; none
+PPN1697323332; 1888; Brief an B. Schott's Söhne : 07.07.1888; Neuilly sur Seine; none
+PPN1697323359; 1888; Brief an B. Schott's Söhne : 22.07.1888; Neuilly sur Seine; none
+PPN1697323375; 1888; Brief an B. Schott's Söhne : 18.09.1888; Neuilly sur Seine; none
+PPN1697323391; 1888; Brief an B. Schott's Söhne : 23.10.1888; Dresden; none
+PPN1697323413; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 29.11.1888; Neuilly sur Seine; none
+PPN169732343X; 1888; Brief an B. Schott's Söhne : 18.12.1888; Neuilly sur Seine; none
+PPN1697323456; 1888; Brief an B. Schott's Söhne : 22.02.1888; Berlin; none
+PPN1697323480; 1888; Brief an B. Schott's Söhne : 14.11.1888; Berlin; none
+PPN1697323502; 1887; Brief an B. Schott's Söhne : 23.12.1887; Berlin; none
+PPN1697323529; 1888; Brief an B. Schott's Söhne : 28.11.1888; Berlin; none
+PPN1697323537; 1888; Brief an B. Schott's Söhne : 07.12.1888; Berlin; none
+PPN1697323545; 1887; Brief an B. Schott's Söhne : 10.10.1887; Hall in Tirol; none
+PPN1697323553; 1887; Brief an B. Schott's Söhne : 08.02.1887; Hall in Tirol; none
+PPN169732357X; 1887; Brief an B. Schott's Söhne : 15.02.1887; Hall in Tirol; none
+PPN1697323588; 1887; Brief an B. Schott's Söhne : 16.02.1887; Hall in Tirol; none
+PPN169732360X; 1887; Brief an B. Schott's Söhne : 10.05.1887; Hall in Tirol; none
+PPN1697323642; 1887; Brief an B. Schott's Söhne : 12.10.1887; Hall in Tirol; none
+PPN1697323650; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 07.01.1888; Sankt Petersburg; none
+PPN1697323707; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 20.01.1888; Sankt Petersburg; none
+PPN1697323731; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 11.03.1888; Sankt Petersburg; none
+PPN1697323766; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 30.03.1888; Sankt Petersburg; none
+PPN1697323790; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 27.04.1888; Sankt Petersburg; none
+PPN1697323863; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 15.05.1888; Sankt Petersburg; none
+PPN1697323871; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 30.06.1888; Sankt Petersburg; none
+PPN1697323898; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 01.04.1888; Sankt Moritz; none
+PPN169732391X; 1888; Brief an B. Schott's Söhne : 10.08.1888; Sankt Moritz; none
+PPN1697323928; 1888; Brief an B. Schott's Söhne : 20.08.1888; Sankt Moritz; none
+PPN1697323952; 1888; Brief an Ludwig Strecker <senior> an B. Schott's Söhne : 16.08.1888; Sankt Petersburg; none
+PPN1698875312; 1800; Plan goroda Libavy s gavanju i so okružnostin; [Russland?]; none
+PPN1702887367; 1800; [Gegend des Plauenschen Grundes bei Dresden]; [Deutschland?]; none
+PPN1782002405; 1826; Die Erdkugel; von 8 Leipziger Zoll; Berlin; Simon Schropp et Co.
+PPN1813395187; 1919; Mittelbachs Karte der Nationalwahlen; Leipzig; none
+PPN1813398062; 1837; Carte Générale Du Canal d'ecoulement des eaux des Flandres; Bruxelles; none
+PPN1815506326; 1810; [Disposition zur Besetzung und Defension des Dorf Heinersdorf bei Berlin]; [Deutschland?]; none
+PPN1815508221; 1820; Berlin; [Deutschland?]; none
+PPN1815511435; 1800; Berlin 1800; [Deutschland?]; none
+PPN1815562587; 1835; Der Thiergarten bei Berlin; [Deutschland?]; none
+PPN1815661925; 1800; [Theresienstadt]; [Österreich?]; none
+PPN1815662115; 1800; [Theresienstadt]; [Österreich?]; none
+PPN1815662654; 1800; Plan von der Stadt Plauen im Voigtlande; [Deutschland?]; none
+PPN181567475X; 1800; Tractus XXV von Neunkirchen; Copie der nassauischen Karte a. d. J. 1797; [Deutschland?]; none
+PPN1815698438; 1800; Plano de ciudad de Pamplona et Ciudadella; [Spanien?]; none
+PPN1815700459; 1800; Grundriss der Stadt Seehausen vom Jahr 1800; [Deutschland?]; none
+PPN1815702095; 1800; [Plauen mit nächster Umgebung]; [Deutschland?]; none
+PPN1815702702; 1800; Plan von Neisse; [Deutschland?]; none
+PPN1815703148; 1800; [Der Schloßplatz zu Coblenz]; [Deutschland?]; none
+PPN1815703814; 1800; Plan de Montreuil; [Frankreich?]; none
+PPN1815738375; 1800; Plan der Stadt Peronne; [Deutschland?]; none
+PPN1815738561; 1800; Plan der Stadt Peronne; [Deutschland?]; none
+PPN1815771577; 1800; Plan du Chateau de Caen; [Frankreich?]; none
+PPN1815778016; 1800; Plan von Coburg; [Deutschland?]; none
+PPN1815778733; 1800; [Saaz an der Eger]; [Deutschland?]; none
+PPN1815779977; 1800; Plan der Stadt Kobrin mit der umliegenden Gegend; [Deutschland?]; none
+PPN1815804203; 1800; Plan de Bergen op Zom; [Niederlande?]; none
+PPN1815807962; 1800; Plan von Arnheim; [Deutschland?]; none
+PPN1815815094; 1800; Plan de Calais; [Frankreich?]; none
+PPN1815816295; 1800; Plan von der Stadt Joachimsthal; [Deutschland?]; none
+PPN1815816716; 1800; Plan von der Stadt Brüssow; [Deutschland?]; none
+PPN1815817135; 1800; [Pillau]; [Deutschland?]; none
+PPN181581781X; 1800; Plan von Cüstrin; Copia; [Deutschland?]; none
+PPN1815818204; 1800; Plan von der Stadt Bilin aus Böhmen in Leitmeritzer Craysse; [Österreich?]; none
+PPN1815818786; 1800; Plan de Philippeville; [Belgien?]; none
+PPN1815845740; 1800; Plan razvalinon drevnjago Cherson; [Deutschland?]; none
+PPN1815847638; 1800; Plan von der Stadt Strasburg [Uckerm.]; [Deutschland?]; none
+PPN1815848820; 1800; Plan von dem Altstaedtischen und angrentzenden Stade und Necknischen Felde; [Deutschland?]; none
+PPN1815852151; 1800; [Die Swinemündung]; [Deutschland?]; none
+PPN1815853085; 1800; [Festung Ulm]; [Verstärkungsentwurf]; [Deutschland?]; none
+PPN1815969555; 1800; Plan de la Ville d'Andernach; poste militaire dans le Départmt. de Rhin et Moselle; [Deutschland?]; none
+PPN1815985097; 1800; Plan von Nienburg, worauf nach geschehner Demolition die Veränderungen des Hauptwalles und der Außenwercke vorgestellet worden; [Deutschland?]; none
+PPN1815988819; 1800; Plan d'Ostende; [Deutschland?]; none
+PPN181638187X; 1800; [Festung Ziegenhain]; [Deutschland?]; none
+PPN1816382019; 1800; Grundriss der schriftsaessigen Stadt Doebeln; [Deutschland?]; none
+PPN1816382213; 1800; Plan von der Stadt Colberg und der umliegenden Gegend; [Deutschland?]; none
+PPN1816382280; 1800; [Die Befestigungen an der Grebbe]; [unterhalb Wageningen]; [Niederlande?]; none
+PPN1816913642; 1800; [Namur mit nächster Umgebung]; [Belgien?]; none
+PPN1816916617; 1800; [Mézières-Charleville]; [Frankreich?]; none
+PPN181691925X; 1815; [Mézières-Charleville]; [Frankreich?]; none
+PPN1816922390; 1800; [Guise]; [Frankreich?]; none
+PPN1816929808; 1800; [Culmbach mit Plassenburg]; [Deutschland?]; none
+PPN1817022741; 1802; Grundriss von der schriftsaessigen Stadt Grossenhayn; im Jahr 1902 aufgenommen und gezeichnet; [Deutschland?]; none
+PPN1817023365; 1801; Plan der Babels Berge und des Dorfes Glinicke nebst umliegender Gegend; [Deutschland?]; none
+PPN1817023713; 1800; Plan der Stadt Magdeburg nebst Nachweisung und Benennung der öffentlichen Gebäude, wie auch sämtlicher Straßen und Kirchen; [Deutschland?]; none
+PPN1817170961; 1800; Bardowieck; [Deutschland?]; none
+PPN1817171194; 1800; Plan de Woerden; [Niederlande?]; none
+PPN1817171569; 1800; Plan de Woerden; [Niederlande?]; none
+PPN1817175025; 1800; Anvers; [Belgien?]; none
+PPN1817176919; 1800; Belfort; [Deutschland?]; none
+PPN181717973X; 1800; Fort Barraux; [Frankreich?]; none
+PPN1817181351; 1800; Ardres; [Frankreich?]; none
+PPN1817205617; 1802; Plan de Rocroy; [Frankreich?]; none
+PPN1817207334; 1803; Barchfeld [und] Immelborn [an der] Werra; Gotha; none
+PPN1817208675; 1802; Plan Des Ausflusses der Weichsel in die Ostsee bey Danzig; aufgenommen im Jahre 1802; [Deutschland?]; none
+PPN1817210904; 1803; Situations Plan von der Stadt Erlang und derselben umliegenden Gegend; Bayreuth; none
+PPN1817219693; 1802; Plan af en del utaf Loitzer Stad med det därvid liggande Gamla Slottet och dess Rudera i dess varande tilstand Ar 1802; [Deutschland?]; none
+PPN1817224735; 1802; Plan af en del utaf Loitzer Stad med det därvid liggande Gamla Slottet och dess Rudera i dess varande tilstand Ar 1802; [Deutschland?]; none
+PPN1817225235; 1803; Plan von Stettin; nebst der umliegenden Gegend, aufgenommen im Sommer 1802 von denen Officiers des von Owstien'schen und von Borck'schen Infantrie-Regiments; [Deutschland?]; none
+PPN181722610X; 1803; Plan von der Vestung Stettin; [Deutschland?]; none
+PPN1817229583; 1802; Grundrisss von Kalisch und der umliegenden Gegend; [Deutschland?]; none
+PPN1817229966; 1803; Lenczyc; [Deutschand?]; none
+PPN1817230328; 1803; Plan der Festung Lenczyc mit der umliegenden Gegend; [Deutschand?]; none
+PPN1817326074; 1800; Bellegarde; [Frankreich?]; none
+PPN1817382144; 1800; Brzesc; [Erscheinungsort nicht ermittelbar]; none
+PPN1817401769; 1800; Haupt-Grundriss des Schlosses Corvey und der Oekonomie Gebäuden; [Deutschland?]; none
+PPN1817402242; 1800; Plan von Ansbach und der umliegenden Gegend; [Deutschland?]; none
+PPN1817403338; 1800; Grundriss von Zerbst; [Deutschland?]; none
+PPN1817881159; 1803; Brouillon Vermessungs-Plan von der Königlichen Südpreussischen Immedial Stadt Konin; [S.l.]; none
+PPN1817882406; 1808; Plan de Praga; avec les nouveaux retranchement; [Tschechien?]; none
+PPN1817884603; 1812; Plan von Sluzk; [Belarus?]; none
+PPN1818036738; 1812; Plan von Mohilef; aufgenommen d. 6. Sept.; [Belarus]; none
+PPN1818040573; 1810; Plan eines Befestigungs-Entwurfs auf die Stadt Grodno in Litthauen; [Belarus?]; none
+PPN1818041359; 1810; Plan-goroda Brest Litowskago Grodneiskoi gubernii; [Belarus?]; none
+PPN1818042037; 1810; Acropolis von Mycenae, od. Localität zur Auffindung des alten Heraeums; Gell Argolis tab. III : 2. Juli 1810; [Griechenland?]; none
+PPN181804272X; 1810; Plan von Tiryns; Argol. tab. 15; [Griechenland?]; none
+PPN1818044641; 1804; Theresienstadt; [Tschechien?]; none
+PPN1818045508; 1807; Stadt Wollin; nach Schritten aufgenommen im Monat Juli 1807; [Polen?]; none
+PPN1818046229; 1806; Plan von dem v. Oheimbschen Landguthe zu Wolfsanger 1/2 Stunde von Caßel; [Deutschland?]; none
+PPN1818047004; 1812; [Wittenberg]; [Entwurf für einen Neubau der Festung] : [nicht ausgeführt]; [Deutschland?]; none
+PPN1818048124; 1806; Nieuport; entnommen ca. 1825 aus: Relations des principaux sièges par V. D. Musset Pathay; [Belgien?]; none
+PPN1818062410; 1810; Plan d'Alexandrie; [Ägypten?]; none
+PPN1818104725; 1806; Plan von der Stadt Burg und der Gegend vor dem Schartauer Thor; [Deutschland?]; none
+PPN1818105233; 1804; Plan der Stadt Göttingen; [Deutschland?]; none
+PPN1818105721; 1810; [Glogau]; [Polen?]; none
+PPN1818106469; 1808; Plan des verschanzten Lagers bei Glatz; [Polen?]; none
+PPN1818107333; 1809; Plan de Weichsel-Münde et de la Wester-Schanze avec l'indication des Ouvrages qui ont été exécutés pendant l'année 1809; [Polen?]; none
+PPN1818107864; 1809; Plan avec l'indication des ouvrages projettées pour nottre en état de défeuse le Fort de Weichselmünde du coté ou son enceinte extérieure n'est print famée; [Polen?]; none
+PPN1818108429; 1809; Plan von der Maykuhle bei der Festung Colberg; [Deutschland?]; none
+PPN1818115883; 1803; Zeichnung vom Gasthof-Gehöfte in Paretz; [Deutschland?]; none
+PPN1818116537; 1810; Plan von Neisse; [Deutschland?]; none
+PPN1818117142; 1804; [Ch. S. Bergfestung Königstein]; [Deutschland?]; none
+PPN1818117886; 1804; Plan des canzleysässigen Guths Kerstlingeroderfelde; [Deutschland?]; none
+PPN1818123576; 1811; Plan von Pillau und Gegend; [Russland?]; none
+PPN1818127717; 1804; Brouillon von dem Dorfe Parey ohnweit der Elbe im Herzogthum Magdeburg; aufgebommen im Julÿ 1804; [Deutschland?]; none
+PPN1818129426; 1806; Grundriss der Vestung Rintelln welche von...Landgräffin Hedwig Sophia...in Ao 1669 erbauet worden; [Deutschland?]; none
+PPN1818143569; 1812; Plan von der Stadt Memel und den Verschanzungen welche die Vorstadt einschließen; [Litauen?]; none
+PPN1818144816; 1806; Plan des von Oheimbschen frei adlichem Guthe zu Rinteln; [Deutschland?]; none
+PPN1818146983; 1806; [Saarlouis mit naher Umgebung]; [Deutschland?]; none
+PPN1818147610; 1808; Die Gegend um Tanneberg zwischen Mittweide und Kriebstein nebst den Grünberger Höhen; [Deutschland?]; none
+PPN1818148676; 1811; Croquis sur l'avancement des travaux de la place de Thorn depuis le 1er au 20eme Octobre 1811; [Polen?]; none
+PPN1818149133; 1806; Plan der Gegend bei Swienemünde; Ano 1806 den 30. August; [Polen?]; none
+PPN1818204304; 1804; Theresienstadt; [Österreich?]; none
+PPN181993568X; 1814; Plan de la Citadelle de Doullens; [Deutschland?]; none
+PPN1819936120; 1814; Plan des Forts Impérial bei der Festung Ostende; [Belgien?]; none
+PPN1819938263; 1814; Salt Boemel; Copie nach einem alten gestochenen Plan : wohl aus dem Ende des 17. Jahrhunderts : mit Bemerkung über den derzeitigen Zustand der Festung; [Deutschland?]; none
+PPN1820192075; 1812; Plan du Fort de Mitau; [Russland?]; none
+PPN1820193047; 1812; [Das Schloss bei Mitau]; [Russland?]; none
+PPN1820193837; 1813; [Wittenberg]; [Festung mit Geschützaufstellung]; [Deutschland?]; none
+PPN1820195570; 1813; Die Festung Wittenberg im Jahre 1813; [Deutschland?]; none
+PPN1820196453; 1813; Plan von Spandau; gezeichnet nach einem Plan vom Jahr 1812 im Jahre 1813; [Deutschland?]; none
+PPN1820197832; 1813; Plan von Pillau; [Deutschland?]; none
+PPN1820198804; 1813; Plan von der Festung Leerorth in Oostvries-Land; [Deutschland?]; none
+PPN1820199789; 1813; [Grundriss] vom Königl. Schloss zu Labiau und den dazu gehörigen Gebaeuden; [Deutshland?]; none
+PPN1820200787; 1813; [Plan der Residenzstadt Hildburghausen]; [Deutschland?]; none
+PPN1820209466; 1813; [Plan der Residenzstadt Hildburghausen]; [Deutschland?]; none
+PPN182021091X; 1812; Léver de Réconnaissance de la Pointe de la Vistule apellée Danziger Haupt à lieues au dessus de la Ville de Danzig; [Deutschland?]; none
+PPN1820212025; 1813; Projekt einer Citadelle von Cöln am oberen Rheinanschluss; [Deutschland?]; none
+PPN1820216578; 1813; Projekt einer Citadelle von Cöln am unteren Rheinanschluss; [Deutschland?]; none
+PPN1820217442; 1813; Plan der Ruinen von Djerasch; [Deutschland?]; none
+PPN1820218775; 1813; Plan der Ruinen von Amman oder Philadelphia; [Deutschland?]; none
+PPN182022080X; 1813; [Bayreuth mit Umgebung]; [Deutschland?]; none
+PPN1820250857; 1814; Pianta de Montevideo; [Erscheinungsort nicht ermittelbar]; none
+PPN1820256189; 1815; Plan von der Stadt und Festung Thorn; [Deutschland?]; none
+PPN1820258386; 1815; Plan von Metz; [Deutschland?]; none
+PPN1820307166; 1815; Plan de la ville de Metz; [Deutschland?]; none
+PPN1820308537; 1814; Aachen; aufgenommen und gezeichnet im Jahr MDCCCXIV; [Deutschland?]; none
+PPN1820310868; 1814; Gorchum; nach einem alten gedruckten Plan copirt; [Niederlande?]; none
+PPN1820311651; 1814; Platte Grond van de Stadt Breda; Copie nach einem alten gedruckten Plan, fast ganz richtig befunden; [Niederlande?]; none
+PPN1820312151; 1815; Grondteckening der Stadt Arnhem; [Niederlande?]; none
+PPN1820315266; 1815; Plan de Ville Franche; [Frankreich?]; none
+PPN1820315657; 1816; Plan de Verdun; [Frankreich?]; none
+PPN1820316181; 1816; [R]econnaissance de la place de Toul et de ses environs ...; [Frankreich]; none
+PPN1820317927; 1814; Toul; [Frankreich?]; none
+PPN1820322203; 1815; [Maubeuge]; [Deutschland?]; none
+PPN1820819078; 1807; Plan de Lauenbourg et des environs; [Deutschland?]; none
+PPN1820820564; 1806; Plan der Festung Hameln; [Deutschland?]; none
+PPN1820821196; 1804; Grund Riss von der schriftsässigen Stadt Grimma; [Deutschland?]; none
+PPN1820821722; 1804; Grund-Riss von der Sechs-Stadt Camenz; [Deutschland?]; none
+PPN1821151534; 1810; Plan de Mezières; [Schweiz]; none
+PPN1821151992; 1804; Plan de la Place de Làndrecies; relatif au projet de l'an Douze; [Frankreich]; none
+PPN1821152654; 1805; Grundriss der Sechsstadt Budissin in der Ober-Lausitz; [Deutschland]; none
+PPN1821164059; 1800; Brema; [Deutschland?]; none
+PPN1823247407; 1809; Plan de Weichsel Münde et de ses environs avec l'indication des Ouvrages projettes pour mettre ce fort et la tête de Pont de la Wester Schanze en État de defense; [Deutschland?]; none
+PPN1823701337; 1807; [Pillau]; [mit Geschütz-Armierung 1807]; [Deutschland?]; none
+PPN182370171X; 1807; [Pillau]; [mit Geschütz-Armierung 1807]; [Deutschland?]; none
+PPN1823702147; 1807; Verschanzungen auf der Nehrungsspitze gegenüber Pillau; [Deutschland?]; none
+PPN1824123787; 1816; [Plan der Festung Maubeuge und ihren Umgebungen]; [Deutschland?]; none
+PPN1824124767; 1817; A new plan of Athens and of the remains of ancient buildings ...; [Griechenland?]; none
+PPN1824126328; 1819; Pianta delle Rovine della Citta di Porto; [Italien?]; none
+PPN1824132883; 1816; Plan von denen Laenderreyen der Stadt Tilse welche zum Brückenkopf genommen sind; [Deutschland?]; none
+PPN1824138652; 1817; Plan von Zerbst; [Deutschland?]; none
+PPN1824139489; 1816; Defensions Plan von der Festung Stralsund im Jahr 1816; [Deutschland?]; none
+PPN1824140703; 1816; [Strassburg und Kehl mit nächster Umgebung]; [Deutschland?]; none
+PPN1824314825; 1818; Plan von Longwy 1817/18; [Deutschland?]; none
+PPN1824315325; 1817; Plan de Lille, en 1817; [Deutschland?]; none
+PPN182431602X; 1816; Plan von Cambrai, Festung im Nord-Departement des Königreichs Frankreichs; [Deutschland?]; none
+PPN182431647X; 1817; Merseburg im Jahre 1817; [Deutschland?]; none
+PPN1824317093; 1817; Plan von Eulenburg; aufgenommen im Jahre 1817; [Deutschland?]; none
+PPN1824317786; 1816; Hoyerswerda; [Deutschland?]; none
+PPN1824319193; 1816; Plan der Citadelle von Mezieres; nebst einen Theil der Stadt und der Vorstaedte Pont d'arches und Pont Pierre; [Deutschland?]; none
+PPN1824422881; 1817; Plan der Festung Montmedy nebst Umgebung auf 3000 Schritt; [Deutschland?]; none
+PPN1824423942; 1817; Plan von Dessau; [Deutschland?]; none
+PPN182442440X; 1819; Plan von der Festung Spandow; [Deutschland?]; none
+PPN1824425198; 1819; Plan de la Ville et des Environs de Cassel; [Deutschland?]; none
+PPN1824425988; 1816; Situations-Plan der Stadt Coeslin und Gegend des sogenanten Ziegel-Berges nebst einem Nivellements-Profil in Continuation der Berg-Straße; [Deutschland?]; none
+PPN182442650X; 1817; Plan der Festung Sedan; [Deutschland?]; none
+PPN1824426887; 1816; Canevas trigonemétrique de la Place de Toul; [Deutschland?]; none
+PPN1824427492; 1818; Verdun; [Deutschland?]; none
+PPN1824504195; 1818; Aachen und Umgebung zur Zeit des Congresses 1818; [Deutschland?]; none
+PPN1826848320; 1820; Plant der Antiquitäten von Athen; [Deutschland?]; none
+PPN1826848843; 1820; Plan der ehemahligen Residenzstadt Tirgowistie in der Wallachay; [Deutschland?]; none
+PPN182684922X; 1820; Plan der Fürstl. Wallach. Residenzstadt Bukuzestie; [Wallachei?]; none
+PPN1826853693; 1820; Plan von der Festung Theresienstadt; [Deutschland?]; none
+PPN1826854134; 1820; Plan von der Festung Theresienstadt; [Deutschland?]; none
+PPN1826854878; 1820; [Josephstadt]; [Deutschland?]; none
+PPN1826855637; 1820; Situations Plan von der Stadt und Festung Spandow; nebst dessen Vorstädten und dem Verschanzten Lager; [Deutschland?]; none
+PPN1826856544; 1820; Plan der Festung Neisse; [Deutschland?]; none
+PPN1826856994; 1820; Grundriss des Walles zwischen dem Friedländer und Brandenburger Thor bis zum Holländischen Baum; [Königsberg]; [Deutschland?]; none
+PPN182688033X; 1822; Tractus 25 von neunkirchen; Copie der nassauischen Karte a. d. J. 1822; [Deutschland?]; none
+PPN1826881298; 1820; Plan von einem Theil des Walles zwischen dem Rossgärtschen, Königs- und Sackheimschen Thor bis zum Litthauschen Baum; [Königsberg?]; none
+PPN1827016043; 1820; [Südlicher Theil von Königsberg mit Vorgelände]; [Deutschland?]; none
+PPN1827016515; 1820; Plan der Stadt Halle; [Deutschland?]; none
+PPN1827017074; 1820; Project zur Befestigung von Deutz in den Jahren 1817/20; [Deutschland?]; none
+PPN1827017392; 1820; Ein Theil der innern Mauer Linie der Befestigungs Herstellungs Arbeiten der Stadt Coeln soweit solche mit den Plattform und Appareillenbau des Postens des Capit. v. Heinze beendet ist; [Deutschland]; none
+PPN1827017813; 1820; Grundriss der Stadt Cölln; [Deutschland?]; none
+PPN1827018860; 1820; [Namur mit nächster Umgebung]; Croquis des Hauptmann v. Studnitz; [Deutschland?]; none
+PPN1827023260; 1820; Lüttich; [Deutschland?]; none
+PPN1827025204; 1820; Lüttich; [Deutschland?]; none
+PPN1827048530; 1820; Plan of the Anscient city of Rhey; Ker Porter Vol. I. p. 6; [Deutschland?]; none
+PPN1827048964; 1820; General plan of the remains of Babylon; embracing Birs Nirood Al Hymer and Moavill; [Irak?]; none
+PPN1827162600; 1820; [Huy mit nächster Umgebung]; [Deutschland?]; none
+PPN1827164638; 1820; Plan von der Stadt Huy und deren Umgegend; [Deutschland?]; none
+PPN1830135260; 1822; Wiburg 1822; [Russland?]; none
+PPN1830135430; 1822; Riga; [Russland?]; none
+PPN1830135856; 1831; Plan von Modlin und der Umgegend nebst dem Befestigungs-Entwurf von 1810; [Deutschland?]; none
+PPN1830136518; 1830; Plan de la Foire de Nigni Nowogorod; [Russland?]; none
+PPN1830136720; 1822; Kimengorod; [Finnland?]; none
+PPN1830136941; 1822; Friedrichshamm 1822; [Finnland?]; none
+PPN1830137131; 1822; Helsingfors und Sveaborg; [Finnland?]; none
+PPN1830137220; 1829; Napoli di Romania; im Jahre 1829; [Deutschland?]; none
+PPN1830137344; 1822; Brückenkopf bei Borissow; [Russland?]; none
+PPN1830137654; 1822; Bobruisk 1822; [Russland?]; none
+PPN1830137875; 1828; Festung Hirsova; croquirt im Juni 1828; [Erscheinungsort nicht ermittelbar]; none
+PPN1830137980; 1829; Urbis Antiquae Tarquiniorum Topographia; [Rom?]; none
+PPN1830138073; 1829; Plan général de la place de Palma-Nova dans l'état ou elle se trouvait en 1809; [Italien?]; none
+PPN1830138146; 1828; Gênes et ses Fortifications; [Italien?]; none
+PPN1830138278; 1827; Original Aufnahme von Yburg; [Deutschland?]; none
+PPN1830138413; 1829; Original Aufnahme des Schlosses Windeck (bei Bühl); aufgenommen nach 1/1000 der wahren Grösse im Monat Juli 1829; [Deutschland?]; none
+PPN1830138499; 1827; Volkartshausen; [Deutschland?]; none
+PPN1830138596; 1830; Uebersichts Plan der entworfenen Befestigung des Punktes Ulm; [Deutschland?]; none
+PPN1830138707; 1827; Steisslingen; [Deutschland?]; none
+PPN1830138820; 1830; Original Aufnahmen nebenstehender Ortschaften; (Schöllbronn, Völkersbach, Freiolsheim); [Deutschland?]; none
+PPN1830146556; 1828; Pillau 1828; [Deutschland?]; none
+PPN1830146882; 1827; Original Aufnahme von Orsingen; [Deutschland?]; none
+PPN1830147153; 1829; Original Aufnahme des Schlosses Neuwindeck (bei Lauf); aufgenommen nach 1/1000 der wahren Grösse im Monat October 1829; [Deutschland?]; none
+PPN1830147552; 1830; Croquis der nächsten Umgebungen von Metz; [Deutschland?]; none
+PPN1830147722; 1828; Plan der Stadt und Festung Maynz mit ihren Umgebungen; gezeichnet im August 1828; [Deutschland?]; none
+PPN1830147919; 1825; [Festung Landau]; [Deutschland?]; none
+PPN1830150332; 1830; Plan von der Festung Cosel; [Deutschland?]; none
+PPN1830150839; 1825; Die Festung Cosel mit der Armirung gegen einen gewaltsamen Angriff; [Deutschland?]; none
+PPN1830151444; 1825; Plan der Stadt und Festung Jülich; [Deutschland?]; none
+PPN183015219X; 1827; Original-Aufnahme von der Stadt und dem Dorfe Hausen an der Aach; bearbeitet im Monat May 1827 nach 1:5 000 natürlicher Grösse; [Deutschland?]; none
+PPN1830153595; 1830; Abend-Seite des Grundrisses vom Schlosse Hartenfels; [Deutschland?]; none
+PPN1830154257; 1830; [Entwurf einer Schanze nordwestlich von Linden bei Hannover]; [Deutschland?]; none
+PPN1830155334; 1828; [Entwurf eines Werkes auf dem Lindener Berge bei Hannover]; [Deutschland?]; none
+PPN1830156454; 1825; Greifswalde; [Deutschland?]; none
+PPN1830157949; 1827; Original Aufnahme von Friedingen; [Deutschland?]; none
+PPN1830158457; 1827; Eigeltingen; [Deutschland?]; none
+PPN1830159216; 1828; Original-Aufnahme der Ruine von Ebersteinburg; nach 1:500 der natürlichen Grösse im Monat Juni 1828; [Deutschland?]; none
+PPN1830159925; 1829; Schloss Eberstein; Original Aufnahme vom Monat Juni 1829, nach 1:600 natürlicher Grösse; [Deutschland?]; none
+PPN1830161482; 1830; Original Aufnahme von Burbach; [Deutschland?]; none
+PPN183017164X; 1827; Original Aufnahme von Beuern; [Deutschland?]; none
+PPN183018489X; 1828; Situation des einzurichtenden Artillerie-Schieß-Platzes in der Charlottenburger Forst zwischen dem Chaussee-Hause und dem Mockernitz-Bruche; [Deutschland?]; none
+PPN1830185233; 1827; Altes Schloss Baden; [Deutschland?]; none
+PPN1830185381; 1827; Original Aufnahme der Stadt Baden; aufgenommen im Monat October 1827 und gezeichnet; [Deutschland?]; none
+PPN1830185926; 1822; Carte general des côtes, rades, ports, ville et environs d'Alexandrie; Paris; none
+PPN1830190377; 1823; [Jerusalem 1823]; Israel; none
+PPN1830191861; 1825; Plan de la ville de Namur; [Belgien?]; none
+PPN1830349066; 1814; Plan der Stadt und Festung Vitri le Francois; [Frankreich?]; none
+PPN1830349821; 1814; Plan der Stadt und Festung Vitri le Francois; [Frankreich?]; none
+PPN1830350420; 1814; Plan der Stadt und Festung Vitri le Francois; [Frankreich?]; none
+PPN183035163X; 1815; Uebersichtsplan der Festung Longwy; während der Occupation 1815; [Frankreich?]; none
+PPN1830352245; 1815; Plan de la Forteresse de Longwy; [Frankreich?]; none
+PPN1830353209; 1815; Longwy; [Frankreich?]; none
+PPN1830355430; 1815; Plan von Laon; [Frankreich?]; none
+PPN1830356763; 1815; Reconnaissance de la position de Làon; [Frankreich?]; none
+PPN1830357409; 1815; Reconnaissance de la position de Làon; [Frankreich?]; none
+PPN1830357913; 1815; Plan de Charlemont et de Givet; [Frankreich?]; none
+PPN183035907X; 1816; Plan der Stadt und Citadelle von Cambray als Project vom Jahre 1738; Senden; none
+PPN1830362216; 1815; Situations-Plan der Stadt Briey ohnweit Metz; Marburg; none
+PPN183036300X; 1827; Original-Aufnahme von der Stadt und dem Dorfe Aach; bearbeitet im Monat May 1827; [Deutschland?]; none
+PPN1830363840; 1815; Bouchain; [Frankreich?]; none
+PPN1830366521; 1870; Croquis von Béthune; [Frankreich?]; none
+PPN1830367072; 1820; New plan of Jerusalem with an attempt to reconcile historical documents with existing phaenomena; [Deutschland?]; none
+PPN1830758225; 1830; [Coblenz]; [nur die Stadtbefestigung]; [Deutschland?]; none
+PPN1830916831; 1830; [Gilgenburg mit nächster Umgebung]; [Deutschland?]; none
+PPN1830917625; 1831; Alexandria antiqua; [Paris]; none
+PPN1830919075; 1830; Dresden; [Deutschland?]; none
+PPN1830919954; 1830; Fort Lyck im Spirding See; [Deutschland?]; none
+PPN1831035766; 1831; Original Aufnahme der Ruine Liebenegg (an der Würm); aufgenommen nach 1/500 der wahren Grösse im Monat November 1831; [Deutschland?]; none
+PPN1831036541; 1831; Gotha; [Deutschland?]; none
+PPN1831037866; 1832; Tegel; [der Artillerie-Schießplatz bei Tegel]; [Deutschland?]; none
+PPN1831040182; 1832; Plan der Festung Glogau; zum Memoir des Major v. Willisen gehörig; [Deutschland?]; none
+PPN1831119161; 1830; [Glatz]; [Umrisse der Festungswerke]; [Deutschland?]; none
+PPN1831120925; 1830; Plan de Luxembourg; [Deutschland?]; none
+PPN1831122030; 1830; Zeichnung wonach die beiden normalmäßigen defensiblen Friedens-Pulver Magazine mit 800 Zentner Fassungs-Vermögen vor der Land Front der Festung Wittenberg im Jahre 1830 erbaut sind; [Deutschland?]; none
+PPN1831122928; 1830; Grundplan vom Schloß und Oeconomiehof Weistropp; [Deutschland?]; none
+PPN1831143631; 1830; Insel bey Poros; [Deutschland?]; none
+PPN1831153904; 1830; Topographische Carte der Stadt Coblenz; [Deutschland?]; none
+PPN1831487810; 1834; Mausoleum der Gräflich Gneisenauschen Familie zu Sommerschenburg, errichtet im Jahre 1834; [Deutschland?]; none
+PPN1831488914; 1832; Plan de Syracuse ancienne et moderne; [Frankreick?]; none
+PPN1831489988; 1833; Situations Plan von dem zu Sommerschenburg gehörigen Kirchhofe und Parke mit den nächsten Umgebungen; [Deutschland?]; none
+PPN1831491087; 1833; Original Aufnahme der Ruine Steinsberg; [Deutschland?]; none
+PPN1831491990; 1834; Plan der Stadt Sangerhausen; [Deutschland?]; none
+PPN1831492792; 1833; Die Befestigung von Genua; [Deutschland?]; none
+PPN1831493497; 1834; Plan von Swinemünde; [Deutschland?]; none
+PPN1831597136; 1834; Original Aufnahme der Ruine Rothenberg; [Deutschland?]; none
+PPN1831597462; 1832; Original-Aufnahme von dem Schlosse Ravensburg (bei Seelefeld); bearbeitet nach 1:500 der natürlichen Grösse im Monat September 1832; [Deutschland]; none
+PPN1831597764; 1834; Original-Aufnahme von dem Schlosse in Neidenstein 1:500 natürlicher Grösse, aufgenommen im Monat August 1834; [Deutschland]; none
+PPN1831598019; 1834; Magdeburg; Armirung den 17ten Februar 1834 : Front zwischen dem Kri-Kenthore und der Elbe; [Deutschland?]; none
+PPN1831598353; 1833; Coblenz; [Deutschland?]; none
+PPN1831598760; 1833; Plan der Stadt Bernburg; [Deutschland?]; none
+PPN1831599309; 1833; Grundriss der Stadt Freyberg; [Deutschland?]; none
+PPN1831599783; 1833; Situations Plan von dem zu Sommerschenburg gehörigen Kirchhofe und Parke mit den nächsten Umgebungen; [Deutschland?]; none
+PPN1831600153; 1834; Plan der Festung Magdeburg ...; Unterbringung der Artillerie-Gegenstände am Ende des Jahres 1833; [Deutschland?]; none
+PPN1831600676; 1833; Plan de la Ville De Mons et des Environs; [Belgien?]; none
+PPN1831601095; 1834; [Glogau]; [Deutschland?]; none
+PPN1831784254; 1834; Croquis vom Cavallier Bastion [in Wittenberg]; [Deutschland?]; none
+PPN1831785811; 1833; Thurmlinie um Linz; [Österreich?]; none
+PPN1832485013; 1836; Besançon; [Frankreich?]; none
+PPN1832485625; 1835; Plan de la place de Toull; indiquant les maisons, édifices publies et les bâtiment militaires...; [Frankreich?]; none
+PPN1832486117; 1836; Besançon 1836; [Frankreich?]; none
+PPN1832486656; 1834; [Das Castell von Cleve]; [Deutschland?]; none
+PPN183248744X; 1835; Plan von Gironne; [Deutschland?]; none
+PPN1832488047; 1835; [Wittenberg]; [Deutschland?]; none
+PPN1832488748; 1837; Kavarna; [Bulgarien?]; none
+PPN183248940X; 1837; Burgass [Burgas]; [Bulgarien?]; none
+PPN1832490033; 1835; Plan de la Forteresse de Gironne et des sus Environs; [Frankreich]; none
+PPN1832490823; 1837; Siseboli; [Bulgarien?]; none
+PPN1832509559; 1835; Plan de la place de Toull; indiquant les maisons, édifices publies et les bâtiment militaires...; [Frankreich?]; none
+PPN1832510352; 1837; Misivri; [Bulgarien]; none
+PPN1832511103; 1836; Cöslin im Jahre 1836; [Deutschland?]; none
+PPN1832511561; 1834; [Das Castell von Cleve]; [Deutschland?]; none
+PPN1832512355; 1834; Bastion Cleve in Magdeburg; im Maerz 1834; [Deutschland?]; none
+PPN1832554325; 1836; [Varna mit nächster Umgebung]; [Deutschland?]; none
+PPN183255466X; 1837; Plan des environs de Varna; [Bulgarien?]; none
+PPN1832682943; 1835; Plan der Stadt und Befestigung von Lyon; [Deutschland?]; none
+PPN1832683680; 1835; Plan von Lyon; [Deutschland?]; none
+PPN1833115317; 1837; Baltchik; [Deutschland?]; none
+PPN1833121686; 1838; Sketch of the site of Ammon; and its existing remains; [Großbritannien?]; none
+PPN1833141598; 1837; Schloss-Ruine bei Boxberg; aufgenommen nach 1:500 im Monat Juli 1837; [Deutschland?]; none
+PPN1833168240; 1838; Plan der Alexander Citadelle bei Warschau; nach dem frühern Entwurf des Herrn Kriegsministers ... vom Jahre 1835 ... unter Zugrundelegung des Bachschen Planes von Warschau (1808) ...; [Deutschland?]; none
+PPN1833179471; 1837; Pianta dei principali edificj antichi di Atene; Tav. 2; [Deutschland?]; none
+PPN1833180127; 1838; Plan von Odessa; zur Uebersicht der Pest-Verbreitung; [Deutschland?]; none
+PPN1833180720; 1837; Rustschuk; [Deutschland?]; none
+PPN1833249062; 1838; Nowogeorgiewsk; [Deutschland?]; none
+PPN1833249887; 1837; Plan of the city and harbour of Syracuse; [USA?]; none
+PPN1833250257; 1838; Plan der Festung Rensburg; [Deutschland?]; none
+PPN1833250656; 1837; Ahiolo; [Deutschland?]; none
+PPN1833260317; 1837; Plan de la ville Pravady; [Bulgarien?]; none
+PPN1833260562; 1838; Skizze der inneren Enceinte Nowogeorgiewsk's vom Brückenkopf am linken Weichselufer gesehen; [Deutschland?]; none
+PPN1833295463; 1837; Plan du Camp retranché de Choumla; [Bulgarien?]; none
+PPN1833296761; 1838; [Citadelle Alexander bei Warschau]; [Deutschland?]; none
+PPN1833299906; 1838; Système Bastionne modifié adopté pour l'agram dissement de la place de Grenoble; [Frankreich?]; none
+PPN1833787528; 1838; Ruinen der ehemaligen Festung Hirsowa; [Deutschland?]; none
+PPN1833787978; 1838; Hirsowa und Matschin; [Bulgarien?]; none
+PPN1833788605; 1840; Plan von Weilburg; [Deutschland?]; none
+PPN1833789393; 1838; Ruinen der ehemaligen Festung Matschin; [Bulgarien?]; none
+PPN1833790081; 1840; [Stettin]; [oberer Oderanschluss]; [Deutschland?]; none
+PPN1833790510; 1840; [Stettin]; [unterer Oderanschluss]; [Deutschland?]; none
+PPN1833791037; 1840; Thionville; [Deutschland?]; none
+PPN1833791673; 1838; [Bielefeld]; [Deutschland?]; none
+PPN1833792319; 1840; Plan itinèraire d'Aix-la-Chapelle et de Bourcette; [Deutschland?]; none
+PPN1833792939; 1840; Plan de Liège; [Belgien?]; none
+PPN1833793536; 1840; Plan der Festung Cronborg; [Dänemark?]; none
+PPN1833794133; 1840; Place de Montmédy; plan nivellé de la place et de ses environs; [Frankreich?]; none
+PPN1833794915; 1840; St. Jean Piede Port; [Frankreich?]; none
+PPN1833795393; 1840; St. Jean Piede Port; [Frankreich?]; none
+PPN1833796187; 1838; Alexandrien, zur Zeit als es römische Provinzialstadt wurde; [Ägypten?]; none
+PPN1833815475; 1840; Plan de la Ville et du Port du Havre; après l'achevement des grands travaux et de la nouvelle ville; [Frankreich?]; none
+PPN1833815955; 1840; Plan de la Ville et des Fortifications du Hâvre; [Frankreich?]; none
+PPN183381665X; 1838; [Grenoble]; [Entwurf zur Erweiterung der Festung]; [Frankreich?]; none
+PPN1833817435; 1840; Plan von Fort Munkholm bei Trondhjem vor dem Umbau 1838; [Norwegen?]; none
+PPN1833818210; 1840; Uebersichts-Skizze der fortificatorischen Aufnahme (1:2 880) von Glogau; [Deutschland?]; none
+PPN1835710220; 1840; Frederiksvaern; [Dänemark?]; none
+PPN1835710883; 1840; Horten; Marine Etablissement; [Norwegen?]; none
+PPN1835711588; 1840; Kongsvinger; [Norwegen?]; none
+PPN1835712215; 1840; Frederikshald; [Norwegen?]; none
+PPN1835712835; 1840; Plan der Stadt Culm mit dessen nähern Umgebungen; [Deutschland?]; none
+PPN1835713424; 1840; Burg mit den Umgebungen; [Deutschland?]; none
+PPN183571403X; 1840; Croquis der Festung Iwangorod am Einfluss des Wieprz in die Weichsel im Bau seit 1836; [Deutschland?]; none
+PPN1836313632; 1840; Plan betreffend die Enceinte der Festung Minden und die Geschütz Placirung bei Armirung der Festung gegen einen gewaltsamen Angriff; [Deutschland?]; none
+PPN1836314124; 1840; Plan von Erfurt; [Deutschland?]; none
+PPN1836314590; 1840; Christiania; [Dänemark?]; none
+PPN1836315171; 1840; Alexandrie; [Ägypten?]; none
+PPN1836316291; 1840; Frederiksholm bei Christianssand; [Norwegen?]; none
+PPN1836317042; 1840; Langmannsholen, Christiansholm; [Deutschland?]; none
+PPN1836317638; 1840; Batterien auf der Insel Fugloen beim Eingang in den Helgeräe Fiord; westl. Frederiksvaern; [Dänemark?]; none
+PPN1836932766; 1840; [Karlsborg am Wettersee]; [Schweden?]; none
+PPN1837329680; 1842; Croquis von Chaumont im September 1842; [Frankreich?]; none
+PPN1837333726; 1840; Naarde; nach einem alten Plane copirt; [Niederlande?]; none
+PPN1837335451; 1841; Verschüttung des Hafens von Bieberich, 28. Febr. 1841; [Deutschland?]; none
+PPN1837350175; 1840; Die Befestigungen von Glogau auf dem rechten Oderufer; [Deutschland?]; none
+PPN183735054X; 1840; Brückenkopf von Glogau; [Deutschland?]; none
+PPN1837350957; 1842; Fort Hechtsheim; Mainzer Entwürfe 1842; [Deutschland?]; none
+PPN183735281X; 1841; Zeichnung von dem Torfstecher-Hause in der Königl. Spandower Forst; Grundriß u. Situations Plan; [Deutschland?]; none
+PPN1837353816; 1842; Plan des Hafens zu Stolpmünde; [Deutschland?]; none
+PPN1837354227; 1840; Bistertz; [Deutschland?]; none
+PPN1837354707; 1840; [Festung Brest-Litowsk]; [Deutschland?]; none
+PPN1837494983; 1842; Croquis von Châlons s/M im September 1842; [Frankreich?]; none
+PPN183749598X; 1842; Croquis von Langres, im September 1842; [Frankreich?]; none
+PPN1837496692; 1842; Croquis von Soissons im August 1842; [Frankreich?]; none
+PPN1837497664; 1841; Plan von der Festung Pillau; dem Seegatte und deren Umgebungen; [Deutschland?]; none
+PPN1837913412; 1842; Croquis der Stadt Courtray; [Belgien?]; none
+PPN183791382X; 1842; Croquis der Festung Charleroy; [Belgien?]; none
+PPN1837914168; 1842; Plan von Rügenwalde; [Deutschland?]; none
+PPN1837915385; 1845; Plan von Carlsruhe; [Deutschland?]; none
+PPN1837915830; 1842; Plan des Hafens zu Rügenwalde; [Deutschland?]; none
+PPN1837916349; 1843; [Stettin Festungswerke]; [Deutschland?]; none
+PPN1837917345; 1843; [Stettin]; [Festungswerke mit 1. Geschützaufstellung]; [Deutschland?]; none
+PPN1837918074; 1843; Geschütz-Emplacment gegen den gewaltsamen Angriff in der Festung Stralsund 1843; [Deutschland?]; none
+PPN1837918686; 1843; [Wegweiser der Festung Mainz]; [Deutschland?]; none
+PPN1837919305; 1845; Plan von Diest; [Belgien]; none
+PPN1837921806; 1842; Croquis der Festung Audenarde; [Belgien?]; none
+PPN1837922594; 1842; Croquis der Festung Tournay; [Frankreich?]; none
+PPN1837923590; 1842; Croquis der Stadt Binche; [Belgien?]; none
+PPN1837923876; 1842; Croquis der Festung Ath; [Belgien?]; none
+PPN1837924368; 1844; Ville d'Arlon; projet d'ensemble; [Belgien?]; none
+PPN1837925062; 1843; Die Festung Diest; [Belgien?]; none
+PPN1837925542; 1845; Calais; rekognoscirt im Sommer 1845; [Frankreich?]; none
+PPN1837935408; 1845; Stralsund im Jahre 1845; [Deutschland?]; none
+PPN1837954798; 1843; Befestigung von Ingolstadt; [Deutschland?]; none
+PPN183871720X; 1848; Plan von Charleroy; [Belgien?]; none
+PPN1838717927; 1848; Croquis von Rocroy; [Frankreich?]; none
+PPN183871829X; 1848; Croquis von Rocroy; [Frankreich?]; none
+PPN1838718559; 1848; Croquis von le Quesnog; [Frankreich?]; none
+PPN1838719032; 1845; [Befestigung von Paris um 1845]; [Frankreich?]; none
+PPN1838719814; 1848; Croquis von Guise; [Frankreich?]; none
+PPN1838720146; 1848; Plan von Givet; [Frankreich?]; none
+PPN183872060X; 1845; Pianta della Bastia; citta capitale del regno di Corsica; [Frankreich?]; none
+PPN1838848851; 1845; Plan zur Aufgabe der Herrn Hauptleute pro 1845; [Italien?]; none
+PPN1838849009; 1845; Pianta di Alessandria; [Italien?]; none
+PPN183884922X; 1848; [Wesel, Rayonplan]; [Deutschland?]; none
+PPN1838849394; 1848; [Festung Wesel]; [Deutschland?]; none
+PPN1838849874; 1845; Plan von der Befestigung der Pulver-Mühle von Spandau; [Deutschland?]; none
+PPN1838850031; 1846; Rastatt; [Deutschland?]; none
+PPN1838850201; 1845; Plan des Hafens zu Colbergmünde; [Deutschland?]; none
+PPN1838852379; 1848; Croquis von Dinant; Veith, Lieut.; [Belgien?]; none
+PPN1838852727; 1846; Königlicher Wildpark oder Hirsch-Garten in der Pirschheide bei Sans Souci mit der Umgegend; [Deutschland?]; none
+PPN1839205881; 1846; Plan der Festung Schweidnitz; [Deutschland?]; none
+PPN1839347341; 1848; Croquis von Guise; [Frankreich?]; none
+PPN1839430826; 1848; Festung Minden; [Kotenplan der Festung und deren naher Umgebung]; [Deutschland?]; none
+PPN1839431547; 1848; Grundriss des Schnecken wercke nebst vorliegendem Terrain und eine Theils der Oberwyck zu Stettin; [Deutschland?]; none
+PPN1839432179; 1848; Festung Glogau mit Angriffsentwurf; [Deutschland?]; none
+PPN1839432675; 1848; Grundriss von Friedrichstadt; [Deutschland?]; none
+PPN1839433728; 1848; Stadt Alt-Damm; [nur die Festung gezeichnet, mit Geschützaufstellung und eingetragenen Entfernungen nach den nächsten Zielen]; [Deutschland?]; none
+PPN1839434139; 1848; Fort Damm; [Deutschland?]; none
+PPN1839505362; 1848; [Festung Colberg]; [Deutschland?]; none
+PPN1839505745; 1848; Tournay; [Frankreich?]; none
+PPN1839506091; 1848; Croquis des Brückenkopfs von Sedan; [Frankreich?]; none
+PPN1839506253; 1848; Croquis de Péronne; [Frankreich?]; none
+PPN1839506903; 1848; Plan der Festung Maubeuge und ihren Umgebungen; [Frankreich?]; none
+PPN1839507195; 1848; Lille; Croquis (Hauptwall); [Frankreich?]; none
+PPN183955066X; 1848; Croquis von Laon im im August 1842; [Frankreich?]; none
+PPN1839551186; 1848; Ham, October 1848; [Frankreich?]; none
+PPN1839551526; 1848; Condé; [Frankreich?]; none
+PPN1839552379; 1848; Wasser-Neubauten bei Châlons seit 1842; [Frankreich?]; none
+PPN1839552743; 1848; Bouchain, October 1848; [Frankreich?]; none
+PPN1839553081; 1848; Arras; [Frankreich?]; none
+PPN1839554819; 1834; Ansichten von der Universitäts-Stadt Bonn; mit ihren nahen und fernen Umgebungen; Bonn; T. Habicht
+PPN1839555750; 1846; Grundriss des ehemaligen Schlosses, jetzigen Universitäts-Gebäudes in Bonn; (zweites Geschoß); [Berlin]; none
+PPN1839863072; 1850; Pianta della Citta di Siracusa moderna nell' Isola Ortigia; [Italien?]; none
+PPN1839863439; 1850; Palma Nuova; [Italien?]; none
+PPN1839863765; 1850; Plan der Festung Schweidnitz; [Deutschland?]; none
+PPN183986415X; 1850; Plan der Festung Schweidnitz; [Deutschland?]; none
+PPN1839865784; 1850; Skizze der Bahnhofsbefestigung der Festung Minden; [Deutschland?]; none
+PPN1839866039; 1850; Plan der Festung Minden; [nur die Fensterlinien und die Hohlräume]; [Deutschland?]; none
+PPN1839866365; 1850; Fort Wrede; Germersheim; [Deutschland?]; none
+PPN1839866586; 1850; [Zugeschüttete alte Weichselmündung mit den benachbarten Werken: Möven-Schanze und Schanze I auf der Westerplatte]; [Deutschland?]; none
+PPN1839866845; 1850; Fluchtlinien-Plan von der ...zu Charlottenburg zwischen Straße 20 und der Kleiststraße, ...belegenen,...projektirten neuen Straße; [Deutschland?]; none
+PPN1839867213; 1850; Steenbergen; nach einem alten Plane copirt; [Niederlande?]; none
+PPN1840009276; 1850; Schoonhove; nach einem alten Plane [circa 1760] copirt; [Niederlande?]; none
+PPN1840009985; 1850; Croquis von Salins; [Frankreich?]; none
+PPN184001038X; 1850; Plan de Rocroy; [Frankreich?]; none
+PPN184001105X; 1850; Plan von Givet und Charlemont; [Frankreich?]; none
+PPN1840013044; 1850; Plan von Bergen; [Norwegen?]; none
+PPN1840013788; 1850; [Alexandrien]; [Ägypten?]; none
+PPN1840198834; 1860; [Schloßpark Poschitz b. Altenburg]; [Deutschland?]; none
+PPN1840199946; 1860; Verdun; [Deutschland?]; none
+PPN1840303018; 1856; Plan d'Athènes; [Griechenland?]; none
+PPN1840304820; 1855; L'Acropole d'Athènes; d'après le plan général de Beulé 1853 (tome II, pl. I); [Griechenland?]; none
+PPN1840305975; 1860; [Damm]; [Deutschland?]; none
+PPN1840306513; 1860; [Plan der Festung Cüstrin]; [Deutschland?]; none
+PPN1840307145; 1860; Erfurt; [nur Festungswerke]; [Deutschland?]; none
+PPN1840309369; 1860; Fort du Phare à Cuxhaven; [Deutschland?]; none
+PPN184030975X; 1859; Flesche mit 2 Gsch. Bremerhafen; [Deutschland?]; none
+PPN1840311347; 1859; Flesche bei Bremerhafen nebst Wachthaus (nicht ausgeführt); [Deutschland?]; none
+PPN1840311797; 1859; Skizze der Flesche bei Bremerhafen; [Deutschland?]; none
+PPN1840312610; 1855; [Königsberg mit nächster Umgebung]; [Deutschland?]; none
+PPN1840313102; 1860; Peenemünder Schanze; [Deutschland?]; none
+PPN1840313668; 1857; West und Süd Front der Festung Schweidnitz; [Deutschland?]; none
+PPN1840320516; 1855; Plan des Hafens von Cuxhaven 1855; [Deutschland?]; [Verlag nicht ermittelbar]
+PPN1840322144; 1852; Marseille; [mit handschriftlichen Bemerkungen des Baron von Nothomb]; [Frankreich?]; none
+PPN1840324090; 1853; Plan de Sedan et de ses environs; [Frankreich?]; none
+PPN1840554924; 1853; Place de Montmédy; délimitation des zônes de servitudes : croquis annexé à l'avis du comité en date du 29 Mars 1853; [Frankreich?]; none
+PPN1840559551; 1854; Forteresse du Mont Valérien; [Frankreich?]; none
+PPN1840561920; 1854; Entwurf des Angriffs auf ein Fünfeck der Befestigung von Paris; [Frankreich?]; none
+PPN1840564296; 1850; Fiesole; [Italien?]; none
+PPN1840564849; 1851; Situations-Plan des grieflich clamm Gallassischen Badeortes Liebwerda sammt allen obrigkeitlichen Gebäuden und Anlagen; [Deutschland?]; none
+PPN1840565772; 1852; Rastatt; copiert nach der Zeichnung des Hauptm. Veith; [Deutschland?]; none
+PPN184056654X; 1850; Plan von Rastatt; [Deutschland?]; none
+PPN184056721X; 1850; Croquis von Poschwitz; Größe 139 Acker, 55 Ruthen; [Deutschland?]; none
+PPN1840567724; 1850; Magistrale von der Festung Minden [und deren Hohlräume]; [Deutschland?]; none
+PPN1840568313; 1850; Plan von der Festung Thionville nebst Umgegend auf 3000 Schritte; [Frankreich?]; none
+PPN1840595450; 1855; Place de Montmédy; plan parcellaire des environs de la place annéxé au Registre des déclarations; [Frankreich?]; none
+PPN1840596201; 1859; Croquis von Montmédy; [Frankreich?]; none
+PPN1840937858; 1850; Blockhaus in der Dockbatterie zu Bremerhaven; [Deutschland?]; none
+PPN1840938269; 1850; Dockbatterie zu Bremerhaven; Quer- und Längsschnitt; [Deutschland?]; none
+PPN1840938714; 1850; Längenprofil des Bremer Ausgleichungs-Canals; [Deutschland?]; none
+PPN1840939044; 1850; Entwurf eines Grundrisses von der Stadt Arneburg und der umliegenden Gegend; [Deutschland?]; none
+PPN184093977X; 1850; Grondteekening der Stad Zutphen; [c. 1755]; [Niederlande?]; none
+PPN1840940255; 1850; Grondteekening der Stad Nymegen; [Niederlande?]; none
+PPN1840941111; 1852; La ville de Lyon; [Frankreich?]; none
+PPN1840941804; 1860; [Belfort]; [Frankreich?]; none
+PPN1840941812; 1850; Kungsholm bei Karlskrona; [Schweden?]; none
+PPN1840943238; 1860; Plan von Lille; aus den Memoiren des Hauptm. v. Werder der Garde-Artill. Brigade; [Frankreich?]; none
+PPN1840944862; 1860; [Mézières]; [Frankreich?]; none
+PPN1841040282; 1850; Calcaria, Ducatus Clivensis, Multis Dotibus, Nobile Opp.; [Deutschland?]; none
+PPN1841043141; 1852; Skizze von Nowo Georgiewsk; Posen; none
+PPN1841043559; 1850; Fort de Villeubranne [bei Lyon]; [Frankreich?]; none
+PPN184204785X; 1869; Alessandria; [Italien?]; none
+PPN1842066013; 1868; Croquis von Péronne; [Frankreich?]; none
+PPN1842066765; 1865; Place de Guise; croquis annexé au rapport du Commandant du Génie en date du 30. Novembre 1865; [Frankreich?]; none
+PPN1842067443; 1865; Croquis von Doullens; [Frankreich?]; none
+PPN1842075438; 1865; Croquis von Douai; [Frankreich?]; none
+PPN1842076132; 1868; Croquis von Cambrai; [Frankreich?]; none
+PPN1842479490; 1860; Skizze von Syracus; [Italien?]; none
+PPN1842479849; 1860; Place de Rastadt; [Deutschland?]; none
+PPN1842480227; 1863; Plan der Umgegend von Pillau; [Deutschland?]; none
+PPN1842480626; 1863; [Plan der Umgegend von Pillau]; [Deutschland?]; none
+PPN1842481169; 1860; Situationsplan über eine projectierte Abtretung sowie eines Arealaustausches zwischen Herrn Voigt u. der Stadtgemeinde zu Leipzig; [Deutschland?]; none
+PPN1842481754; 1865; Grundriss der Stadt Langensalza; [Deutschland?]; none
+PPN1842482025; 1860; Grundriss von Dresden im Jahre 1530; nach Weck; [Deutschland?]; none
+PPN1842521527; 1860; Eigentlicher Grundt Riss Der Stat Clöff; [Deutschland?]; none
+PPN184252173X; 1860; Munitions-Magazin No. II. Pfahlrost. Weser-Hauptbatterie; [Deutschland?]; none
+PPN1842522094; 1860; Bohr-Profile im Leher Aussendeiche bei Bremerhaven; [Deutschland?]; none
+PPN1842522434; 1864; Plan du Fort de la Chartreuse pris de Liège; [Belgien?]; none
+PPN184252285X; 1861; Anvers; [Belgien?]; none
+PPN184252318X; 1865; Croquis von Givet; [Frankreich?]; none
+PPN1842778684; 1868; Croquis von Belfort; [augenscheinlich Erkundungsergebnis des Preussischen Generalstabes]; [Frankreich?]; none
+PPN1842856154; 1863; Plan de Jérusalem; [Israel?]; none
+PPN1842936654; 1864; Uebersichts-Plan der Festung Neisse mit Umgegend; den 23. Sept. 1864; [Deutschland?]; none
+PPN1842940538; 1861; Thurmfort für Bremerhaven und Brunshausen; [Deutschland?]; none
+PPN1843126079; 1851; Grundriss des Fort Wilhelm mit dem im September 1851 angetlegten gedeckten Wege; [bei Bremerhaven]; [Deutschland?]; none
+PPN1843256924; 1873; Skizze von der Festung Peschiera 1861; [Italien?]; none
+PPN1843257238; 1873; Skizze von der Festung Mantua 1861; [Italien?]; none
+PPN1843257831; 1873; Skizze von Cotrone; [Italien?]; none
+PPN1843265745; 1871; Zeichnung des Reduits und der Hohltraverse des Nehrung-Forts zu Memel; [Deutschland?]; none
+PPN1843266083; 1870; Zeichnung der Batterie am Baakenplatz zu Memel; [Armierungsbau]; [Deutschland?]; none
+PPN1843266407; 1870; Zeichnung der Batterie am Leuchtthurm; [Deutschland?]; none
+PPN1843266997; 1870; [Coblenz]; [nur Festungswerke mit Umgebung]; [Deutschland?]; none
+PPN1843319195; 1869; Croquis von St. Omer; [Ingenier-Komitee]; [Frankreich?]; none
+PPN1843319438; 1869; Croquis von Le Quesnoy; [Ingenier-Komitec?]; [Frankreich?]; none
+PPN1843319713; 1869; Croquis von Montreuil; [Frankreich?]; none
+PPN184332010X; 1871; Montmédy; [Festungswerke sowie militärische und öffenliche Gebäude]; [Frankreich?]; none
+PPN184332055X; 1870; Croquis von Bouchain; [Frankreich?]; none
+PPN1843320851; 1869; Croquis von Besançon; [Frankreich?]; none
+PPN1843321408; 1870; Gerasa jetzt Ǧeraš; [Jordanien?]; none
+PPN1843321653; 1870; Gadara (Umkês); [Jordanien?]; none
+PPN1843322005; 1870; Philadelphia (Rabbath-'Ammon, jetzt 'Ammân); [Jordanien?]; none
+PPN1843326604; 1895; Situations-Plan vom Grundstück "Mai Höhe" in Steglitz; [Berlin]; none
+PPN1843329271; 1871; Skizzen von Vitry le Franc̨ois; [Frankreich?]; none
+PPN1843585502; 1880; Plan von Karlsruhe; [Deutschland?]; [Verlag nicht ermittelbar]
+PPN184358655X; 1874; Parzellierungsplan von dem auf der Feldmark Steglitz belegenen Schloss und Park des Herrn Siegfrid Loevinson; [Berlin]; none
+PPN1843587718; 1881; Olympia; Situationsplan nach der 5. und 6. Campagne am 20. März 1881; [Berlin]; [W. Greve]
+PPN1843588617; 1879; Plan der Feste Boyen; [Deutschland?]; none
+PPN1843589001; 1861; [Feste Boyen mit naher Umgebung]; [Deutschland?]; none
+PPN1843702584; 1883; Aintab; [Türkei?]; none
+PPN1843706296; 1880; Situations-Plan der Citadelle von Lüttich; [Deutschland?]; none
+PPN1843706970; 1879; Croquis der Umgegend der Peenemünder Schanze; [Deutschland?]; none
+PPN1843707373; 1888; Gross-Stepenitz; [Deutschland?]; none
+PPN1843777118; 1888; Stolpmünde; [Deutschland?]; none
+PPN1843777479; 1875; Plan von Stralsunds Befestigungs Werken bey der Übergabe im Jahre 1875; [Deutschland?]; none
+PPN1843777983; 1881; Plan de Vienne, ancienne et moderne; [Frankreich?]; none
+PPN1843778386; 1888; Antonino (in) Paranà; [Brasilien?]; none
+PPN1843778815; 1888; Porto de Cima; [Brasilien?]; none
+PPN1843779234; 1875; Halifax harbour; [Großbritannien?]; none
+PPN1843779560; 1888; Morretes [in] Paraná; [Brasilien?]; none
+PPN1843779846; 1888; Paranagua; [Brasilien?]; none
+PPN184466600X; 1890; [Ephesos]; [Türkei?]; none
+PPN1844712516; 1890; Die Bäume u. Sträucher der Anlagen und des Herzogl. Parks zu Gotha; [Deutschland?]; none
+PPN3303599483; 1848; 大日本道中細見記; 江戸; 三河屋鉄五郎 [ミカワ テツゴロウ]
+PPN3303599513; 1834; 大日本輿地便覧; 京都; 松月堂 [ショウゲツドウ]
+PPN3303599815; 1860; 延寿御江戸絵図; 江戸; 若林喜兵衛 [ワカバヤシ キヘエ] ; 出雲寺万次郎 [イズモジ マンジロウ]
+PPN3303599874; 1843; 富士見十三州輿地之全図; 江戸; 衆星堂 [シュウセイドウ]
+PPN3303599890; 1843; 富士見十三州輿地之全図; 江戸; 知新堂紙屋徳八 [チシンドウ カミヤ トクハチ]
+PPN3303600082; 1840; 御開港横浜之図; 横浜; 新栄堂 東屋新吉 [シンエイドウ アズマヤ シンキチ]
+PPN3303600090; 1840; 御開港横浜之図; 横浜; 新栄堂東屋新吉 [シンエイドウ アズマヤ シンキチ]
+PPN3303600279; 1854; 肥前長崎図; 長崎; 耕寿堂 [コウジュドウ]
+PPN3303601003; 1868; 関東十九州路程便覧; 大阪 ; 江戸; 大阪屋庄太郎[オオサカヤ ショウタロウ] ; 須原屋伊八[スハラヤ イハチ]
+PPN3308099977; 1837; 国郡全図 2巻; 名古屋; 張府 東壁堂 永楽屋東四郎 [チョウフ トウヘキドウ エイラクヤ トウシロウ]
+PPN3308099985; 1837; 国郡全図 2巻; 名古屋; 張府 東壁堂 永楽屋東四郎 [チョウフ トウヘキドウ エイラクヤ トウシロウ]
+PPN3308100592; 1846; 日本輿地路程全図; 江戸; 須原屋茂兵衛 [スハラヤ モヘイ] 他
+PPN3308100622; 1860; 御江戸大絵図; 江戸; 岡田屋嘉七 [オカダヤ カシチ]
+PPN3308101009; 18XX; 東海道細見大絵図; 東都 [江戸]; [蔵版:] 佐野屋市五郎 [サノヤ イチゴロウ]
+PPN3308101017; 186X; 東西蝦夷山川地理取調図; s.l.; 多氣志樓主人 [タケシロウ シュジン]
+PPN3308102471; 1871; 東京大絵図; 東京; 吉田屋文三郎 [ヨシダヤ ブンザブロウ]
+PPN3346157105; 1882; 吉林府地輿全圖 1幅; none; none
+PPN3346157121; 1903; 蜂蜜山招墾四至地圖 1幅; none; none
+PPN3346157180; 19XX; 光霽峪與韓交界圖 1幅; none; none
+PPN3346157342; 1851; [Militärische Karten der Versorgung der kaiserlichen Armee während der Unterwerfung des Aufstandes in Kueichou 貴州 1851]; none; none
+PPN3346157911; 1864; 皇朝直省府廳州縣全圖 1幅; [China; none
+PPN3346157938; 1864; 盛京全圖 1幅; [China; 武昌]
+PPN3346157954; 1864; 直隸全圖 1幅; [China; 武昌]
+PPN3346157970; 1864; 山東全圖 1幅; [China; 武昌]
+PPN3346157997; 1864; 山西全圖 1幅; [China; 武昌]
+PPN3346158012; 1864; 陝西全圖 1幅; [China; 武昌]
+PPN3346158039; 1864; 甘肅全圖 1幅; [China; 武昌]
+PPN3346158055; 1864; 新疆圖 1幅; [China; 武昌]
+PPN3346158071; 1864; 安徽全圖 1幅; [China; 武昌]
+PPN3346158098; 1864; 河南全圖 1幅; [China; 武昌]
+PPN334615811X; 1864; 四川全圖 1幅; [China; 武昌]
+PPN3346158136; 1864; 江蘇全圖 1幅; [China; 武昌]
+PPN3346158152; 1864; 浙江全圖 1幅; [China; 武昌]
+PPN3346158179; 1864; 湖北全圖 1幅; [China; 武昌]
+PPN3346158195; 1864; 湖北全圖 1幅; [China; 武昌]
+PPN3346158217; 1864; 湖南全圖 1幅; [China; 武昌]
+PPN3346158233; 1864; 貴州全圖 1幅; [China; 武昌]
+PPN334615825X; 1864; 雲南全圖 1幅; [China; 武昌]
+PPN3346158276; 1864; 福建全圖 1幅; [China; 武昌]
+PPN3346158292; 1864; 廣東全圖 1幅; [China; 武昌]
+PPN3346158314; 1864; 廣西全圖 1幅; [China; 武昌]
+PPN3346158330; 1864; 吉林圖 1幅; [China; 武昌]
+PPN3346158357; 1864; 黑龍江所屬各城圖 1幅; [China; 武昌]
+PPN3346158373; 1864; 内外蒙古圖 1幅; [China; 武昌]
+PPN334615839X; 1864; 嘉峪關外鎮迪伊犁合圖 1幅; [China; 武昌]
+PPN3346158411; 1864; 嘉峪關外安西青海合圖 1幅; [China; 武昌]
+PPN3346158438; 1864; 西藏全圖 1幅; [China; 武昌]
+PPN3346158535; 17XX; [中仙道]; s.l.; none
+PPN3346158543; 18XX; 実測日本地図; s.l.; none
+PPN3346158551; 1843; 富士見十三州輿地之全図+12; 江戸; 衆星堂 [シュウセイドウ]
+PPN334615856X; 1854; 蝦夷闔境輿地全図; 江戸; 播磨屋勝五郎 [ハリマヤ カツゴロウ]
+PPN3346158578; 1859; 蝦夷松前一円図; 江戸; 文亀堂 [ブンキドウ]
+PPN3346158594; 1848; 路程便覧; s.l.; 英華堂 [エイカドウ]
+PPN3346228800; 1865; 大日本国細図 2帖; 京都; 勝村治右衛門 [カツムラ ジエモン]
+PPN3346228819; 1849; 大日本国郡輿地全図; 江戸; 紅英堂 蔦屋吉藏 [コウエイドウ ツタヤ キチゾウ]
+PPN3346228827; 1859; 神奈川港 ... 明細大絵図; 横浜; 新栄堂 [シンエイドウ]
+PPN3346228835; 1859; 神奈川港 ... 明細大絵図; 横浜; 新栄堂 [シンエイドウ]
+PPN3346228843; 1859; 神奈川港 ... 明細大絵図; 横浜; 新栄堂 [シンエイドウ]
+PPN3346228851; 1854; 蝦夷全図; 江戸; 山城屋佐兵衛 [ヤマシロヤ サヘエ]
+PPN334622922X; 1901; 湖北輿地圖 4卷 173幅; none; none
+PPN3346229351; 18XX; 廣東輿地總圖 附 廣東省城圖; none; none
+PPN3346229408; 1824; 首善全圖; none; none
+PPN3346229424; 1829; 京板天地全圖; none; none
+PPN3358578798; 1869; 萬世御東京繪圖; 東京; 萬屋庄助 [ヨロズヤ ショウスケ] 他
+PPN3358578992; 1800; [吉林界圖]; s.l. [China]; none
+PPN335857900X; 1800; 靖邊後路左營馬隊駐紮農安縣等處山川形勢圖; s.l. [China]; none
+PPN3358579018; 1800; 吉林蒙江招墾局五社十五甲全圖; s.l. [China]; none
+PPN3358579026; 1900; 哈爾濱鐵路公司圈展地圖說; s.l. [China]; none
+PPN635271559; 1886; Berghaus' physikalischer Atlas; 75 Karten in sieben Abteilungen, enthaltend mehrere 100 Darstellungen über Geologie, Hydrographie, Meteorologie, Erdmagnetismus, Pflanzenverbreitung, Tierverbreitung und Völkerkunde; Gotha; Perthes
+PPN635271656; 1892; Atlas der Geologie; 75 Karten in sieben Abteilungen, enthaltend mehrere 100 Darstellungen über Geologie, Hydrographie, Meteorologie, Erdmagnetismus, Pflanzenverbreitung, Tierverbreitung und Völkerkunde; Gotha; Perthes
+PPN635271710; 1891; Atlas der Hydrographie; 75 Karten in sieben Abteilungen, enthaltend mehrere 100 Darstellungen über Geologie, Hydrographie, Meteorologie, Erdmagnetismus, Pflanzenverbreitung, Tierverbreitung und Völkerkunde; Gotha; Perthes
+PPN635272105; 1892; Atlas der Volkerkunde; 15 Karten; Gotha; Perthes
+PPN641241852; 1895; Sketch of the Paris Gigantic Wheel; 320 feet high; Paris; Gigantic Wheel & Varieties Comp.
+PPN641257392; 1891; Carta dimostrativa della regionne compresa fra Massaua, Keren, Aksum e Adigrat; Roma; Istituto Cartografico Italiano
+PPN641259395; 1890; Karte des Kreises Neisse; Neisse; Graveur
+PPN647535505; 1877; China; Ergebnisse eigener Reisen und darauf gegründeter Studien; Berlin; Reimer
+PPN659391252; 1836; An historical atlas ; in a series of maps of the world as known at different periods; accompanied by a narrative... forming together a general view of universal history...; London; Seeley and Burnside
+PPN755424999; 1918; Etappenkarte der 4. Armee; Etappenkarte Nr. 13; Konstantinopel; none
+PPN755684842; 1919; Die am 7. Mai überreichten Friedensbedingungen der Entente; (dargestellt auf Grundlage einer Karte des Deutschen Reiches); Berlin; Reimer
+PPN755684842; 1919; Die am 7. Mai überreichten Friedensbedingungen der Entente; (dargestellt auf Grundlage einer Karte des Deutschen Reiches); Berlin; none
+PPN755901126; 1914; Flemmings Kriegskarte; Berlin [u.a.]; Flemming
+PPN755905458; 1914; Serbien und Montenegro; Berlin [u.a.]; Flemming
+PPN755906756; 1914; Westliches Russland; mit den deutschen, österreichisch-ungarischen und russischen Grenzgebieten; Berlin [u.a.]; Flemming
+PPN755907205; 1914; Flemmings Deutsch-französisch-russische Kriegskarte; Berlin [u.a.]; Flemming
+PPN755908090; 1914; Flemmings Spezialkarte für den Deutsch-Französischen Krieg; Berlin [u.a.]; Flemming
+PPN755908554; 1914; Flemmings Deutsch-englisch-französisch-russische Seekriegskarte; Berlin [u.a.]; Flemming
+PPN755910281; 1914; Das Österreichisch-Russische Grenzgebiet; Berlin [u.a.]; Flemming
+PPN755910729; 1916; Flemmings Karte für den ostasiatischen Kriegsschauplatz; Berlin [u.a.]; Flemming
+PPN75591158X; 1918; Flemmings Übersichtskarte für den europäischen Kriegsschauplatz; Berlin [u.a.]; Flemming
+PPN755912187; 1918; Flemmings Kriegskarte der Balkanländer; Berlin [u.a.]; Flemming
+PPN755919947; 1915; China, Japan und Südasien; Berlin [u.a.]; Flemming
+PPN755920724; 1915; Flemmings Karte von Mexiko; Berlin [u.a.]; Flemming
+PPN755921178; 1915; Europäische Türkei, Dardanellen und Bosporus; Berlin [u.a.]; Flemming
+PPN755921801; 1915; Italienisch-Oesterreichischer Kriegsschauplatz; Nord- und Mittel-Italien; Berlin [u.a.]; Flemming
+PPN755923359; 1915; Süditalien und die Adriaküsten; Berlin [u.a.]; Flemming
+PPN756248043; 1917; Karte von Frankreich; Berlin [u.a.]; Flemming
+PPN756248086; 1916; Spezialkarte der mittleren Westfront; Berlin [u.a.]; Flemming
+PPN756248124; 1916; Griechenland; Berlin [u.a.]; Flemming
+PPN756248183; 1916; Die russischen Ostseeprovinzen; das alte Deutschordensland und die benachbarten Gebiete von Ostpreußen bis St.Petersburg; Berlin [u.a.]; Flemming
+PPN756248248; 1916; Rumänien und Nachbargebiete; Berlin [u.a.]; Flemming
+PPN756248299; 1916; Spezialkarte der rumänischen Kriegsschauplätze; Berlin [u.a.]; Flemming
+PPN756249341; 1917; Europäisches Russland; Übersicht aller russischen Kriegsschauplätze in Europa und im Kaukasus; Berlin [u.a.]; Flemming
+PPN756249481; 1917; Karte von Bessarabien und der Moldau; Berlin [u.a.]; Flemming
+PPN756249589; 1916; U-Boot-Kriegskarte von Europa; Berlin [u.a.]; Flemming
+PPN756249732; 1917; Kriegs-Weltkarte; Berlin [u.a.]; Flemming
+PPN756249872; 1917; Italienischer Kriegsschauplatz; Berlin [u.a.]; Flemming
+PPN75625003X; 1917; Littauen, Kurland und Livland; Berlin [u.a.]; Flemming
+PPN756250196; 1917; Flemmings Spezialkarte der südlichen Westfront; Berlin [u.a.]; Flemming
+PPN756252601; 1915; Spezialkarte der nördlichen Westfront; Berlin [u.a.]; Flemming
+PPN756253063; 1915; Spezialkarte der südlichen Westfront; Berlin [u.a.]; Flemming
+PPN756253349; 1915; West-Kurland, Litauen und Ostpreussen; Berlin [u.a.]; Flemming
+PPN756253608; 1915; Westrussland; Berlin [u.a.]; Flemming
+PPN756253837; 1915; Serbien und Mazedonien; mit den Nachbargebieten; Berlin [u.a.]; Flemming
+PPN756254353; 1915; Aegypten und Sueskanal; mit Uebersichten des Mohammedanischen Orients; Berlin [u.a.]; Flemming
+PPN756255503; 1914; Flemmings Karte für das türkische Interessen-Gebiet; die Türkei und die Grenzgebiete mit Rußland, Balkanstaaten, Großbritannien, Italien, Serbien; Berlin [u.a.]; Flemming
+PPN756256623; 1914; Flemmings Karte von Britisch-Indien; Berlin [u.a.]; Flemming
+PPN756259509; 1914; England und die französische-belgischen Kanalküsten; Berlin [u.a.]; Flemming
+PPN756260337; 1915; Der Kriegsschauplatz in Polen; Berlin [u.a.]; Flemming
+PPN756271592; 1914; Flemmings Karte des Schwarzen Meeres, des Kaukasus und Südrussland; Berlin [u.a.]; Flemming
+PPN756272181; 1917; Das russische Kriegsgebiet zwischen Ostsee und Schwarzem Meer; Berlin [u.a.]; Flemming
+PPN756272610; 1915; Das russische Kriegsgebiet zwischen Ostsee und Schwarzem Meer; Berlin [u.a.]; Flemming
+PPN756273013; 1917; Südwestrussland; Berlin [u.a.]; Flemming
+PPN756274168; 1918; Flemmings Grosse Karte der Westfront - Nordhälfte; (Paris und Umgebung bis zur Nordsee); Berlin [u.a.]; Flemming
+PPN756274869; 1918; Flemmings Karte des italienischen Kriegsschauplatzes; Berlin [u.a.]; Flemming
+PPN756329744; 1918; Spezialkarte des nordischen Kriegsschauplatzes; Berlin [u.a.]; Flemming
+PPN756329779; 1918; Flemmings Grosse Karte der Westfront - Südhälfte; (Reims bis Belfort); Berlin [u.a.]; Flemming
+PPN756329817; 1918; Flemmings Kriegskarte von Frankreich; Berlin [u.a.]; Flemming
+PPN756329833; 1923; Die neuen Staatenbildungen im Osten und das russische Kriegsgebiet zwischen Ostsee und Schwarzem Meer; Berlin [u.a.]; Flemming
+PPN756329868; 1917; Wenn sie siegten!; Berlin; Pasch
+PPN756329981; 1919; Flemmings Friedenskarten; Berlin [u.a.]; Flemming
+PPN75632999X; 1918; Politisch-geographische Grundlagen Europas für Friedensbetrachtungen; Berlin [u.a.]; Flemming
+PPN756331102; 1920; Die amtlichen Karten zum Friedensvertrage; Berlin-Charlottenburg; Deutsche Verl. Ges. für Politik und Geschichte
+PPN756331196; 1920; Die Grenzen Deutschlands nach dem Friedensvertrage; Berlin-Charlottenburg; Deutsche Verl. Ges. für Politik und Geschichte
+PPN756331536; 1920; Das Saargebiet; Berlin-Charlottenburg; Deutsche Verl. Ges. für Politik und Geschichte
+PPN756333172; 1920; Schleswig; Berlin-Charlottenburg; Deutsche Verl. Ges. für Politik und Geschichte
+PPN756333407; 1920; Danzig; Berlin-Charlottenburg; Deutsche Verl. Ges. für Politik und Geschichte
+PPN756431409; 1919; Karte zum Friedensschluss; Leipzig; Wagner & Debes
+PPN756431441; 1919; Die Fremdvölker in Deutschland und was die Feinde uns wegnehmen wollen; Leipzig; Wagner & Debes
+PPN756558395; 1919; [Die deutschen] Abstimmungsgebiet[e nach dem 1. Weltkrieg]; [Berlin]; none
+PPN756558638; 1919; Abstimmungsgebiet in Schleswig; [Berlin]; none
+PPN756559189; 1919; Abstimmungsgebiet Oberschlesien; [Berlin]; none
+PPN75656543X; 1919; Abstimmungsgebiet Ostpreußen; [Berlin]; none
+PPN756585473; 1919; Abstimmungsgebiet Westpreußen u. Danzig; [Berlin]; none
+PPN767804317; 1914; Karte von Europa im Jahre ...; Hamburg; Fuchs
+PPN767804333; 1914; Karte von Europa im Jahre 1870 nach einem französischen Holzschnitte; Hamburg; Fuchs
+PPN767804341; 1914; Karte von Europa im Jahre 1914; Hamburg; Fuchs
