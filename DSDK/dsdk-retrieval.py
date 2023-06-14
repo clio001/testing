@@ -9,7 +9,7 @@ set_spec = "kolonialbibliothek"
 resumption_token = None
 
 f = open('ub-frankfurt.txt', 'w', encoding="utf-8")
-f.write("Identifier; Jahr; Titel; Relation"  + '\n')
+f.write("Identifier; Jahr; Titel; Description; Publisher; Relation"  + '\n')
 
 i = 1
 
@@ -38,6 +38,20 @@ while True:
                 elementTag = record.findall(".//{http://purl.org/dc/elements/1.1/}date")
                 if elementTag:
                     date = elementTag[0].text
+                else:
+                    date = "none"
+                
+                elementTag = record.findall(".//{http://purl.org/dc/elements/1.1/}description")
+                if elementTag:
+                    description = elementTag[0].text
+                else:
+                    descritpion = "none"
+                
+                elementTag = record.findall(".//{http://purl.org/dc/elements/1.1/}publisher")
+                if elementTag:
+                    publisher = elementTag[0].text
+                else:
+                    publisher = "none"
                     
                 elementTag = record.findall(".//{http://purl.org/dc/elements/1.1/}title")
                 if elementTag:
@@ -58,7 +72,7 @@ while True:
                 else:
                     identifier = "none"
                 
-                entry = identifier + "; " + date + "; " + title + "; " + relation
+                entry = identifier + "; " + date + "; " + title + "; " + description + "; " + publisher + "; " + relation
                 f.write(entry  + '\n')     
               
             
