@@ -1,12 +1,21 @@
 import requests, xml.etree.ElementTree as ET, datetime
 
-
 # Parameter fuer API-Abfrage
 base_url = "https://oai.sbb.berlin/"
 
 verb = "ListRecords"
 metadata_prefix = "oai_dc"
-set_spec = "all"
+set_spec = "inkunabeln"
+
+# Quelldatei oeffnen und PPNs in List einlesen
+sourcefile = open('bestandsppns.txt', 'r')
+lines = sourcefile.readlines()
+
+ppnList = []
+for line in lines:
+    ppnList.append(line.split('\n')[0])
+print(ppnList)
+
 
 # Erstelle Datei
 date_and_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -18,7 +27,7 @@ f.write("DigiPPN; PhysPPN; Resolver-URL; Jahr; Titel; AutorIn; Verlag" + '\n')
 resumption_token = None
 page = 1
 hits = 0
-ppn = "PPN536544255"
+
 
 
 print("""
@@ -29,20 +38,24 @@ print("""
 
 ||||||||||||||||||||||||||||||||||||||||||||||
 
-Version 0.0.1
+Version 0.0.1 (August 2023)
 https://oai.sbb.berlin
 Kontakt: john.woitkowitz@spk.sbb-berlin.de
 
       """)
 
+print(f"Set: {set_spec}")
+
 print(f"Datei erstellt: {filename}")
 
 print("""
-Bestand wird abgeglichen ...
+Abgleich gestartet ...
 """)
 
+# API-Abfrage mit Resumption-Token
 while True:
     print(f"Seite {page}")
+    page = page + 1
     if resumption_token:
         request_url = f'{base_url}?verb={verb}&resumptionToken={resumption_token}'
     else:
@@ -53,18 +66,20 @@ while True:
     result = response.content.decode('utf-8')
             
     root = ET.fromstring(result)
-    
+     
     if root[1].text == "0":
         print("Es wurden keine Eintraege gefunden.")
         
     else:
         ListRecords = root[2]
         
+        element = ListRecords[len(ListRecords) - 1]
+        resumption_token = element.text
+                
         for record in ListRecords:
             elementTag = record.findall(".//{http://purl.org/dc/elements/1.1/}identifier")
             for identifier in elementTag:
-                
-                if identifier.text == ppn:
+                if identifier.text in ppnList:
                     hits = hits + 1
                     print("---")
                     print("Treffer: " + str(identifier.text))
@@ -106,14 +121,19 @@ while True:
                     
                     entry = digitalPPN + "; " + physicalPPN + "; " + resolver_url + "; " + date + "; " + title + "; " + creator + "; " + publisher + "; "
                     f.write(entry + '\n')
+                    
+                    break
             
             
             page = page + 1
         
+        
         print("""
+Abgleich abgeschlossen!
+
 Ergebnis:
-- - - - - -
-              """)
+- - - - - -""")
         print(f"Abgleiche: {page}")
         print(f"Treffer: {hits}")
-        break   
+        print("")
+         
