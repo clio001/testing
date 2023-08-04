@@ -1,0 +1,2 @@
+DigiPPN; PhysPPN; Resolver-URL; Jahr; Titel; AutorIn; Verlag
+PPN1000390861; PPN536544255; http://resolver.staatsbibliothek-berlin.de/SBB00020CDC00000000; 1695; Heylsame Seelen-Artzney; Bey Hoch-ansehnlich-Adelichem Leich-Begängniß Des ... Herrn H: Christoph von dem Busch/ Der Hohen Thumb-Kirchen zu Halberstadt und Minden Erb-Capitularn ... Des folgenden Tages nach geschehener Beerdigung des entseelten Leichnambs/ war der 28. Tag Aprilis, 1695. Aus den Worten Esa. XXXVIII.17. Sihe/ umb Trost [et]c. ... gezeiget; Wöbeking, Ernest-Georg; Schorlemmer, Gerhard; 

@@ -1,0 +1,39 @@
+PPN; Jahr; Titel; Publisher
+PPN1013848454; 1700; Theologische Sammelhandschrift; none
+PPN1810841631; 1925; Inkishafi; none
+PPN757222226; 16XX; Homilien und Legenden; none
+PPN776713256; 1937; Utenzi wa Abdurrahmani na Sufyani; none
+PPN776713701; 1937; Utenzi wa kutawafu; none
+PPN776733834; 1900; Geschichte Usambaras; none
+PPN776733877; 1900; Bericht über das Volk der Digo; none
+PPN788663208; 1936; Swahili Sammelhandschrift; none
+PPN78882564X; 1891; Kitabu Mauludi; none
+PPN791917568; 1600; Äthiopische Sammelhandschrift; none
+PPN791918181; 1800; Biblia <äthiop>; none
+PPN791918785; 1400; Äthiopische Sammelhandschrift; none
+PPN796464243; 1500; Homiliensammlung zu Heiligen- und Festtagen; none
+PPN798796987; 1600; Äthiopische Sammelhandschrift; none
+PPN798797940; 1900; Äthiopische Sammelhandschrift; none
+PPN799375187; 1700; Georg Walda Amid und Terguame Raja Johannes; none
+PPN799375349; 1700; Kalender und Geschichtstafeln; none
+PPN799375489; 1600; Äthiopische Sammelhandschrift; none
+PPN799375586; 1600; Äthiopische Sammelhandschrift; none
+PPN813255511; 1800; Äthiopische Sammelhandschrift; none
+PPN847303721; 1600; Äthiopische Sammelhandschrift; none
+PPN863180108; 1400; Zaubergebete, Teil des Weddase Maryam (Lobpreis Marias); none
+PPN863180523; 1800; Äthiopische Zauberrolle; none
+PPN863181112; 1500; Leben und Wunder des heiligen Gabra Manfas Qeddus; none
+PPN87292579X; 1500; Äthiopische theologische Sammelhandschrift; none
+PPN873039386; 1517; Aragawi Manfasawi; none
+PPN875583660; 1700; Äthiopische theologische Sammelhandschrift; none
+PPN875705472; 1300; Äthiopische theologische Sammelhandschrift; none
+PPN880890533; 1800; Äthiopische religiöse Sammelhandschrift; none
+PPN880986085; 1700; Äthiopische Gebete und Hymnen; none
+PPN881586552; 1600; Sammlung biblischer und anderer religiöser Texte; none
+PPN88159380X; 1800; Evangelium nach Johannes; none
+PPN881615390; 1500; Buch Henoch; none
+PPN881716936; 1700; Zaubergebete in Rollenform; none
+PPN884834433; 1600; Gottesdienstordnung und kirchliche Gesänge : äthiopische Sammelhandschrift; none
+PPN888003803; 1800; Terguâmê Wangêl = Erklärung zum Evangelium; none
+PPN895414589; 1600; Hymnus und Gebete; none
+PPN895564718; 1600; Mar Isaac und Philexius : äthiopische theologische Sammelhandschrift; none
