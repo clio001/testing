@@ -55,7 +55,7 @@ Abgleich gestartet ...
 # API-Abfrage mit Resumption-Token
 while True:
     print(f"Seite {page}")
-    page = page + 1
+    
     if resumption_token:
         request_url = f'{base_url}?verb={verb}&resumptionToken={resumption_token}'
     else:
@@ -125,15 +125,15 @@ while True:
                     break
             
             
-            page = page + 1
+        page = page + 1
         
         
-        print("""
+print("""
 Abgleich abgeschlossen!
 
 Ergebnis:
 - - - - - -""")
-        print(f"Abgleiche: {page}")
-        print(f"Treffer: {hits}")
-        print("")
+print(f"Abgleiche: {page}")
+print(f"Treffer: {hits}")
+print("")
          
