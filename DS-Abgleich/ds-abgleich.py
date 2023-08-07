@@ -5,7 +5,7 @@ base_url = "https://oai.sbb.berlin/"
 
 verb = "ListRecords"
 metadata_prefix = "oai_dc"
-set_spec = "inkunabeln"
+set_spec = "all"
 
 # Quelldatei oeffnen und PPNs in List einlesen
 sourcefile = open('bestandsppns.txt', 'r')
@@ -26,6 +26,7 @@ f.write("DigiPPN; PhysPPN; Resolver-URL; Jahr; Titel; AutorIn; Verlag" + '\n')
 
 resumption_token = None
 page = 1
+numberRecords = 0
 hits = 0
 
 
@@ -73,18 +74,32 @@ while True:
     else:
         ListRecords = root[2]
         
+        numberRecords = numberRecords + len(ListRecords) - 1
+        
         element = ListRecords[len(ListRecords) - 1]
-        resumption_token = element.text
+        if "resumptionToken" in element.tag:
+            resumption_token = element.text
+        else:
+            resumption_token = None
+            print("""
+Abgleich abgeschlossen!
+
+Ergebnis:
+- - - - - -""")
+            print(f"Abgleiche: {numberRecords}")
+            print(f"Treffer: {hits}")
+            print("")
+            break
                 
         for record in ListRecords:
             elementTag = record.findall(".//{http://purl.org/dc/elements/1.1/}identifier")
             for identifier in elementTag:
-                if identifier.text in ppnList:
+                if identifier.text.replace("PPN", "") in ppnList:
                     hits = hits + 1
                     print("---")
                     print("Treffer: " + str(identifier.text))
                     print("---")
-                    physicalPPN = identifier.text
+                    physicalPPN = identifier.text.replace("PPN", "")
                     
                     listIDs = []
                     
@@ -128,12 +143,5 @@ while True:
         page = page + 1
         
         
-print("""
-Abgleich abgeschlossen!
 
-Ergebnis:
-- - - - - -""")
-print(f"Abgleiche: {page}")
-print(f"Treffer: {hits}")
-print("")
          
