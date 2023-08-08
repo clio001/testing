@@ -5,7 +5,7 @@ base_url = "https://oai.sbb.berlin/"
 
 verb = "ListRecords"
 metadata_prefix = "oai_dc"
-set_spec = "all"
+set_spec = "krieg.1914.1918"
 
 # Quelldatei oeffnen und PPNs in List einlesen
 sourcefile = open('bestandsppns.txt', 'r')
@@ -13,16 +13,15 @@ lines = sourcefile.readlines()
 
 ppnList = []
 for line in lines:
-    ppnList.append(line.split('\n')[0])
-print(ppnList)
-
+    ppnList.append("PPN" + line.split('\n')[0])
+    
 
 # Erstelle Datei
 date_and_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
 filename = f"ds-abgleich.csv"
 f = open(filename, 'w', encoding="utf-8")
-f.write("DigiPPN; PhysPPN; Resolver-URL; Jahr; Titel; AutorIn; Verlag" + '\n')
+f.write("DigiPPN; PhysPPN; Resolver-URL; Sets; Jahr; Titel; AutorIn; Verlag" + '\n')
 
 resumption_token = None
 page = 1
@@ -55,7 +54,7 @@ Abgleich gestartet ...
 
 # API-Abfrage mit Resumption-Token
 while True:
-    print(f"Seite {page}")
+    print(f"Titel abgeglichen: {numberRecords}", end='\r')
     
     if resumption_token:
         request_url = f'{base_url}?verb={verb}&resumptionToken={resumption_token}'
@@ -92,14 +91,21 @@ Ergebnis:
             break
                 
         for record in ListRecords:
+            
+            setElements = record.findall(".//{http://www.openarchives.org/OAI/2.0/}setSpec")
+            dsSets = ""
+            for element in setElements:
+                dsSets = dsSets + " " + element.text
+            
             elementTag = record.findall(".//{http://purl.org/dc/elements/1.1/}identifier")
             for identifier in elementTag:
-                if identifier.text.replace("PPN", "") in ppnList:
+                if identifier.text in ppnList:
                     hits = hits + 1
                     print("---")
                     print("Treffer: " + str(identifier.text))
+                    print("Sets: " + dsSets)
                     print("---")
-                    physicalPPN = identifier.text.replace("PPN", "")
+                    physicalPPN = identifier.text
                     
                     listIDs = []
                     
@@ -132,9 +138,15 @@ Ergebnis:
                     if elementTag:
                         publisher = elementTag[0].text
                     else:
-                        publisher = "keine Angabe"   
+                        publisher = "keine Angabe"
                     
-                    entry = digitalPPN + "; " + physicalPPN + "; " + resolver_url + "; " + date + "; " + title + "; " + creator + "; " + publisher + "; "
+                    elementTag = record.findall(".//{http://purl.org/dc/elements/1.1/}publisher")
+                    if elementTag:
+                        publisher = elementTag[0].text
+                    else:
+                        publisher = "keine Angabe"      
+                    
+                    entry = digitalPPN + "; " + physicalPPN + "; " + resolver_url + "; " + dsSets + "; " + date + "; " + title + "; " + creator + "; " + publisher + "; "
                     f.write(entry + '\n')
                     
                     break

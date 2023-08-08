@@ -1,4 +1,18 @@
-DigiPPN; PhysPPN; Resolver-URL; Jahr; Titel; AutorIn; Verlag
-PPN1007280662; PPN1007280662; http://resolver.staatsbibliothek-berlin.de/SBB0002143000000000; 1482; Manuale. Daran: Psalterium. Septem psalmi ad laudem Marie; Pseudo-Augustinus, Aurelius; Heinrich Quentell; 
-PPN1007304456; PPN1007304456; http://resolver.staatsbibliothek-berlin.de/SBB0002145400000000; 1487; De vitiis et virtutibus; Thomas <von Aquin, Heiliger>; Konrad Kachelofen; 
-PPN1007314516; PPN1007314516; http://resolver.staatsbibliothek-berlin.de/SBB0002146A00000000; 1497; Evangeliorum libri. Mit Beig. von Francesco Petrarca und Hermannus Buschius; Iuvencus, Gaius Vettius Aquilinus; Jakob von Breda; 
+DigiPPN; PhysPPN; Resolver-URL; Sets; Jahr; Titel; AutorIn; Verlag
+PPN755313720; PPN751893242; http://resolver.staatsbibliothek-berlin.de/SBB0000E76100000000;  krieg.1914.1918 historische.drucke; 1915; Karte der Umgebung von Daressalam; Angefertigt im April 1913 vom Vermessungsbüro Daressalam; keine Angabe; Reimer; 
+PPN755380444; PPN75189284X; http://resolver.staatsbibliothek-berlin.de/SBB0000E77F00000000;  krieg.1914.1918 historische.drucke; 1906; Karte zur Übersicht der Eisenbahn Duăla-Manengubagebirge; bearbeitet auf Grundlage der amtlichen und sonstigen Aufnahmen; keine Angabe; Reimer; 
+PPN755380673; PPN75189222X; http://resolver.staatsbibliothek-berlin.de/SBB0000E78000000000;  krieg.1914.1918 historische.drucke; 1914; Tanganjikabahn; (östliches Blatt); keine Angabe; Reimer; 
+PPN755380924; PPN751891835; http://resolver.staatsbibliothek-berlin.de/SBB0000E78200000000;  krieg.1914.1918 historische.drucke; 1914; Tanganjikabahn; (westliches Blatt); keine Angabe; Reimer; 
+PPN75566454X; PPN751526029; http://resolver.staatsbibliothek-berlin.de/SBB0000E83200000000;  krieg.1914.1918 historische.drucke; 1914; Pflanzung Gomba; keine Angabe; Reimer; 
+PPN755665716; PPN75151523X; http://resolver.staatsbibliothek-berlin.de/SBB0000E83700000000;  krieg.1914.1918 historische.drucke; 1914; Skizze der Plantage Kikwetu; keine Angabe; keine Angabe; 
+PPN755666097; PPN751515701; http://resolver.staatsbibliothek-berlin.de/SBB0000E83800000000;  krieg.1914.1918 historische.drucke; 1914; Kamerun; keine Angabe; keine Angabe; 
+PPN755666496; PPN751518085; http://resolver.staatsbibliothek-berlin.de/SBB0000E83A00000000;  krieg.1914.1918 historische.drucke; 1914; Kamerun; keine Angabe; Reimer; 
+PPN75566678X; PPN751519189; http://resolver.staatsbibliothek-berlin.de/SBB0000E83B00000000;  krieg.1914.1918 historische.drucke; 1914; Eisenbahn- und Schiffahrtskarte für Kamerun; keine Angabe; Reimer; 
+PPN755667026; PPN751520039; http://resolver.staatsbibliothek-berlin.de/SBB0000E83C00000000;  krieg.1914.1918 historische.drucke; 1914; Französische Konzessionsgesellschaften in Kamerun; keine Angabe; keine Angabe; 
+PPN755667239; PPN751520578; http://resolver.staatsbibliothek-berlin.de/SBB0000E83D00000000;  krieg.1914.1918 historische.drucke; 1914; Karte des Landbesitzes und der Minengerechtsame in Deutsch-Südwestafrika; keine Angabe; Reimer; 
+PPN755667409; PPN751519588; http://resolver.staatsbibliothek-berlin.de/SBB0000E83E00000000;  krieg.1914.1918 historische.drucke; 1914; Kautschukkarte von Kamerun; keine Angabe; keine Angabe; 
+PPN755667670; PPN751526932; http://resolver.staatsbibliothek-berlin.de/SBB0000E83F00000000;  krieg.1914.1918 historische.drucke; 1914; Kultur Plan der Pflanzung Tanga; keine Angabe; keine Angabe; 
+PPN755882792; PPN751526576; http://resolver.staatsbibliothek-berlin.de/SBB0000E94E00000000;  krieg.1914.1918 historische.drucke; 1914; Skizze der Pflanzung Mitwero; keine Angabe; keine Angabe; 
+PPN755882903; PPN751518964; http://resolver.staatsbibliothek-berlin.de/SBB0000E94F00000000;  krieg.1914.1918 historische.drucke; 1914; Übersichtskarte des Gebietes der Sigi-Pflanzungs-Gesellschaft in Essen a. d. Ruhr; keine Angabe; keine Angabe; 
+PPN755883284; PPN751514934; http://resolver.staatsbibliothek-berlin.de/SBB0000E95200000000;  krieg.1914.1918 historische.drucke; 1920; Kautschukkarte von Deutsch-Ostafrika; keine Angabe; keine Angabe; 
+PPN755883381; PPN751521167; http://resolver.staatsbibliothek-berlin.de/SBB0000E95300000000;  krieg.1914.1918 historische.drucke; 1914; Kautschukkarte von Togo; keine Angabe; Reimer; 
