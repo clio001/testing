@@ -1,3 +1,8 @@
+# Version 0.0.1 (August 2023)
+# https://oai.sbb.berlin
+# Kontakt: john.woitkowitz@spk.sbb-berlin.de
+
+
 import requests, xml.etree.ElementTree as ET, datetime
 
 # Parameter fuer API-Abfrage
@@ -19,7 +24,7 @@ for line in lines:
 # Erstelle Datei
 date_and_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
-filename = f"ds-abgleich.csv"
+filename = "ds-abgleich.csv"
 f = open(filename, 'w', encoding="utf-8")
 f.write("DigiPPN; PhysPPN; Resolver-URL; Sets; Jahr; Titel; AutorIn; Verlag" + '\n')
 
@@ -37,10 +42,6 @@ print("""
     Digitale Sammlungen der SBB
 
 ||||||||||||||||||||||||||||||||||||||||||||||
-
-Version 0.0.1 (August 2023)
-https://oai.sbb.berlin
-Kontakt: john.woitkowitz@spk.sbb-berlin.de
 
       """)
 
