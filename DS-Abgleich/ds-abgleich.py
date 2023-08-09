@@ -140,12 +140,7 @@ Ergebnis:
                         publisher = elementTag[0].text
                     else:
                         publisher = "keine Angabe"
-                    
-                    elementTag = record.findall(".//{http://purl.org/dc/elements/1.1/}publisher")
-                    if elementTag:
-                        publisher = elementTag[0].text
-                    else:
-                        publisher = "keine Angabe"      
+                             
                     
                     entry = digitalPPN + "; " + physicalPPN + "; " + resolver_url + "; " + dsSets + "; " + date + "; " + title + "; " + creator + "; " + publisher + "; "
                     f.write(entry + '\n')
