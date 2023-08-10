@@ -10,7 +10,7 @@ base_url = "https://oai.sbb.berlin/"
 
 verb = "ListRecords"
 metadata_prefix = "oai_dc"
-set_spec = "krieg.1914.1918"
+set_spec = "all"
 
 # Quelldatei oeffnen und PPNs in List einlesen
 sourcefile = open('bestandsppns.txt', 'r')
