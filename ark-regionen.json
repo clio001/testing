@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Asien",
+    "notationRange": "Uk 1 - Up 11020",
+    "numberRecords": 41217
+  },
+  {
+    "id": 2,
+    "name": "Afrika",
+    "notationRange": "Uq 1 - [Us 9990]",
+    "numberRecords": 16201,
+    "subCollections": [
+      {
+        "name": "Reisen",
+        "notationRange": "Uq 420 - Uq 644/1230",
+        "numberRecords": 432,
+        "subCollections": [
+          {
+            "name": "Sammlungen - Entdeckungsgeschichte",
+            "notationRange": "Uq 420 - Uq 526/310",
+            "numberRecords": 115
+          },
+          {
+            "name": "Einzelne Reisen",
+            "notationRange": "Uq 529 - Uq 644/1230",
+            "numberRecords": 317
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amerika",
+    "notationRange": "Ut 3 - Uy 9942",
+    "numberRecords": 32834
+  },
+  {
+    "id": 4,
+    "name": "Australien",
+    "notationRange": "Uz 1 - Uz 10121",
+    "numberRecords": 2372
+  }
+]
