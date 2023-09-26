@@ -1,21 +1,27 @@
 import pandas as pd
 
-systemstelle = "U"
-titel = "afrika"
-start = 5230 # Start-Signatur
-ende = 6458 # End-Signatur
-quelldatei = "kart-u-historische-karten.txt"
-dateiname = f"kart-u-{start}-{ende}-{titel}.csv" # Dateiname der Zieldatei
+systemstelle = "D"
+titel = "sibirien"
+start = 2050 # Start-Signatur
+ende = 3751 # End-Signatur
+quelldatei = "kart-d-asien.txt"
+dateiname = f"kart-{systemstelle}-{start}-{ende}-{titel}.csv" # Dateiname der Zieldatei
 
 sgnList = []
 
 treffer = 0
 
+# Lies CBS-Export in 'karten_df' Datenframe von Pandas
+karten_df = pd.read_csv(quelldatei, sep="\t")
+
+# Ersetze NaN in Tabelle mit eigenem Text
+karten_df["Signatur"] = karten_df["Signatur"].fillna("k.a.")
+
 print(f"""
 - - - - - - - - - - - -
 Signatur-Retrieval aus der Historischen Systematik der SBB-Kartenabteilung
 
-Systemstelle: Kart. {systemstelle}
+Systemstelle: Kart. {systemstelle}, {len(karten_df)} Exemplare (1800-1933)
 Signaturbereich: {systemstelle} {start} - {systemstelle} {ende}
 - - - - - - - - - - - -
 """)
@@ -29,16 +35,12 @@ datei = open(dateiname, 'a', encoding="utf-8")
 datei.write("PPN" + "; " + "EPN" + "; " + "Jahr" + "; " + "Titel+Zusatz" +"; " +  "Verfasser" + "; " + "Ort+Verlag" + "; " + "Umfang" + "; " +  "Basisklassifikation"+"; " +  "Schlagwort" + "; " + "ExKommentar4802" +"; " + "Schlagwort6800" + "; " + "Abrufzeichen8600"+ "; " + "Signatur" + "; " + "Standort" + "; " + "URL")
 
 
-# Lies CBS-Export in 'karten_df' Datenframe von Pandas
-karten_df = pd.read_csv(quelldatei, sep="\t")
 
-# Ersetze NaN in Tabelle mit eigenem Text
-karten_df["Signatur"] = karten_df["Signatur"].fillna("k.a.")
 
 # Schleife, um zu überprüfen, ob gesuchte Signaturen sich in der Spalte Signaturen des Dataframes 'karten_df' befinden
 
 for index, row in karten_df.iterrows():
-    print("Exemplare: ", index, end="\r")
+    print("Exemplar: ", index, end="\r")
     for sgn in sgnList:
         if str(sgn) in karten_df.loc[index, "Signatur"]:
             treffer = treffer + 1
