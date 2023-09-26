@@ -10,7 +10,7 @@ base_url = "https://oai.sbb.berlin/"
 
 verb = "ListRecords"
 metadata_prefix = "oai_dc"
-set_spec = "all"
+set_spec = "historische.drucke"
 
 # Quelldatei oeffnen und PPNs in List einlesen
 sourcefile = open('bestandsppns.txt', 'r')
